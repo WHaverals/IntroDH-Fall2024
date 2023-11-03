@@ -19,12 +19,12 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
-  - name: Monday
+  - name: Tuesday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        start: 11:00 AM
+        end: 11:20 AM
+        location: TBD
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
@@ -34,7 +34,7 @@ schedule:
         end: 2:00 PM
         location: 271 Soda
   - name: Tuesday
-  - name: Wednesday
+  - name: Thursday
     events:
       - name: Lecture
         start: 9:30 AM
@@ -49,18 +49,18 @@ schedule:
         end: 2:00 PM
         location: 271 Soda
   - name: Thursday
-  - name: Friday
-    events:
+      events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
+        start: 11:00 AM
+        end: 12:20 AM
+        location: TBD
       - name: Section
         start: 11:30 AM
         end: 12:30 PM
-        location: 310 Soda
+        location: TBD
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
-        location: 271 Soda
+        location: TBD
+  - name: Friday
 ---
