@@ -1,23 +1,13 @@
 ---
-title: Basic Data Structures
+title: Week 11 - Mastering the Wave -- Big Data and AI in Digital Humanities
 ---
 
-Oct 5
+As we navigate through the digital sea of the humanities, the emergence of ‘Big Data’ and Artificial Intelligence (AI) has posed novel and exciting challenges. In this module, we confront these developments by analyzing their impacts, potential, and the conundrums they create.
+
+Apr 16
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
+Apr 18
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }

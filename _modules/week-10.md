@@ -1,23 +1,13 @@
 ---
-title: Basic Data Structures
+title: Week 10 - Balancing the Scales -- Ethics and Equity in Digital Humanities
 ---
 
-Oct 5
+In this module, our focus shifts to the topic of ethics within the Digital Humanities. As we advance through an era characterized by rapid digitization, issues pertaining to privacy, accessibility, diversity, and inclusivity emerge as paramount and bear heavily on the conception and execution of digital projects. Our goal is to impart an understanding of these ethical considerations, enabling students to approach their future Digital Humanities ventures with both knowledge and conscientiousness.
+
+Mar 9
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
+Mar 11
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }

@@ -1,23 +1,13 @@
 ---
-title: Week 4 - Basic Data Structures
+title: Week 4 - Dive into Data, Part I -- Exploratory Data Analysis and Distant Reading
 ---
 
-Oct 5
+In this hands-on tutorial – the first part of our data analysis journey – we will be leveraging the widely acclaimed web-based Voyant Tools, known for their user-friendly, powerful capabilities for visual text analysis. This module is designed to be both instructive and engaging, providing students with practical experience using digital tools to analyze large textual data sets. Drawing inspiration from the works of El Khatib and Ross (2022), we will conduct an ecological reading of Emily Brontë’s novel Jane Eyre, and an exploratory thematic analysis of Mary Shelley’s *Frankenstein*.
+
+Feb 20
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
+Feb 22
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
