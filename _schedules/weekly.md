@@ -5,7 +5,6 @@ timeline:
   - '11:00 AM'
   - '11:30 AM'
   - '12:00 PM'
-  - '12:20 PM'
   - '12:30 PM'
   - '1:00 PM'
   - '1:30 PM'
@@ -22,7 +21,7 @@ schedule:
     events:
       - name: Lecture
         start: 11:00 AM
-        end: 12:20 AM
+        end: 12:30 AM
         location: TBD
       - name: Office Hours
         start: 4:00 PM
@@ -37,7 +36,7 @@ schedule:
     events:
       - name: Lecture
         start: 11:00 AM
-        end: 12:20 AM
+        end: 12:30 AM
         location: TBD
   - name: Friday
 ---

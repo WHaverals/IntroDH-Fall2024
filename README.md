@@ -1,27 +1,30 @@
 ---
 layout: home
-title: Just the Class
+title: Introduction to Digital Humanities
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Introduction to Digital Humanities
 ---
 
-# Just the Class
+# Introduction to Digital Humanities -- Fall 2024
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+This course offers an introduction to and an overview of the ‘big tent’ that is called Digital Humanities, emphasizing the integration of computational and quantitative methods in the study of humanities, particularly in literary studies. The course covers a range of digital tools and approaches designed to organize, explore, understand, and narrate data-driven stories. Course topics will range from a critical reflection on the boundaries – or boundlessness? – of Digital Humanities research, to the creation and preservation of digital cultural artifacts, and their dissemination and visualization in research outputs. 
+
+Theoretical and methodological aspects of this expansive field will be interspersed with the opportunity to interact with various digital tools and techniques through participation in several hands-on replication studies. Alongside these case studies, the course encourages critical examination of the wider implications of digital paradigms within the humanities. This incorporates considerations of how digital practices impact the organization of institutions, the evolution of heritage institutions, and the skillsets and training necessary for navigating the vast digital sea.
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - and a weekly [schedule](schedule.md).
-
+<!--
 Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
 
 - automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
 - instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
 - and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+
 
 ## Getting Started
 
@@ -37,3 +40,4 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 ### Local development environment
 
 Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+-->
