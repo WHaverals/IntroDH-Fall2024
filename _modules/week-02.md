@@ -1,7 +1,7 @@
 ---
 title: The Digital Transformation -- Imaging, Digitizing, and Understanding Data
 ---
-: **WEEK 2**
+**WEEK 2**
 Oct 5
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
