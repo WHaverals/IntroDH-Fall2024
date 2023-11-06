@@ -1,5 +1,5 @@
 ---
-title: WEEK 1 -- Intro to and Foundations of Digital Humanities
+title: WEEK 1 - Intro to and Foundations of Digital Humanities
 ---
 Jan 30
 : **Lecture**{: .label .label-purple }[Intro pt. 1](#)

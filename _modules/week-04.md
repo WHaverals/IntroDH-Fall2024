@@ -1,5 +1,5 @@
 ---
-title: Basic Data Structures
+title: Week 4 - Basic Data Structures
 ---
 
 Oct 5
