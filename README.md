@@ -14,12 +14,13 @@ This course offers an introduction to and an overview of the ‘big tent’ that
 
 Theoretical and methodological aspects of this expansive field will be interspersed with the opportunity to interact with various digital tools and techniques through participation in several hands-on replication studies. Alongside these case studies, the course encourages critical examination of the wider implications of digital paradigms within the humanities. This incorporates considerations of how digital practices impact the organization of institutions, the evolution of heritage institutions, and the skillsets and training necessary for navigating the vast digital sea.
 
+<!--
+
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
 - and a weekly [schedule](schedule.md).
 
-<!--
 Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
 
 - automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
