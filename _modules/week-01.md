@@ -11,4 +11,5 @@ Nov 7
 
 Feb 1
 : **Lecture**{: .label .label-purple }[Intro pt. 2](#)
-  : [slides](#)
+  : [slides](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
+  : [reading](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
