@@ -19,7 +19,7 @@ description: Reading materials and assignments for the course Introduction to Di
 author: Wouter Haverals
 baseurl: '/IntroDH2024' # the subpath of your site, e.g. /blog
 url: 'https://github.com/WHaverals' # the base hostname & protocol for your site, e.g. http://example.com
-logo: 'assets/favicon/logo-class-text.png'
+logo: 'assets/favicon/logo-class-notext.png'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
