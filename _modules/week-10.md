@@ -7,9 +7,11 @@ In this module, our focus shifts to the topic of ethics within the Digital Human
 Mar 9
 : **Lecture**{: .label .label-purple }[pt. 1](#)
   : [slides](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
+
   : [reading](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
 
 Mar 11
 : **Lecture**{: .label .label-purple }[pt. 2](#)
   : [slides](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
+  
   : [reading](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
