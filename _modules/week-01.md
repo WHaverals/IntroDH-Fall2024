@@ -6,14 +6,12 @@ In this module, we explore the contours that delineate the field known as Digita
 
 Jan 30
 : **Lecture**{: .label .label-purple }[Intro pt. 1](#)
-  : [slides](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
+  : [slides](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536) &nbsp;
 
-
-  : [reading](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
+  : [reading](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536) <br>
 
 Feb 1
 : **Lecture**{: .label .label-purple }[Intro pt. 2](#)
-  : [slides](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
-  
+  : [slides](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536) &nbsp;
 
-  : [reading](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536)
+  : [reading](https://registrar.princeton.edu/course-offerings/course-details?term=1244&courseid=013536) <br>
