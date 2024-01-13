@@ -44,3 +44,6 @@ Just the Class has been used by instructors at Stanford University ([CS 161](htt
 Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
 -->
+### Class playlist
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/10rEmitcyq5pf7mDOuRnDG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

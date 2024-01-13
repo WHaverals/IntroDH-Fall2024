@@ -29,8 +29,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  # Kevin Lin:
-    #- 'https://kevinl.info'
   #Just the Class on GitHub:
   #  - 'https://github.com/WHaverals/IntroDH2024'
 # footer_content:
@@ -74,3 +72,17 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+nav_order: 
+  - title: Course outline
+    url: /about/
+  - title: Announcements
+    url: /announcements/
+  - title: Calendar
+    url: /calendar/
+  - title: Resources
+    url: /resources/
+  - title: Assignments
+    url: /assignments/
+  - title: Policies
+    url: /policies/
