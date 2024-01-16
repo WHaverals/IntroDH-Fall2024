@@ -8,6 +8,6 @@ nav_order: 6
 
 # Digital Humanities Resources
 
-This page provides a curated list of tools and datasets that can be used for Digital Humanities projects. Whether you're interested in text analysis, data visualization, mapping, or any other area, the following resources can be incredibly useful.
+Welcome to the Resources page, a hub where a variety of materials are gethered -- ranging from intriguing datasets to analyze, experiment with, or simply explore, to tools that facilitate such analyses. Additionally, this page offers some pointers to tutorials for those who wish to further sharpen their skills or gain a deeper understanding of certain tools or methodologies. <br>
 
-Remember to explore each tool and dataset to see how they can best fit into your project or research!
+Happy exploring!
