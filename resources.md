@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 has_children: true
 nav_order: 6
-has_toc: false
+has_toc: true
 ---
 
 # Digital Humanities Resources
