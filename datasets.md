@@ -11,7 +11,7 @@ There are some great datasets out there! In this course, we will encounter and p
 
 One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), and [Kaggle](https://www.kaggle.com/datasets).
 
-In the spirit of John Donne's insight that "No man is an island," the field of Digital Humanities thrives on collaborative curation of resources. With this in mind, here are some excellent compilations of datasets put together by other scholars:
+In the spirit of John Donne's insight that ["No man is an island,"](https://allpoetry.com/No-man-is-an-island) the field of Digital Humanities thrives on collaborative curation of resources. With this in mind, here are some excellent compilations of datasets put together by other scholars:
 
 - **Sierra Eckert** provides a [curated list for an earlier iteration of this course](https://github.com/sceckert/IntroDHFall2022/blob/main/_datasets/datasets.md), which is perfect for humanities-centric explorations.
 - **Melanie Walsh** offers an extensive [compilation of datasets](https://github.com/melaniewalsh/Intro-Cultural-Analytics/blob/master/book/Datasets/Datasets.ipynb) that includes everything from Nobel Laureate data to Game of Thrones character networks.
@@ -59,6 +59,8 @@ In the spirit of John Donne's insight that "No man is an island," the field of D
 - **[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)**: A collection of metadata on over 45,000 movies, including 26 million ratings from over 270,000 users.
 
 ### Datasets curated and maintained at Princeton University 🐯
+- **[Princeton University's Center for Digital Humanities (CDH)](https://cdh.princeton.edu/)**: The CDH is a hub for digital humanities research, teaching, and learning at Princeton University. Check out their [datasets](https://cdh.princeton.edu/datasets/) and [projects](https://cdh.princeton.edu/projects/)!
+- **[Princeton University's Special Collections'](https://library.princeton.edu/special-collections/projects)**: Portal to Digital Humanities projects carried out at Princeton Univeristy, taking full advantages of some wonderful materials housed at Special Collections (https://library.princeton.edu/special-collections/projects). Also check out [this overarching search tool](https://library.princeton.edu/special-collections/catalogs-databases) for Princeton University's databases.
 - **[Princeton Prosody Archive](https://prosody.princeton.edu/)**: A collection of digitized texts for the study of prosody.
 - **[Derrida's Library Annotations](https://dataspace.princeton.edu/handle/88435/dsp01gf06g579z)**: An intimate look into the margins of Jacques Derrida's personal library, where the philosopher's handwritten notes offer a unique perspective on his thoughts and work.
 - **[Virgin Mary Tales](https://zenodo.org/record/6909569)**: A narrative compilation that spans centuries, documenting tales of the Virgin Mary within Ethiopia, Eritrea, and Egypt from 1300 to the present.
