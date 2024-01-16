@@ -22,6 +22,7 @@ In the spirit of John Donne's insight that "No man is an island," the field of D
 - **[Project Gutenberg](https://www.gutenberg.org/)**: A treasure trove of ca. 70,000 free eBooks, from classic literature to historical texts.
 - **[Gutenberg Poetry Corpus](https://github.com/aparrish/gutenberg-poetry-corpus)**: Dataset of poetry extracted from the Project Gutenberg archives.
 - **[Shakespeare's Works](https://www.folger.edu/explore/shakespeares-works/download/)**: Comprehensive access to the Bard's plays and poems, available in multiple digital formats (doc, txt, pdf, xml).
+- **[DraCor](https://dracor.org/)**: A growing collection of plays in (mostly) European languages, all encoded in TEI.
 - **[Early English Books Online](https://quod.lib.umich.edu/e/eebogroup/)**: A rich collection of titles from the dawn of printing in England until the 17th century.
 - **[HathiTrust Digital Library](https://www.hathitrust.org/)**: A repository of digitized works from research libraries around the world.
 - **[Internet Archive](https://archive.org/)**: A digital library offering books, movies, software, and more.
