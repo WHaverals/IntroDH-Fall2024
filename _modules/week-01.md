@@ -10,8 +10,6 @@ Jan 30
 
   : [reading](https://app.perusall.com/courses/introdh24/_/dashboard/assignments/eaJGcQa7hgQ59t6d8) 
 
-   <br>
-
 Feb 1
 : **Lecture**{: .label .label-blue}Foundations
   : [slides](#) &nbsp;

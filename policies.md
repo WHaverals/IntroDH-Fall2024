@@ -11,6 +11,15 @@ nav_order: 5
 
 Almost every week, we will read key texts that touch upon important themes in digital humanities, highlight specific projects, or introduce a technique/methodology. Needless to say, these readings are crucial. They not only prepare you for the content of the lessons (and I will expect you to be familiar with them) but also set the stage for our discussions. All texts will be made available through the online platform [Perusall](https://www.perusall.com/), which enables collaborative reading. You will be able to annotate the texts and comment on each other’s annotations. I will also be able to see your annotations and comments, which will help me to prepare for our discussions.
 
+## Class Meeting Types
+
+Below goes an overview of the different types of class meetings we'll have. It is important to note that discussions -- anchored by the readings -- will be part of every class meeting, regardless of the type.
+
+- **Lecture**{: .label .label-blue}: Traditional instructional sessions focusing on course material.
+- **Lab**{: .label .label-red}: Traditional instructional sessions focusing on course material.
+- **Trip**{: .label .label-green}: Educational visits to relevant locations or institutions.
+- **Present**{: .label .label-yellow}: Student presentations of their projects or research.
+
 ## Attendance and Participation
 
 Many sessions in this seminar will be discussion-based, where active participation is essential. Your responsibility includes **arriving on time, completing the readings and exercises, and being prepared for class discussions and activities**.
