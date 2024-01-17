@@ -19,3 +19,7 @@ Our primary goal in this course is to provide an introduction, but this does not
 - Assessing the **impact and implications** of digital technology on humanities disciplines.
 - Engaging critically with the **ethical issues** raised by digital projects in the humanities.
 - Developing and **presenting** a Digital Humanities project, demonstrating their understanding of the methodologies, tools, and theoretical perspectives studied in the course.
+
+# Acknowledgments
+
+This syllabus has drawn inspiration from the teaching materials of many others. A partial list of syllabi that have consulted in the process of assembling this course includes Zoe LeBlanc’s “Introduction to DH,” Meredith Martin and Rebecca Munson’s “Data, Literature, Interpretation,” Melanie Walsh’s “Introduction to Cultural Analytics & Python,” Nora Benedict’s “Introduction to Digital Humanities: Global Encounters and Perspectives,” Jim Casey’s “Weird Data,” and Miriam Posner’s “Introduction to Digital Humanities.”
