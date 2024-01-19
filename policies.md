@@ -13,18 +13,22 @@ Almost every week, we will read key texts that touch upon important themes in di
 
 ## Class Meeting Types
 
-Below goes an overview of the different types of class meetings we'll have. It is important to note that discussions -- anchored by the readings -- will be part of every class meeting, regardless of the type.
+Below goes an overview of the different types of class meetings we'll have. It is important to note that **discussions -- anchored by the readings -- will be part of every class meeting**, regardless of the type.
 
-- **Lecture**{: .label .label-blue}: Traditional instructional sessions focusing on course material.
-- **Lab**{: .label .label-red}: Traditional instructional sessions focusing on course material.
+- **Discussion**{: .label .label-blue}: Sessions that combine lecturing with guided discussions, emphasizing critical engagement with the readings.
+- **Lab**{: .label .label-red}: Hands-on sessions that apply concepts in a practical setting.
 - **Trip**{: .label .label-green}: Educational visits to relevant locations or institutions.
-- **Present**{: .label .label-yellow}: Student presentations of their projects or research.
+- **Presentation**{: .label .label-yellow}: Opportunities for students to present their projects, followed by class discussions and feedback sessions.
 
 ## Attendance and Participation
 
 Many sessions in this seminar will be discussion-based, where active participation is essential. Your responsibility includes **arriving on time, completing the readings and exercises, and being prepared for class discussions and activities**.
 
-I understand that unavoidable situations can arise: sometimes life just happens. If you must miss a class, please try to inform me in advance. You’re allowed to miss up to three classes – no questions asked. Additional absences may impact your grade, except in the case of medical or personal emergencies.
+I understand that unavoidable situations can arise: sometimes life just happens. **If you must miss a class, please try to inform me in advance.** You’re allowed to miss up to three classes –- no questions asked. Additional absences may impact your grade, except in the case of medical or personal emergencies, religious holidays, or attending/traveling to/from varsity competitions.
+
+## Equipment
+
+Since many of our sessions involve hands-on work with digital tools, but also because assignments will require you to work with digital tools, **you will need a laptop** for this course (tablets, unfortunately, won't suffice). If you do not have one, please let me know as soon as possible. I will do my best to help you find a solution!
 
 ## Installation
 

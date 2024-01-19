@@ -4,8 +4,8 @@ role: Instructor
 email: wouter.haverals@princeton.edu
 photo: wouter.jpg
 ---
+
+Office Hours: 1-2pm on Tuesdays and Thursdays, come find me at [Chancellor Green Cafe](https://dining.princeton.edu/where-eat/chancellor-green-cafe)!
 <!--
-meta:
-  Office Hours: Somewhere on the internet
 [Schedule an appointment](#){: .btn .btn-outline }
 -->

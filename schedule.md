@@ -21,5 +21,11 @@ nav_order: 3
 
 
 {% for module in site.modules %}
-{{ module }}
+  {{ module }}
+  {% if module.title == "Week 6 - Distant Reading" %}
+> 🌴 **Spring Break** 🌴  
+>
+> Enjoy a well-deserved break!
+{: .notice--spring-break }
+  {% endif %}
 {% endfor %}

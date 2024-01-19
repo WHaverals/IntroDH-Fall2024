@@ -6,7 +6,7 @@ In this module, we will discover the world of stylometry, a field that probes th
 
 
 Mar 26
-: **Lecture**{: .label .label-purple }Stylometry
+: **Discussion**{: .label .label-purple }Stylometry
   : [slides](#)
 
   : [reading](#)

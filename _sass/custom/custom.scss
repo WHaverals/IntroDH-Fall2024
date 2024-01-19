@@ -162,3 +162,11 @@ a {
 .btn-youtube {
   @include btn-color($white, #FF0000);
 }
+
+.notice--spring-break {
+  background-color: #e0f7fa; /* Light blue background, for example */
+  border-left: 5px solid #26c6da; /* Darker blue border */
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  border-radius: 4px;
+}

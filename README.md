@@ -8,7 +8,7 @@ seo:
   name: Introduction to Digital Humanities
 ---
 
-# Introduction to Digital Humanities -- SPRING 2024
+# Introduction to Digital Humanities -- 2023-2024 Spring
 
 ## Description
 
