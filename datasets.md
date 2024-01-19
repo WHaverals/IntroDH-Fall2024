@@ -81,4 +81,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Shipwreck Database](https://docs.google.com/spreadsheets/d/11fk5YeQ4eFOnYSBNpUdHp4TP42gJ7wY5/edit#gid=970169931)**: Based on A.J. Parker's 1992 work *Ancient Shipwrecks of the Mediterranean and the Roman Provinces*, this dataset provides geographic and archaeological details of 1,368 documented shipwrecks.
 - **[Dog Names in New York City](https://a816-dohbesp.nyc.gov/IndicatorPublic/dognames/):** A [dataset](https://github.com/Kaz-A/dog_names/) of dog names registered in New York City (what did you expect?).
 - **[Western Europe 650 Year Grape Harvest Date Database](https://www.ncei.noaa.gov/access/paleo-search/study/13194)**: A dataset of grape harvest dates from 1354 to 2006, compiled from a variety of sources.
+- **[Museum Salary Transparency](https://docs.google.com/spreadsheets/d/14_cn3afoas7NhKvHWaFKqQGkaZS5rvL6DFxzGqXQa6o/edit#gid=0)**: A crowdsourced spreadsheet that collects information on museum salaries.
+- **[The COVID Tracking Project](https://covidtracking.com/data)**: A volunteer organization launched from The Atlantic that collects and publishes the most complete testing data available for U.S. states and territories.
+- **[COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19)**: Corpus of academic papers about COVID-19 and related coronavirus research, curated and maintained by the Semantic Scholar team at the Allen Institute for AI to support text mining and NLP research.
+
 
