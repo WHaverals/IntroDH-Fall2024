@@ -32,6 +32,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[The Inaugural Address Corpus](https://www.kaggle.com/nltkdata/inaugural)**: 57 texts of U.S. presidential inaugural addresses.
 - **[Feeding America: The Historic American Cookbook Dataset](http://digital.lib.msu.edu/projects/cookbooks/)**: 76 influential American cookbooks from MSU Libraries' special collections, representing various periods and themes in American cookbook history.
 - **[REED Online (Records of Early English Drama)](https://ereed.library.utoronto.ca/)**: A collection of the surviving records of drama, secular music, and other popular entertainment in England before 1642.
+- **[DocSouth Data](https://docsouth.unc.edu/docsouthdata/)**: A collection of datasets and texts from the University of North Carolina's Documenting the American South project: texts, images, and audio files related to southern history, literature, and culture. Currently DocSouth includes sixteen thematic collections of books, diaries, posters, artifacts, letters, oral history interviews, and songs.
+
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.
@@ -50,7 +52,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Internet Archive’s Audio Archive](https://archive.org/details/audio)**: Access to music recordings, audiobooks, podcasts, and radio programs.
 - **[BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)**: Over 16,000 sound effects from the BBC.
 - **[Billboard Hot 100 Lyrics](https://github.com/walkerkq/musiclyrics)**: Kaylin Walker's dataset captures five decades of pop music lyrics for textual analysis.
-- **[The Million Song Dataset](http://millionsongdataset.com/)**: A repository of audio features and metadata for a million contemporary popular music tracks. 
+- **[The Million Song Dataset](http://millionsongdataset.com/)**: A repository of audio features and metadata for a million contemporary popular music tracks.
+- **[The Free Music Archive](https://freemusicarchive.org/)**: 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists. 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists
 
 ### Movie and Dialogue Datasets
 - **[Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)**: Large metadata-rich collection of fictional conversations extracted from raw movie scripts.
@@ -77,5 +80,5 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Doctor Who Villain List](https://www.theguardian.com/news/datablog/2010/jul/16/doctor-who-villains-list)**: Doctor Who has fought more than 400 villains and monsters. Find out [here](https://docs.google.com/spreadsheets/d/1-wpscGBquVJnI5i9lIygBQWW-OrP_ypDng4ZuQvwLeU/edit?hl=en&hl=en#gid=0) who they are - and which appeared most often.
 - **[Shipwreck Database](https://docs.google.com/spreadsheets/d/11fk5YeQ4eFOnYSBNpUdHp4TP42gJ7wY5/edit#gid=970169931)**: Based on A.J. Parker's 1992 work *Ancient Shipwrecks of the Mediterranean and the Roman Provinces*, this dataset provides geographic and archaeological details of 1,368 documented shipwrecks.
 - **[Dog Names in New York City](https://a816-dohbesp.nyc.gov/IndicatorPublic/dognames/):** A [dataset](https://github.com/Kaz-A/dog_names/) of dog names registered in New York City (what did you expect?).
-
+- **[Western Europe 650 Year Grape Harvest Date Database](https://www.ncei.noaa.gov/access/paleo-search/study/13194)**: A dataset of grape harvest dates from 1354 to 2006, compiled from a variety of sources.
 
