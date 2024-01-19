@@ -50,6 +50,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Internet Archive’s Audio Archive](https://archive.org/details/audio)**: Access to music recordings, audiobooks, podcasts, and radio programs.
 - **[BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)**: Over 16,000 sound effects from the BBC.
 - **[Billboard Hot 100 Lyrics](https://github.com/walkerkq/musiclyrics)**: Kaylin Walker's dataset captures five decades of pop music lyrics for textual analysis.
+- **[The Million Song Dataset](http://millionsongdataset.com/)**: A repository of audio features and metadata for a million contemporary popular music tracks. 
 
 ### Movie and Dialogue Datasets
 - **[Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)**: Large metadata-rich collection of fictional conversations extracted from raw movie scripts.
@@ -57,6 +58,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[IMDb Non-Commercial Datasets](https://www.imdb.com/interfaces/)**: These datasets from IMDb offer detailed information on movies, TV shows, cast, crew, ratings, and more.
 - **[OpenSubtitles](http://opus.nlpl.eu/OpenSubtitles.php)**: Movie and TV subtitles, perfect for textual analysis, language modeling, and translation studies, offering insights into dialogue trends, language use, and cultural references.
 - **[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)**: A collection of metadata on over 45,000 movies, including 26 million ratings from over 270,000 users.
+- **[Bechdel Test Film Dataset]((https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/))**: An analysis by FiveThirtyEight on gender bias in films. This dataset underpins a 2014 article that investigates Hollywood's gender disparities through the lens of the Bechdel Test.
 
 ### Datasets curated and maintained at Princeton University 🐯
 - **[Princeton University's Center for Digital Humanities (CDH)](https://cdh.princeton.edu/)**: The CDH is a hub for digital humanities research, teaching, and learning at Princeton University. Check out their [datasets](https://cdh.princeton.edu/datasets/) and [projects](https://cdh.princeton.edu/projects/)!
@@ -72,4 +74,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[NYPL's Menu Collection](https://github.com/sceckert/IntroDHFall2022/tree/main/_datasets/NYPL-Menu-Dataset.zip?raw=true)**: A taste of history through the New York Public Library's transcribed menus, accompanied by a [glossary](http://curatingmenus.org/data_dictionary/).
 - **[The Office (U.S.) Dialogue Dataset](https://www.kaggle.com/nehaprabhavalkar/the-office-dataset)**: Analyze the dialogue from the popular TV show "The Office".
 - **[Superheroes Dataset](https://www.kaggle.com/claudiodavi/superhero-set)**: A dataset containing information on various superheroes and their attributes.
+- **[Doctor Who Villain List](https://www.theguardian.com/news/datablog/2010/jul/16/doctor-who-villains-list)**: Doctor Who has fought more than 400 villains and monsters. Find out [here](https://docs.google.com/spreadsheets/d/1-wpscGBquVJnI5i9lIygBQWW-OrP_ypDng4ZuQvwLeU/edit?hl=en&hl=en#gid=0) who they are - and which appeared most often.
+- **[Shipwreck Database](https://docs.google.com/spreadsheets/d/11fk5YeQ4eFOnYSBNpUdHp4TP42gJ7wY5/edit#gid=970169931)**: Based on A.J. Parker's 1992 work *Ancient Shipwrecks of the Mediterranean and the Roman Provinces*, this dataset provides geographic and archaeological details of 1,368 documented shipwrecks.
+- **[Dog Names in New York City](https://a816-dohbesp.nyc.gov/IndicatorPublic/dognames/):** A [dataset](https://github.com/Kaz-A/dog_names/) of dog names registered in New York City (what did you expect?).
+
 
