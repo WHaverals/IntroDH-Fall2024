@@ -33,6 +33,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Feeding America: The Historic American Cookbook Dataset](http://digital.lib.msu.edu/projects/cookbooks/)**: 76 influential American cookbooks from MSU Libraries' special collections, representing various periods and themes in American cookbook history.
 - **[REED Online (Records of Early English Drama)](https://ereed.library.utoronto.ca/)**: A collection of the surviving records of drama, secular music, and other popular entertainment in England before 1642.
 - **[DocSouth Data](https://docsouth.unc.edu/docsouthdata/)**: A collection of datasets and texts from the University of North Carolina's Documenting the American South project: texts, images, and audio files related to southern history, literature, and culture. Currently DocSouth includes sixteen thematic collections of books, diaries, posters, artifacts, letters, oral history interviews, and songs.
+- **[SlaveVoyages](https://www.slavevoyages.org/)**: Collaborative digital initiative that compiles and makes publicly accessible records of the largest slave trades in history.
+- **[The Survey of Scottish Witchcraft](https://witches.hca.ed.ac.uk/)**: A database of people accused of witchcraft in Scotland between 1563 and 1736.
 
 
 ### Newspapers and Magazines
@@ -53,7 +55,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)**: Over 16,000 sound effects from the BBC.
 - **[Billboard Hot 100 Lyrics](https://github.com/walkerkq/musiclyrics)**: Kaylin Walker's dataset captures five decades of pop music lyrics for textual analysis.
 - **[The Million Song Dataset](http://millionsongdataset.com/)**: A repository of audio features and metadata for a million contemporary popular music tracks.
-- **[The Free Music Archive](https://freemusicarchive.org/)**: 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists. 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists
+- **[The Free Music Archive](https://freemusicarchive.org/)**: 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists. 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists.
+- **[VoxPopuli Speech Corpus](https://huggingface.co/datasets/facebook/voxpopuli)**: Audio and transcriptions of speeches from European Parliament sessions spanning 2009-2020. It includes data for 18 languages and features 29 hours of non-native English speech.
 
 ### Movie and Dialogue Datasets
 - **[Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)**: Large metadata-rich collection of fictional conversations extracted from raw movie scripts.
@@ -84,5 +87,6 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Museum Salary Transparency](https://docs.google.com/spreadsheets/d/14_cn3afoas7NhKvHWaFKqQGkaZS5rvL6DFxzGqXQa6o/edit#gid=0)**: A crowdsourced spreadsheet that collects information on museum salaries.
 - **[The COVID Tracking Project](https://covidtracking.com/data)**: A volunteer organization launched from The Atlantic that collects and publishes the most complete testing data available for U.S. states and territories.
 - **[COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19)**: Corpus of academic papers about COVID-19 and related coronavirus research, curated and maintained by the Semantic Scholar team at the Allen Institute for AI to support text mining and NLP research.
+
 
 
