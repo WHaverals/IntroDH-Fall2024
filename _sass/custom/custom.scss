@@ -170,3 +170,24 @@ a {
   margin: 1em 0;
   border-radius: 4px;
 }
+
+.session-summary {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Adjust the gap as needed */
+}
+
+.date-label,
+.label,
+.session-title {
+  white-space: nowrap; /* Ensures the text does not wrap */
+}
+
+.date-label {
+  min-width: 60px; /* Adjust width as needed to fit the longest date */
+  text-align: right;
+}
+
+.session-title {
+  padding-left: 8px; /* Space after label */
+}
