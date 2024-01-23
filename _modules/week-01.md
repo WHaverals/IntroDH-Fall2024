@@ -1,24 +1,28 @@
 ---
-title: WEEK 1 - Intro to and Foundations of Digital Humanities
+title: Week 1 - Intro to and Foundations of Digital Humanities
 ---
 
 In this module, we will take our time to become acquinted with the contours that delineate the field known as Digital Humanities. We discuss what are the essential or minimal ingredients (if there are any), and critically examine various definitions. We traverse the landscape of Digital Humanities and explore how early definitions of the field differ from more recent attempts at defining it.
 
+
 <details>
   <summary class="session-summary">
+    <span class="arrow">↪</span>
     <span class="date-label">Jan 30</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Acquaintances</span>
   </summary>
-  <div markdown="1">
+    <div markdown="1">
     
 - [Slides](https://docs.google.com/presentation/d/1TRt2UcYxk5XTHaz-DATS15u0hntrU5HKnMWaqPY7qUM/edit?usp=sharing)
 
 </div>
-</details>
+  </details>
+
 
 <details>
-<summary class="session-summary">
+  <summary class="session-summary">
+    <span class="arrow">↪</span>
     <span class="date-label">Feb 1</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Foundations</span>

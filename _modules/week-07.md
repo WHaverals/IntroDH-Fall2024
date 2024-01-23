@@ -2,14 +2,28 @@
 title: Week 7 - Dive into Data, Part IV -- Social Network Analysiss
 ---
 
-Mar 19
-: **Lab**{: .label .label-red}Topic Modeling
-  : [slides](#)
+<details>
+  <summary class="session-summary">
+    <span class="arrow">↪</span>
+    <span class="date-label">Mar 19</span>
+    <span class="label label-red">Lab</span>
+    <span class="session-title">Topic Modeling</span>
+  </summary>
+  <div markdown="1">
+- [slides](#)
+- [reading](#)
+</div>
+</details>
 
-  : [reading](#)
-
-Mar 21
-: **Present**{: .label .label-yellow}Pitch own DH project
-  : [slides](#)
-  
-  : [reading](#)
+<details>
+  <summary class="session-summary">
+    <span class="arrow">↪</span>
+    <span class="date-label">Mar 21</span>
+    <span class="label label-yellow">Present</span>
+    <span class="session-title">Pitch own DH project</span>
+  </summary>
+  <div markdown="1">
+- [slides](#)
+- [reading](#)
+</div>
+</details>

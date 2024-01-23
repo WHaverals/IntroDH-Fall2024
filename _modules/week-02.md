@@ -1,11 +1,12 @@
 ---
-title: WEEK 2 - The Lay of the Land
+title: Week 2 - The Lay of the Land
 ---
 
 This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on core concepts, methodologies, and the diverse toolkit that propels the field forward. Later on this week, we focus on practical applications, examining real-world examples.
 
 <details>
   <summary class="session-summary">
+    <span class="arrow">↪</span>  
     <span class="date-label">Feb 6</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Concepts, Methods, and Tools</span>
@@ -22,6 +23,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 
 <details>
   <summary class="session-summary">
+    <span class="arrow">↪</span>
     <span class="date-label">Feb 8</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Materials and Examples</span>
