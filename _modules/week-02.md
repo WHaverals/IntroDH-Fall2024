@@ -15,8 +15,10 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     
 - [slides](#)
 - Readings and Assignments:
-  - [Rosenberg, Daniel. 2013. "Data before the Fact."]() _Raw Data Is an Oxymoron_, 15–40.
+  - Play around with 
+  - [Rosenberg, Daniel. 2013. "Data before the Fact."](https://app.perusall.com/courses/introdh24/rosenberg_2013_data-before-the-fact) _Raw Data Is an Oxymoron_, 15–40.
   - [Ramsay, Stephen. 2014. "The Hermeneutics of Screwing Around; or What You Do with a Million Books."](https://app.perusall.com/courses/introdh24/ramsay_2014_the-hermeneutics-of-screwing-around-or-what-you-dowith-a-million-books) In _Pastplay: Teaching and Learning History with Technology_, edited by Kevin B. Kee, 111–20. Ann Arbor: University of Michigan Press.
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack.** <a style="color: #ee6374;">**Due: 11pm on the evening before class.**</a>
 
 </div>
 </details>
