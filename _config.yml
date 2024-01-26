@@ -20,6 +20,7 @@ author: Wouter Haverals
 baseurl: '/IntroDH2024' # the subpath of your site, e.g. /blog
 url: 'https://github.com/WHaverals' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/favicon/logo-class-notext.png'
+favicon_ico: 'assets/favicon/class-logo.ico'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
