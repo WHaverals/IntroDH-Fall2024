@@ -30,12 +30,12 @@ In this module, we will take our time to become acquinted with the contours that
   <div markdown="1">
 
 - [Slides](#)
-- Materials and Assignments:
+- Reflection:
   - [Examine this website](https://whatisdigitalhumanities.com/), hit the New Quote-button a few times, and read the definition that appears. Some guiding questions:
     - How do the definitions you encounter vary each time you refresh the page? What does this diversity tell you about the nature of Digital Humanities as a field? What are the commonalities between the definitions? What are the differences? Consider the role technology plays in these definitions. Is it merely a tool, or does it fundamentally reshape the humanities?
   - [Liu, Alan. “Imagining the New Media Encounter.”](https://app.perusall.com/courses/introdh24/imagining-the-new-media-encounter) In _A Companion to Digital Literary Studies_, edited by Ray Siemens and Susan Schreibman, pp. 1–25. Wiley, 2013.
   - [Kirschenbaum, Matthew. 2012. "What Is Digital Humanities and What’s It Doing in English Departments?"](https://app.perusall.com/courses/introdh24/kirschenbaum_2012_what-is-digital-humanities-and-what-s-it-doing-in-english-departments) In _Debates in the Digital Humanities_, 3–11. University of Minnesota Press.
-  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack.** <a style="color: #ee6374;">**Due: 11pm on the evening before class.**</a>
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 
 </div>
 </details>

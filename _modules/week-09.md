@@ -13,6 +13,10 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
   <div markdown="1">
 - [slides](#)
 - [reading](#)
+  - http://www.visualcomplexity.com/vc/
+  - Rosenberg, Daniel. “Against Infographics.” Art Journal, vol. 74, no. 4, Oct. 2015, pp. 38–57. DOI.org (Crossref), https://doi.org/10.1080/00043249.2015.1134918.
+
+
 </div>
 </details>
 

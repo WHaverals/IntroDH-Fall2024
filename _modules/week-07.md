@@ -1,5 +1,5 @@
 ---
-title: Week 7 - Dive into Data, Part IV -- Social Network Analysiss
+title: Week 7 - Topic Modeling
 ---
 
 <details>

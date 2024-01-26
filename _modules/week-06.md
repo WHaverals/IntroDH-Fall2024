@@ -13,7 +13,8 @@ This week begins with a lecture on Distant Reading, where we will explore the th
   </summary>
   <div markdown="1">
 - [slides](#)
-- [reading](#)
+- Reflection:
+  - Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_. Synergies Conference. Copenhagen, 28 September 2020.
 </div>
 </details>
 
@@ -27,7 +28,8 @@ This week begins with a lecture on Distant Reading, where we will explore the th
   <div markdown="1">
 - [slides](#)
 - Reading and Assignments
-  - Nan Z. Da, “The Computational Case against Computational Literary Studies,” Critical Inquiry 45, no. 3 (2019): 601–39.
+  - [Da, Nan Z. “The Computational Case against Computational Literary Studies.”](https://app.perusall.com/courses/introdh24/da_2019_the-computational-case-against-computational-literary-studies) _Critical Inquiry_, vol. 45, no. 3, Mar. 2019, pp. 601–39.
+
 
 </div>
 </details>
