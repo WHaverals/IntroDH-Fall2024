@@ -34,6 +34,10 @@ aux_links:
   #  - 'https://github.com/WHaverals/IntroDH2024'
 #footer_content: Introduction to Digital Humanities, Princeton University, Spring 2024
 
+callouts:
+  note:
+    color: purple
+
 # Collections for website data
 collections:
   staffers:

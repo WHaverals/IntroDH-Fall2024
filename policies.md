@@ -15,16 +15,34 @@ Almost every week, we will read key texts that touch upon important themes in di
 
 Below goes an overview of the different types of class meetings we'll have. It is important to note that **discussions -- anchored by the readings -- will be part of every class meeting**, regardless of the type.
 
-- **Discussion**{: .label .label-blue}: Sessions that combine lecturing with guided discussions, emphasizing critical engagement with the readings.
+- **Discussion**{: .label .label-blue}: Sessions that combine lecturing with discussions, emphasizing critical engagement with the assigned materials.
 - **Lab**{: .label .label-red}: Hands-on sessions that apply concepts in a practical setting.
-- **Trip**{: .label .label-green}: Educational visits to relevant locations or institutions.
-- **Presentation**{: .label .label-yellow}: Opportunities for students to present their projects, followed by class discussions and feedback sessions.
+- **Presentation**{: .label .label-yellow}: Sessions where students present their projects or research.
+- **Field Trip**{: .label .label-green}: Visit to Princeton University Library Special Collections.
 
 ## Attendance and Participation
 
 Many sessions in this seminar will be discussion-based, where active participation is essential. Your responsibility includes **arriving on time, completing the readings and exercises, and being prepared for class discussions and activities**.
 
 I understand that unavoidable situations can arise: sometimes life just happens. **If you must miss a class, please try to inform me in advance.** You’re allowed to miss up to three classes –- no questions asked. Additional absences may impact your grade, except in the case of medical or personal emergencies, religious holidays, or attending/traveling to/from varsity competitions.
+
+## Class Etiquette
+
+In order to create a productive and respectful learning environment, let's observe the following guidelines:
+
+- Aim to thoughtfully contribute to our discussions at least once every class. If you find class participation intimidating or difficult for any reason, please discuss this with me during office hours early in the semester. Together, we can work on improving your participation skills and set achievable goals.
+
+- Arrive on time and be ready to actively engage in class discussions and exercises.
+
+- When presenting an argument or viewpoint, substantiate it with specific examples from our readings or discussions.
+
+- When responding to a classmate, be respectful and constructive. If you disagree with their viewpoint, explain why and provide evidence to support your argument.
+
+- If you often contribute, consider stepping back occasionally to let others speak.
+
+- Address your classmates by their preferred names and be mindful not to make assumptions about gender pronouns.
+
+- Given the digital nature of our course, it's important to create an environment with minimal distractions. During class -- whether in discussions, hands-on labs, group work, solo activities, or presentations -- please keep only relevant course material tabs open on your browser. Refrain from browsing social media, checking emails, or messaging during class to maintain focus.
 
 ## Equipment
 
