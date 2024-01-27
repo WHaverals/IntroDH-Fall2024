@@ -26,6 +26,14 @@ Many sessions in this seminar will be discussion-based, where active participati
 
 I understand that unavoidable situations can arise: sometimes life just happens. **If you must miss a class, please try to inform me in advance.** You’re allowed to miss up to three classes –- no questions asked. Additional absences may impact your grade, except in the case of medical or personal emergencies, religious holidays, or attending/traveling to/from varsity competitions.
 
+## Slack
+
+While our course takes place in person, we will use _Slack_ as an additional communication platform. It serves as a space for posting [reflections](https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT) on the assigned materials, sharing [resources](https://introtodh--spring2024.slack.com/archives/C06GK9FMKFA) like files and links, and seeking [assistance](https://introtodh--spring2024.slack.com/archives/C06FME0MZHT) with assignments outside of class hours. Make sure you join our _Slack_ workspace by using the invitation link provided in class!
+
+## Office Hours
+
+I'm available for office hours every Tuesday and Thursday from 1:00-2:00pm at [Chancellor Green Cafe](https://dining.princeton.edu/where-eat/chancellor-green-cafe). Office hours are a great chance for us to discuss anything related to the class – be it readings, assignments, feedback, challenging concepts. I'm also happy to chat about your interests in digital humanities, or to help you find resources for your research. If you can't make it to office hours, feel free to email me to set up an appointment.
+
 ## Class Etiquette
 
 In order to create a productive and respectful learning environment, let's observe the following guidelines:
@@ -43,6 +51,10 @@ In order to create a productive and respectful learning environment, let's obser
 - Address your classmates by their preferred names and be mindful not to make assumptions about gender pronouns.
 
 - Given the digital nature of our course, it's important to create an environment with minimal distractions. During class -- whether in discussions, hands-on labs, group work, solo activities, or presentations -- please keep only relevant course material tabs open on your browser. Refrain from browsing social media, checking emails, or messaging during class to maintain focus.
+
+## Health and Wellness
+
+Your well-being is important. If you're experiencing challenges affecting your health -- be it physical, emotional, or mental -- Princeton University offers extensive support. The [Counseling and Psychological Services (CPS)](https://uhs.princeton.edu/counseling-psychological-services) provides free counseling, group support, and more, all adhering to [strict confidentiality standards](https://uhs.princeton.edu/counseling-psychological-services/counseling/confidentiality-cps).
 
 ## Equipment
 
