@@ -12,8 +12,9 @@ During our first session this week, we will look at  into the technology behind 
     <span class="session-title">Text Recognition Technologies</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- [reading](#)
+- [Slides](#)
+- Reflection:
+
 </div>
 </details>
 
@@ -25,7 +26,7 @@ During our first session this week, we will look at  into the technology behind 
     <span class="session-title">Content Management Systems</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- [reading](#)
+- [Slides](#)
+- Reflection:
 </div>
 </details>

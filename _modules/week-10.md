@@ -12,8 +12,8 @@ This week, we continue our exploration of visualization in Digital Humanities wi
     <span class="session-title">Network Analysis</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- [reading](#)
+- [Slides](#)
+- Reflection
 </div>
 </details>
 
@@ -25,9 +25,12 @@ This week, we continue our exploration of visualization in Digital Humanities wi
     <span class="session-title">Intellectual Property Rights</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- Reading and Assignments
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt ultricies, nunc nisl aliquam nunc, vitae aliquam nisl nunc vit
+- [Slides](#)
+- Materials
+  - [Haggerty, Kenneth. “Intellectual Property Guidelines for the Digital Humanities.”](https://app.perusall.com/courses/introdh24/haggerty_2020_intellectual-property-guidelines-for-the-digital-humanities) Routledge International Handbook of Research Methods in Digital Humanities, edited by Kristen Schuster and Stuart Dunn, Routledge, 2020, pp. 428–40.
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
+
+
 
 </div>
 </details>

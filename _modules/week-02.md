@@ -1,8 +1,8 @@
 ---
-title: Week 2 - The Lay of the Land
+title: Week 2 - Data Culture(s)
 ---
 
-This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on core concepts, methodologies, and the diverse toolkit that propels the field forward. Later on this week, we focus on practical applications, examining real-world examples.
+This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on 'data' as a core concepts, and the methodologies that propel the field forward. Later on this week, we focus on practical applications, examining real-world examples.
 
 <details>
   <summary class="session-summary">
@@ -35,8 +35,11 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   </summary>
   <div markdown="1">
 - [Slides](#)
-- Readings and Assignments:
-  - Gebru, Timnit, et al. “Datasheets for Datasets.” *Communications of the ACM*, vol. 64, no. 12, Dec. 2021, pp. 86–92.
+- Reflection:
+  - [Gebru, Timnit, et al. “Datasheets for Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-datasets-846236723) _Communications of the ACM_, vol. 64, no. 12, Dec. 2021, pp. 86–92.
+  - [Alkemade, Henk, et al. “Datasheets for Digital Cultural Heritage Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-digital-cultural-heritage-datasets) _Journal of Open Humanities Data_, vol. 9, no. 17, 2023, pp. 1–11.
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
+
 </div>
 </details>
 
@@ -45,13 +48,10 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 
 Ulysses Project: (developed by @frabbitry and team: a study of how James Joyce's Ulysses associated various locations in the city of Dublin with literary and mythic allusions. Creates a map as guide to parts of Dublin that are associated with passages in Ulysses.)
 
-Banksy Project: (developed by @alnopa9 and team: a gallery and study of the works of the artist Banksy, where in the world they are distributed, and what media forms they have taken.)
-
 The Hamilton Project: (Greensburg project with lots of network visualizations and a graph of motifs and their frequency of repetition in the musical Hamilton)
 
 Profanities in Quentin Tarantino's Screenplays (Pittsburgh student project, with network analysis of offensive language spoken by/to male and female characters)
 
-Divergences in Machine Translation: Examining Harry Potter texts processed by Google Translate across multiple language families: (Pittsburgh student project)
 
 La Lega Toscana Protezione multi-semester Pitt/newtfire project by @zme1 studying English-Italian language adaptation and membership in a Pittsburgh Italian society, with a terrific range of graph types.
 

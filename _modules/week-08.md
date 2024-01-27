@@ -13,8 +13,8 @@ In this module, we will discover the world of stylometry, a field that probes th
     <span class="session-title">Stylometry</span>
   </summary>
   <div markdown="1">
-    - [slides](#)
-    - [reading](#)
+    - [Slides](#)
+    - Reflection
   </div>
 </details>
 
@@ -26,7 +26,7 @@ In this module, we will discover the world of stylometry, a field that probes th
     <span class="session-title">Authorship Attribution with <i>Stylo</i></span>
   </summary>
   <div markdown="1">
-    - [slides](#)
-    - [reading](#)
+    - [Slides](#)
+    - Reflection
   </div>
 </details>

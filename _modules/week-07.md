@@ -10,8 +10,8 @@ title: Week 7 - Topic Modeling
     <span class="session-title">Topic Modeling</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- [reading](#)
+- [Slides](#)
+- Reflection
 </div>
 </details>
 
@@ -23,7 +23,7 @@ title: Week 7 - Topic Modeling
     <span class="session-title">Pitch own DH project</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- [reading](#)
+- [Slides](#)
+- Reflection
 </div>
 </details>
