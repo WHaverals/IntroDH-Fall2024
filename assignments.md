@@ -90,3 +90,12 @@ Throughout the course, there will be a series of smaller assignments that collec
 
 ## Final Assignment (30%)
 
+Your final assignment brings together the different aspects you learned about throughout the course, in the form of a 4-to-5 page (i.e. 2000 t0 2500 words) research proposal.
+
+Guided by a research quesion and hypotheses, you will come up with a plan for a data-intensive reseqrch plan includes the identification of a datasdt, the process you envisage to gather this data, specific choices that will be made for the manipulation, annotation, classification of the data and their effect, the identification of tools involved (their benefits and possible drawbacks), the wqy you envisage to analyse your data (), and the way youyr project will be presented to the world inside/outside academia, also think about preservation and risk assessment.
+
+Don't just list the elements. Make sure the proposal is both engaging and convicing for an audience who might bne in a position to decide whether you will receive funding or not (sadly this is often the case in academia). Therefore, focus on the research question and its necesstity, show that you are not just using the DH buzzwords, or brazingly use the phrase "turbocharge [inster humanities subdiscipline here]. Be nuanced. using the word the critical data.
+
+I will evaluate your final proposal holistically. In other words, I am not providing you (in contrast to the Data Biography exercise) with a list of key elements that should be included. The only thing where i will be putting on my quantitative hat on is when it comes to your citations: include at least 10 citations (they don't count towards the final word count of your document) that support the disciplinary context of your proposal. 
+
+Take inspiration from [this blogpost](https://digitalhumanities.stanford.edu/adho-dh-conference-proposal-2023/) written up my Quinn Dombrowksi on how to write a succesful proposal for a DH conference.
