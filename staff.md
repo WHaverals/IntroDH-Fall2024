@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact and Office Hours
-description: A listing of all the course staff members.
 nav_order: 7
 ---
 
