@@ -2,7 +2,7 @@
 title: Week 2 - Data Culture(s)
 ---
 
-This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on 'data' as a core concept, and the methodologies that propel the field forward. Later on this week, we focus on practical applications and materials, examining real-world examples.
+This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on 'data' as a core concept, and the methodologies that propel the field forward. Later on this week, we focus on practical applications of metadata, markup and data description.
 
 <details>
   <summary class="session-summary">
@@ -31,13 +31,16 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     <span class="arrow">↪</span>
     <span class="date-label">Feb 8</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Materials and Examples</span>
+    <span class="session-title">Metadata, markup, and data description</span>
   </summary>
   <div markdown="1">
 - [Slides](#)
 - Reflection:
+  - [Manovich, Lev. “Database as Symbolic Form.”](https://app.perusall.com/courses/introdh24/manovich_1999_database-as-symbolic-form) _Convergence: The International Journal of Research into New Media Technologies_, vol. 5, no. 2, June 1999, pp. 80–99.
+  - [Pomerantz, Jeffrey. “Introduction.”](https://app.perusall.com/courses/introdh24/pomerantz_2015_introduction) _Metadata_, The MIT Press, 2015, pp. 1–18.
+  - [Hoffman, Gretchen. “How Are Cookbooks Classified in Libraries? An Examination of LCSH and LCC.”](https://app.perusall.com/courses/introdh24/hoffman_2013_how-are-cookbooks-classified-in-libraries) _Proceedings from North American Symposium on Knowledge Organization_, vol. 4, no. 1, 2013, pp. 100–11.
   - [Gebru, Timnit, et al. “Datasheets for Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-datasets-846236723) _Communications of the ACM_, vol. 64, no. 12, Dec. 2021, pp. 86–92.
-  - [Alkemade, Henk, et al. “Datasheets for Digital Cultural Heritage Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-digital-cultural-heritage-datasets) _Journal of Open Humanities Data_, vol. 9, no. 17, 2023, pp. 1–11.
+  <!-- - [Alkemade, Henk, et al. “Datasheets for Digital Cultural Heritage Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-digital-cultural-heritage-datasets) _Journal of Open Humanities Data_, vol. 9, no. 17, 2023, pp. 1–11. -->
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 
 </div>
