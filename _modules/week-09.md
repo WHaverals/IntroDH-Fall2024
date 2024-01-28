@@ -7,7 +7,7 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
   <summary class="session-summary">
     <span class="arrow">↪</span>
     <span class="date-label">Apr 2</span>
-    <span class="label label-red">Lab</span>
+    <span class="label label-blue">Discussion</span>
     <span class="session-title">Data Visualization</span>
   </summary>
   <div markdown="1">
