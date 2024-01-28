@@ -11,7 +11,7 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
     <span class="session-title">Ethical Considerations</span>
   </summary>
   <div markdown="1">
-- [slides](#)
+- [Slides](#)
 - [reading](#)
 </div>
 </details>
@@ -24,9 +24,6 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
     <span class="session-title">Work-in-Progress Presentations</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- Reading and Assignments
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt ultricies, nunc nisl aliquam nunc, vitae aliquam nisl nunc vit
-
+- [Slides](#)
 </div>
 </details>

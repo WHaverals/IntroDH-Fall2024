@@ -37,8 +37,6 @@ else:
   </summary>
   <div markdown="1">
 - [slides](#)
-- Reading and Assignments
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt ultricies, nunc nisl aliquam nunc, vitae aliquam nisl nunc vit
-
+- Reading and Assignments:
 </div>
 </details>

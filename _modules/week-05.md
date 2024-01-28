@@ -14,6 +14,7 @@ During our first session this week, we will look at  into the technology behind 
   <div markdown="1">
 - [Slides](#)
 - Reflection:
+  - [Terras, Melissa. “Present, Not Voting: Digital Humanities in the Panopticon.”](https://app.perusall.com/courses/introdh24/terras_2012_present-not-voting) _Understanding Digital Humanities_, edited by David M. Berry, Palgrave Macmillan UK, 2012, pp. 172–90.
 
 </div>
 </details>

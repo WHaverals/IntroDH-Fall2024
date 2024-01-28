@@ -31,7 +31,5 @@ In this module, we investigate the critical procedures involved in annotating da
   </summary>
   <div markdown="1">
 - [Slides](#)
-- Reading and Assignments
-  - [reading](#)
 </div>
 </details>
