@@ -14,7 +14,9 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
 - [slides](#)
 - [reading](#)
   - http://www.visualcomplexity.com/vc/
-  - Rosenberg, Daniel. “Against Infographics.” Art Journal, vol. 74, no. 4, Oct. 2015, pp. 38–57. DOI.org (Crossref), https://doi.org/10.1080/00043249.2015.1134918.
+  - [Rosenberg, Daniel. “Against Infographics.”](https://app.perusall.com/courses/introdh24/against-infographics) _Art Journal_, vol. 74, no. 4, Oct. 2015, pp. 38–57.
+  - [Walker Rettberg, Jill. “Ways of Knowing with Data Visualizations.”](https://app.perusall.com/courses/introdh24/ways-of-knowing-with-data-visualizations) _Data Visualization in Society_, edited by Martin Engebretsen and Helen Kennedy, Amsterdam University Press, 2020, pp. 35–48.
+
 
 
 </div>
