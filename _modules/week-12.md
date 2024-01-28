@@ -12,7 +12,9 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
   </summary>
   <div markdown="1">
 - [Slides](#)
-- [reading](#)
+- Reflection:
+  - Listen to this podcast episode of _Tech Won't Save Us_, where Emily Bender (Professor in the Department of Linguistics at the University of Washington and the Faculty Director of the Computational Linguistics Master's Program) discusses what it means to say that ChatGPT is a "stochastic parrot".
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ILGlkAXAt4xfuKHwIV2on?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 </details>
 
