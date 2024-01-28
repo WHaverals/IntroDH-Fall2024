@@ -27,9 +27,9 @@ In this module, we investigate the critical procedures involved in annotating da
     <span class="arrow">↪</span>
     <span class="date-label">Feb 22</span>
     <span class="label label-green">Present</span>
-    <span class="session-title">Analyzing Datasets</span>
+    <span class="session-title">Data Bibliograpy</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- 
 </div>
 </details>
