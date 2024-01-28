@@ -12,7 +12,7 @@ In this module, we will take our time to become acquinted with the contours that
     <span class="session-title">Acquaintances</span>
   </summary>
     <div markdown="1">
-    
+
 - [Slides](https://docs.google.com/presentation/d/1TRt2UcYxk5XTHaz-DATS15u0hntrU5HKnMWaqPY7qUM/edit?usp=sharing)
 
 </div>
