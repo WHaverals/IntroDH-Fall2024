@@ -26,7 +26,7 @@ Throughout the course, you will be actively engaging with a wide range of assign
 
 Engage with the assigned materials on the collaborative annotation platform [_Perusall_](https://www.perusall.com/) (access code to be shared in class). Make sure to read, watch, or listen to the materials thoroughly. _Perusall_ allows you to highlight passages, make comments, and respond to your peers' comments and questions. Please be courteous and constructive during these interactions, adhering to the same [etiquette guidelines](https://whaverals.github.io/IntroDH2024/policies/#class-etiquette) as our class interactions.
 
-- **Frequency of Engagement**: Unless otherwise noted, you should complete a minimum of four annotations per assigned material (i.e. per article, chapter, video, etc.) by 9:00AM on the day of our class.
+- **Frequency of Engagement**: Unless otherwise noted, you should complete a minimum of three annotations per assigned material (i.e. per article, chapter, video, etc.) by 9:00AM on the day of our class.
 - **Nature of Comments**: Your comment can be an agreement, disagreement, expression of confusion, question, or any other relevant observation. There are no right or wrong comments. The interaction serves as an exercise in critical thinking, collaborative learning, and engagement with scientific debates.
 
 **2. Reflecting on _Slack_** (10%)
@@ -41,7 +41,7 @@ After your interaction on _Perusall_, **post an overall reflection** in the [#re
 
 A paragraph of 200-300 words is sufficient for your reflection. You are welcome to write more, but please keep in mind that the goal is to reflect on the materials, not to summarize them. If you are unsure about the length of your reflection, please feel free to ask me. Your grade will be determined by the depth and quality of your reflections, focusing on your critical engagement with the readings rather than agreement with their content.
 
-**Deadline**: Please ensure both your annotations (min. 4 per assigned material) on _Perusall_ and your reflection on _Slack_ are submitted by 9:00AM on the day of our class.
+**Deadline**: Please ensure both your annotations (min. 3 per assigned material) on _Perusall_ and your reflection on _Slack_ are submitted by 9:00AM on the day of our class.
 
 **3. Data Biography** (10%)
 
