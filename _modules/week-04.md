@@ -30,6 +30,5 @@ In this module, we investigate the critical procedures involved in annotating da
     <span class="session-title">Data Bibliograpy</span>
   </summary>
   <div markdown="1">
-- 
 </div>
 </details>
