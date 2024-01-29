@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class Playlist
-nav_order: 9
+nav_order: 8
 ---
 
 ## Class Playlist
