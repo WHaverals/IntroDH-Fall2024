@@ -7,7 +7,7 @@ This week, we continue our exploration of visualization in Digital Humanities wi
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 5</span>
+    <span class="date-label">Apr 9</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Network Analysis</span>
   </summary>
@@ -20,7 +20,7 @@ This week, we continue our exploration of visualization in Digital Humanities wi
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 7</span>
+    <span class="date-label">Apr 11</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Intellectual Property Rights</span>
   </summary>
