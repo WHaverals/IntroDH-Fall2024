@@ -15,7 +15,7 @@ Additionally, the following books have been wonderfully instrumental in designin
 - Karsdorp, Folgert, et al. _Humanities Data Analysis. Case Studies with Python_. Princeton University Press, 2021.
 - Croxall, Brian, and Diane K. Jakacki (editors). _What We Teach When We Teach DH: Digital Humanities in the Classroom_. University of Minnesota Press, 2023.
 
-Also a huge shout out to [my colleagues at the CDH](https://cdh.princeton.edu/people/staff/) for their support, answering my (many, many) questions, inspiring chats, and just being all-around awesome. Thanks to my friends at [ACDC](https://www.uantwerpen.be/en/research-groups/digitalhumanities/) for reviewing prior versions of this syllabus and providing valuable feedback.
+Also a huge shout out to [my friends at the CDH](https://cdh.princeton.edu/people/staff/) for their support, answering my (many, many) questions, inspiring chats, and just being all-around awesome. Thanks also to my friends at [ACDC](https://www.uantwerpen.be/en/research-groups/digitalhumanities/) for reviewing prior versions of this syllabus and providing valuable feedback.
 
 ## About this Website
 
