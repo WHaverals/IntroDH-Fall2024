@@ -17,8 +17,8 @@ Below goes an overview of the different types of class meetings we'll have. It i
 
 - **Discussion**{: .label .label-blue}: Sessions that combine lecturing with discussions, emphasizing critical engagement with the assigned materials.
 - **Lab**{: .label .label-red}: Hands-on sessions that apply concepts in a practical setting.
-- **Presentation**{: .label .label-yellow}: Sessions where students present their projects or research.
-- **Field Trip**{: .label .label-green}: Visit to Princeton University Library Special Collections.
+- **Present**{: .label .label-green}: Sessions where students present their projects or research.
+- **Field Trip**{: .label .label-yellow}: Visit to Princeton University Library Special Collections.
 
 ## Attendance and Participation
 
