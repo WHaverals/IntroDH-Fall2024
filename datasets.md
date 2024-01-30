@@ -9,7 +9,7 @@ parent: Resources
 
 There are some great datasets out there! In this course, we will encounter and play with some of the ones listed here below. It goes without saying that it is impossible for this list to be exhaustive. Look at it as a point of reference, but perhaps more so as a place of inspiration. Should you stumble upon a fascinating dataset or have one to recommend, please bring it to my attention so we can enrich our collection further.
 
-One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), and [Kaggle](https://www.kaggle.com/datasets).
+One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), [Kaggle](https://www.kaggle.com/datasets), and the [Journal of Open Humanities Data (JOHD)](https://openhumanitiesdata.metajnl.com/).
 
 In the spirit of John Donne's insight that ["No man is an island,"](https://allpoetry.com/No-man-is-an-island) the field of Digital Humanities thrives on collaborative curation of resources. With this in mind, here are some excellent compilations of datasets put together by other scholars:
 
@@ -27,6 +27,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[HathiTrust Digital Library](https://www.hathitrust.org/)**: A repository of digitized works from research libraries around the world.
 - **[Internet Archive](https://archive.org/)**: A digital library offering books, movies, software, and more.
 - **[Google Books](https://books.google.com/)**: Search and preview millions of books from libraries and publishers worldwide.
+- **[The Black Short Story Dataset](https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/5TBANV)**: A collection of over 600 African American short stories found in 100 anthologies published from 1925 to 2017.
 - **[Early Novels Database](https://earlynovels.github.io/)**: This collection provides metadata for over 2,000 novels published between 1660 and 1850, allowing for a comprehensive look at the evolution of the novel during this period. Access the [complete metadata dataset](https://github.com/earlynovels/end-dataset), as well as a [smaller collection focusing on 25 novels](https://github.com/earlynovels/digital-collection), which also includes their [full-texts](https://github.com/earlynovels/digital-collection/tree/master/PaP-END-fulltexts).
 - **[Old Bailey Online](https://www.oldbaileyonline.org/)**: Detailed accounts of over 197,000 criminal trials at London's central criminal court.
 - **[The Inaugural Address Corpus](https://www.kaggle.com/nltkdata/inaugural)**: 57 texts of U.S. presidential inaugural addresses.
@@ -35,7 +36,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[DocSouth Data](https://docsouth.unc.edu/docsouthdata/)**: A collection of datasets and texts from the University of North Carolina's Documenting the American South project: texts, images, and audio files related to southern history, literature, and culture. Currently DocSouth includes sixteen thematic collections of books, diaries, posters, artifacts, letters, oral history interviews, and songs.
 - **[SlaveVoyages](https://www.slavevoyages.org/)**: Collaborative digital initiative that compiles and makes publicly accessible records of the largest slave trades in history.
 - **[The Survey of Scottish Witchcraft](https://witches.hca.ed.ac.uk/)**: A database of people accused of witchcraft in Scotland between 1563 and 1736.
-
+- **[ToposText](https://topostext.org/TT-downloads)**: An indexed compilation of ancient texts and mapped places significant to the history and mythology of the ancient Greeks, covering periods from the Neolithic era to the 2nd century CE.
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.
@@ -65,6 +66,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[OpenSubtitles](http://opus.nlpl.eu/OpenSubtitles.php)**: Movie and TV subtitles, perfect for textual analysis, language modeling, and translation studies, offering insights into dialogue trends, language use, and cultural references.
 - **[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)**: A collection of metadata on over 45,000 movies, including 26 million ratings from over 270,000 users.
 - **[Bechdel Test Film Dataset]((https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/))**: An analysis by FiveThirtyEight on gender bias in films. This dataset underpins a 2014 article that investigates Hollywood's gender disparities through the lens of the Bechdel Test.
+- **[Early African-American Film Database, 1909–1930](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7)**: This dataset focuses on silent "race films" created before 1930 featuring African-Americans for primarily African-American audiences. It compiles records on films, actors, production companies, and other elements of the early race film industry.
 
 ### Datasets curated and maintained at Princeton University 🐯
 - **[Princeton University's Center for Digital Humanities (CDH)](https://cdh.princeton.edu/)**: The CDH is a hub for digital humanities research, teaching, and learning at Princeton University. Check out their [datasets](https://cdh.princeton.edu/datasets/) and [projects](https://cdh.princeton.edu/projects/)!
@@ -87,6 +89,3 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Museum Salary Transparency](https://docs.google.com/spreadsheets/d/14_cn3afoas7NhKvHWaFKqQGkaZS5rvL6DFxzGqXQa6o/edit#gid=0)**: A crowdsourced spreadsheet that collects information on museum salaries.
 - **[The COVID Tracking Project](https://covidtracking.com/data)**: A volunteer organization launched from The Atlantic that collects and publishes the most complete testing data available for U.S. states and territories.
 - **[COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19)**: Corpus of academic papers about COVID-19 and related coronavirus research, curated and maintained by the Semantic Scholar team at the Allen Institute for AI to support text mining and NLP research.
-
-
-
