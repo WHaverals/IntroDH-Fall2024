@@ -29,7 +29,7 @@ This week begins with a lecture on Distant Reading, where we will explore the th
   </summary>
   <div markdown="1">
 - [slides](#)
-- Reading and Assignments
+- Pre-Class Reflection:
   - [Da, Nan Z. “The Computational Case against Computational Literary Studies.”](https://app.perusall.com/courses/introdh24/da_2019_the-computational-case-against-computational-literary-studies) _Critical Inquiry_, vol. 45, no. 3, Mar. 2019, pp. 601–39.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 

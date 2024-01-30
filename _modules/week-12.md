@@ -12,7 +12,7 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
   </summary>
   <div markdown="1">
 - [Slides](#)
-- Reflection:
+- Pre-Class Reflection:
   - [Listen to this podcast episode of _Tech Won't Save Us_](https://www.techwontsave.us/episode/163_chatgpt_is_not_intelligent_w_emily_m_bender), where Emily Bender (Professor in the Department of Linguistics at the University of Washington and the Faculty Director of the Computational Linguistics Master's Program) discusses what it means to say that ChatGPT is a "stochastic parrot".
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ILGlkAXAt4xfuKHwIV2on?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   - [Kak, Amba, and Sarah Myers West. AI Now 2023 Landscape: Confronting Tech Power.]() AI Now Institute, 11 Apr. 2023, https://ainowinstitute.org/2023-landscape.

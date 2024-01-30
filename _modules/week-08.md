@@ -14,7 +14,7 @@ In this module, we will discover the world of stylometry, a field that probes th
   </summary>
   <div markdown="1">
     - [Slides](#)
-    - Reflection
+    - Pre-Class Reflection
   </div>
 </details>
 
@@ -27,6 +27,6 @@ In this module, we will discover the world of stylometry, a field that probes th
   </summary>
   <div markdown="1">
     - [Slides](#)
-    - Reflection
+    - Pre-Class Reflection
   </div>
 </details>

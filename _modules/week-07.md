@@ -12,7 +12,7 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
   </summary>
   <div markdown="1">
 - [Slides](#)
-- Reflection
+- Pre-Class Reflection
 </div>
 </details>
 
@@ -25,6 +25,6 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
   </summary>
   <div markdown="1">
 - [Slides](#)
-- Reflection
+- Pre-Class Reflection
 </div>
 </details>

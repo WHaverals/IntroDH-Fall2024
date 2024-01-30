@@ -28,7 +28,7 @@ In this module, we will take our time to become acquinted with the contours that
   <div markdown="1">
 
 - [Slides](#)
-- Reflection:
+- Pre-Class Reflection:
   - [Examine this website](https://whatisdigitalhumanities.com/), hit the _New Quote_-button a few times, and read the definition that appears. Some guiding questions:
     - How do the definitions you encounter vary each time you refresh the page? What does this diversity tell you about the nature of Digital Humanities as a field? What are the commonalities between the definitions? What are the differences? Consider the role technology plays in these definitions. Is it merely a tool, or does it fundamentally reshape the humanities?
   - [Liu, Alan. “Imagining the New Media Encounter.”](https://app.perusall.com/courses/introdh24/imagining-the-new-media-encounter) In _A Companion to Digital Literary Studies_, edited by Ray Siemens and Susan Schreibman, pp. 1–25. Wiley, 2013.

@@ -23,8 +23,8 @@ else:
     <span class="session-title">Coding Literacy, pt. 1</span>
   </summary>
   <div markdown="1">
-- [slides](#)
-- [reading](#)
+- [Slides](#)
+- Pre-Class Reflection
 </div>
 </details>
 
@@ -37,6 +37,6 @@ else:
   </summary>
   <div markdown="1">
 - [slides](#)
-- Reading and Assignments:
+- Pre-Class Reflection
 </div>
 </details>
