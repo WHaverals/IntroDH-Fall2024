@@ -2,7 +2,7 @@
 title: Week 2 - Data Culture(s)
 ---
 
-This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on 'data' as a core concept, and the methodologies that propel the field forward. Later on this week, we focus on practical applications of metadata, markup and data description.
+This week we survey the expansive terrain of Digital Humanities. First, we'll engage in a discussion on 'data' as a core concept, and the methodologies that propel the field forward. Later on this week, we focus on practical applications of metadata and data description.
 
 <details>
   <summary class="session-summary">
@@ -31,7 +31,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     <span class="arrow">↪</span>
     <span class="date-label">Feb 8</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Metadata, markup, and data description</span>
+    <span class="session-title">Metadata and data description</span>
   </summary>
   <div markdown="1">
 - [Slides](#)
