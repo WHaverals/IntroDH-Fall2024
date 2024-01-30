@@ -23,6 +23,12 @@ logo: 'assets/favicon/logo-class-notext.png'
 favicon_ico: 'assets/favicon/class-logo.ico'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings
+ga_tracking: G-GD3N1CKBGG
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.6.1
 color_scheme: light
