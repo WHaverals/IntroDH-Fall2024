@@ -11,7 +11,7 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
     <span class="session-title">Data Visualization</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection:
   - http://www.visualcomplexity.com/vc/
   - Few, Stephen. “Silly Graphs That Are Best Foresaken.” _Show Me the Numbers: Designing Tables and Graphs to Enlighten_, Analytics Press, 2012, pp. 271–85.
@@ -31,7 +31,7 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
     <span class="session-title">GIS</span>
   </summary>
   <div markdown="1">
-    - [Slides](#)
+    - Slides (_coming soon_)
     - Pre-Class Reflection:
       - [Monmonier, Mark S. “Chapter 11. Data Maps: A Thicket of Thorny Choices.”](https://app.perusall.com/courses/introdh24/monmonier_2018_chapter-11) How to Lie with Maps, Third edition, The University of Chicago Press, 2018, pp. 153–78.
       - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>

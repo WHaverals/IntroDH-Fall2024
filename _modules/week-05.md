@@ -12,7 +12,7 @@ During our first session this week, we will look at  into the technology behind 
     <span class="session-title">Text Recognition Technologies</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection:
   - [Terras, Melissa. “Present, Not Voting: Digital Humanities in the Panopticon.”](https://app.perusall.com/courses/introdh24/terras_2012_present-not-voting) _Understanding Digital Humanities_, edited by David M. Berry, Palgrave Macmillan UK, 2012, pp. 172–90.
 
@@ -27,7 +27,7 @@ During our first session this week, we will look at  into the technology behind 
     <span class="session-title">Content Management Systems</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection:
 </div>
 </details>

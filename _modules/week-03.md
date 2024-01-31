@@ -12,7 +12,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
     <span class="session-title">Exploring Princeton's Postcards</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Exercise:
   - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions:
 
@@ -40,7 +40,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
     <span class="session-title">Data Cleaning</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Reflection:
   - [Rawson, Katie, and Muñoz Trevor. “Against Cleaning.”](https://app.perusall.com/courses/introdh24/rawson_trevor_2019_against-cleaning) _Debates in the Digital Humanities_, University of Minnesota Press, 2019, pp. 279–92.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>

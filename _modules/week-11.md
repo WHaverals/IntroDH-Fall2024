@@ -23,7 +23,7 @@ else:
     <span class="session-title">Coding Literacy, pt. 1</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection
 </div>
 </details>
@@ -36,7 +36,7 @@ else:
     <span class="session-title">Coding Literacy, pt. 2</span>
   </summary>
   <div markdown="1">
-- [slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection
 </div>
 </details>

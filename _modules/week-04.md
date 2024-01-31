@@ -12,7 +12,7 @@ In this module, we investigate the critical procedures involved in annotating da
     <span class="session-title">Data Modeling</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection:
   - [So, Richard Jean. “‘All Models Are Wrong.’”](https://app.perusall.com/courses/introdh24/so_2017_-all-models-are-wrong) _PMLA_, vol. 132, no. 3, 2017, pp. 668–73.
   - [McCarty, Willard. “Modeling: A Study in Words and Meanings.”](https://app.perusall.com/courses/introdh24/mccarty_2004_modeling) _A Companion to Digital Humanities_, edited by Susan Schreibman et al., Blackwell Publishing Ltd, 2004, pp. 254–70.

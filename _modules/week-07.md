@@ -11,7 +11,7 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
     <span class="session-title">Topic Modeling</span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection
 </div>
 </details>
@@ -24,7 +24,7 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
     <span class="session-title">Topic Modeling with <i>MALLET</i></span>
   </summary>
   <div markdown="1">
-- [Slides](#)
+- Slides (_coming soon_)
 - Pre-Class Reflection
 </div>
 </details>
