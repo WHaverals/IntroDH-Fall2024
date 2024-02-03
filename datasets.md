@@ -75,7 +75,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Derrida's Library Annotations](https://dataspace.princeton.edu/handle/88435/dsp01gf06g579z)**: An intimate look into the margins of Jacques Derrida's personal library, where the philosopher's handwritten notes offer a unique perspective on his thoughts and work.
 - **[Virgin Mary Tales](https://zenodo.org/record/6909569)**: A narrative compilation that spans centuries, documenting tales of the Virgin Mary within Ethiopia, Eritrea, and Egypt from 1300 to the present.
 - **[Shakespeare & Company Lending Library Records](https://shakespeareandco.princeton.edu/about/data/)**: The borrowing records from the iconic English-language lending library in 1920s-1930s Paris.
-
+- **[Princeton University Art Museum](https://artmuseum.princeton.edu/)**: The Princeton University Art Museum collection includes over 113,000 works of art that range from ancient to contemporary art and span the globe. The museum's [API](https://github.com/Princeton-University-Art-Museum/puam-api-docs) offers digital access to detailed collection data. This includes information about each artwork, like the creator, creation date, physical dimensions, medium used, and analytical insights from curators or scholars. For more information, see also [this excellent blog post](https://artmuseum.princeton.edu/story/exploration-and-innovation-new-digital-tools-increase-engagement).
+- **[Papers of Princeton](https://theprince.princeton.edu/princetonperiodicals/)**: A collection of digitized Princeton University student newspapers, including _The Daily Princetonian_, _The Woman's Newspaper of Princeton_, and _The Nassau Literary Review_. 
 
 ### Miscellaneous
 - **[North American Comics Metadata](https://github.com/ktopham/comics-as-data)**: Dive into the metadata from the Michigan State University Library Comics Art Collection.
