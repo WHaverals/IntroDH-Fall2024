@@ -9,7 +9,7 @@ parent: Resources
 
 There are some great datasets out there! In this course, we will encounter and play with some of the ones listed here below. It goes without saying that it is impossible for this list to be exhaustive. Look at it as a point of reference, but perhaps more so as a place of inspiration. Should you stumble upon a fascinating dataset or have one to recommend, please bring it to my attention so we can enrich our collection further.
 
-One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), [Kaggle](https://www.kaggle.com/datasets), and the [Journal of Open Humanities Data (JOHD)](https://openhumanitiesdata.metajnl.com/).
+One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), [Kaggle](https://www.kaggle.com/datasets), and the [Journal of Open Humanities Data (JOHD)](https://openhumanitiesdata.metajnl.com/). The website [Humanities Data](https://humanitiesdata.com/resources) also offers a curated list of datasets.
 
 In the spirit of John Donne's insight that ["No man is an island,"](https://allpoetry.com/No-man-is-an-island) the field of Digital Humanities thrives on collaborative curation of resources. With this in mind, here are some excellent compilations of datasets put together by other scholars:
 
@@ -37,6 +37,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[SlaveVoyages](https://www.slavevoyages.org/)**: Collaborative digital initiative that compiles and makes publicly accessible records of the largest slave trades in history.
 - **[The Survey of Scottish Witchcraft](https://witches.hca.ed.ac.uk/)**: A database of people accused of witchcraft in Scotland between 1563 and 1736.
 - **[ToposText](https://topostext.org/TT-downloads)**: An indexed compilation of ancient texts and mapped places significant to the history and mythology of the ancient Greeks, covering periods from the Neolithic era to the 2nd century CE.
+- **[The Chinese Text Project](https://ctext.org/)**: A digital library of pre-modern Chinese texts. With over 30,000 titles and more than 5 billion characters, it is the largest database of pre-modern Chinese texts in existence.
+- **[Eighteenth-Century Poetry Archive (ECPA)](https://www.eighteenthcenturypoetry.org/)**: Collaborative digital archive and research project devoted to the poetry of the long eighteenth century. ECPA builds on the electronic texts created by the Text Creation Partnership from Gale’s _Eighteenth Century Collections Online_ (ECCO).
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.
