@@ -45,6 +45,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)**: Digital archive of British historical newspapers.
 - **[Trove - Australian Newspapers](https://trove.nla.gov.au/newspaper/)**: Digitized version of various Australian newspapers.
 - **[Historic Mexican & Mexican American Press](http://contentdm-landing.library.arizona.edu/contentdm/mmap/index.html)**: A collection of historic Mexican and Mexican American publications from the mid-1800s to the 1970s.
+- **[The New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/LDC2008T19)**: A corpus of New York Times articles from 1987 to 2007, annotated with hand-annotated linguistic and semantic tags.
 
 ### Art and Image Collections
 - **[The Met Collection API](https://metmuseum.github.io/)**: Access to The Met's art collection.
@@ -91,5 +92,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Dog Names in New York City](https://a816-dohbesp.nyc.gov/IndicatorPublic/dognames/):** A [dataset](https://github.com/Kaz-A/dog_names/) of dog names registered in New York City (what did you expect?).
 - **[Western Europe 650 Year Grape Harvest Date Database](https://www.ncei.noaa.gov/access/paleo-search/study/13194)**: A dataset of grape harvest dates from 1354 to 2006, compiled from a variety of sources.
 - **[Museum Salary Transparency](https://docs.google.com/spreadsheets/d/14_cn3afoas7NhKvHWaFKqQGkaZS5rvL6DFxzGqXQa6o/edit#gid=0)**: A crowdsourced spreadsheet that collects information on museum salaries.
+- **[All Places of Worship in the United States](https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::all-places-of-worship/about)**: A dataset of all places of worship in the United States, including their names, addresses, and geographical coordinates.
 - **[The COVID Tracking Project](https://covidtracking.com/data)**: A volunteer organization launched from The Atlantic that collects and publishes the most complete testing data available for U.S. states and territories.
 - **[COVID-19 Open Research Dataset (CORD-19)](https://www.semanticscholar.org/cord19)**: Corpus of academic papers about COVID-19 and related coronavirus research, curated and maintained by the Semantic Scholar team at the Allen Institute for AI to support text mining and NLP research.
+- **[International Database and Gallery of Structures](https://structurae.net/en/structures/):** Database of structures, including [bridges](https://structurae.net/en/structures/bridges), [buildings](https://structurae.net/en/structures/buildings), [cathedrals](https://structurae.net/en/structures/buildings/cathedrals/list), [rollercoasters](https://structurae.net/en/structures/amusement-rides), [towers](https://structurae.net/en/structures/towers) and other large structures, with detailed information on their design, construction, and history.
