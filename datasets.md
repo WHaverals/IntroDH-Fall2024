@@ -39,6 +39,10 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[ToposText](https://topostext.org/TT-downloads)**: An indexed compilation of ancient texts and mapped places significant to the history and mythology of the ancient Greeks, covering periods from the Neolithic era to the 2nd century CE.
 - **[The Chinese Text Project](https://ctext.org/)**: A digital library of pre-modern Chinese texts. With over 30,000 titles and more than 5 billion characters, it is the largest database of pre-modern Chinese texts in existence.
 - **[Eighteenth-Century Poetry Archive (ECPA)](https://www.eighteenthcenturypoetry.org/)**: Collaborative digital archive and research project devoted to the poetry of the long eighteenth century. ECPA builds on the electronic texts created by the Text Creation Partnership from Gale’s _Eighteenth Century Collections Online_ (ECCO).
+- **[Coptic Scriptorium](https://copticscriptorium.org/)**: A digital library of texts and tools for the study of Coptic literature. Over 1,278,500 tokens of searchable, linguistically analyzed Coptic data from dozens of ancient Coptic works.
+- **[The Digital Library of the Middle East](https://dlme.clir.org/)**: Large collection of digital texts, images, and other media from the Middle East, including manuscripts, maps, and photographs.
+- **[The Digital Library of the Caribbean](https://www.dloc.com/)**: A cooperative digital library for resources from and about the Caribbean and circum-Caribbean.
+- **[French Revolution Digital Archive](https://frda.stanford.edu/)**: A collection of primary source documents from the French Revolution, including the [Parliamentary archives](https://sul-philologic.stanford.edu/philologic/archparl/) and images of the [French Revolution](https://exhibits.stanford.edu/frenchrevolution). 
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.
@@ -53,6 +57,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Europeana Collections](https://www.europeana.eu/en)**: Digital access to European cultural heritage artifacts.
 - **[Smithsonian Open Access](https://www.si.edu/openaccess)**: Explore digitized images, texts, videos, and sound recordings from the Smithsonian's collections.
 - **[David Rumsey Historical Map Collection](https://www.davidrumsey.com/)**: A wonderful collection of historical maps.
+- **[The Digital Cicognara Library](https://cicognara.org/)**: Digital collection of early literature on art and  archaeology, replicating and expanding the original 5,000-volume library of Leopoldo Cicognara held at the Vatican. The texts are primarily in Italian, French, English, German, and Latin.
 
 ### Music and Audio Archives
 - **[Internet Archive’s Audio Archive](https://archive.org/details/audio)**: Access to music recordings, audiobooks, podcasts, and radio programs.
