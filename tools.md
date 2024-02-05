@@ -43,6 +43,11 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[Gephi](https://gephi.org/)**: Open-source software for all kinds of graphs and networks.
 - **[RAWGraphs](https://rawgraphs.io/)**: Open-source data visualization framework, turning spreadsheets and into beautiful graphics.
 - **[Datawrapper](https://www.datawrapper.de/)**: Create charts, maps, and tables.
+- **[Palladio](http://hdlab.stanford.edu/palladio/)**: A web-based platform for the visualization of complex, multi-dimensional data.
+- **[NetworkX](https://networkx.github.io/)**: A Python library for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+- **[Network Navigator](https://networknavigator.jrladd.com/)**: A web-based tool designed to give you a first glimpse of your network data, with both metrics and visualizations.
+- **[Cytoscape](https://cytoscape.org/)**: An open source software platform for visualizing complex networks and integrating these with any type of attribute data.
+- **[WTFcsv](https://wtfcsv.com/)**: Tells you WTF is going on with your .csv file.
 
 ### Mapping and Spatial Analysis
 - **[QGIS](https://qgis.org/en/site/)**: A free and open-source geographic information system.
