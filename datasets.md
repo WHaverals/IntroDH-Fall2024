@@ -53,6 +53,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 
 ### Art and Image Collections
 - **[The Met Collection API](https://metmuseum.github.io/)**: Access to The Met's art collection.
+- **[The Museum of Modern Art (MoMA) Collection](https://github.com/MuseumofModernArt/collection): This research dataset contains 140,848 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in its database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the museum.
 - **[The Rijksmuseum API](https://data.rijksmuseum.nl/object-metadata/api/)**: Access art from the  Rijksmuseum in Amsterdam.
 - **[Europeana Collections](https://www.europeana.eu/en)**: Digital access to European cultural heritage artifacts.
 - **[Smithsonian Open Access](https://www.si.edu/openaccess)**: Explore digitized images, texts, videos, and sound recordings from the Smithsonian's collections.
