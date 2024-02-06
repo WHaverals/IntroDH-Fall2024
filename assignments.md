@@ -54,7 +54,7 @@ Please post the name and link to your chosen dataset in the [#data-bio](https://
 Your Data Biography should tell a story about the dataset that addresses the following key aspects:
 
 - **Introduce** the dataset and its contents. What kind of information is in there? How much data is there?
-- **Who** collected, processed, and made avaialbe the data?
+- **Who** collected, processed, and made available the data?
 - **How** was the data collected, processed, and made available?
 - **Why** was the data collected, what are its intended research questions?
 - **Where** is the data stored today? How did you access it?
