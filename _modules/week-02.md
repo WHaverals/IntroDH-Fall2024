@@ -9,7 +9,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     <span class="arrow">↪</span>  
     <span class="date-label">Feb 6</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Concepts, Methods, and Tools</span>
+    <span class="session-title">Getting our data together</span>
   </summary>
   <div markdown="1">
     
