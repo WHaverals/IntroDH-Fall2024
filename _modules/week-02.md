@@ -34,7 +34,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     <span class="session-title">Metadata and data description</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon_)
+- [Slides](https://docs.google.com/presentation/d/1_bi87M3C2AIugQEvzCU6jQV0_AjZ_HTrzvRnbKai2Jc/edit?usp=sharing):
 - Reflection:
   - [Manovich, Lev. “Database as Symbolic Form.”](https://app.perusall.com/courses/introdh24/manovich_1999_database-as-symbolic-form) _Convergence: The International Journal of Research into New Media Technologies_, vol. 5, no. 2, June 1999, pp. 80–99.
   - [Pomerantz, Jeffrey. “Introduction.”](https://app.perusall.com/courses/introdh24/pomerantz_2015_introduction) _Metadata_, The MIT Press, 2015, pp. 1–18.
