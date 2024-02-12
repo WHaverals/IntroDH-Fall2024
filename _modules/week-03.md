@@ -44,7 +44,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
 - Reflection:
   - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.”](https://app.perusall.com/courses/introdh24/scho-ch_big) _Journal of Digital Humanities_, vol. 2, no. 3, 2013.
   - [Rawson, Katie, and Muñoz Trevor. “Against Cleaning.”](https://app.perusall.com/courses/introdh24/rawson_trevor_2019_against-cleaning) _Debates in the Digital Humanities_, University of Minnesota Press, 2019, pp. 279–92.
+  - [Broman, Karl W., and Kara H. Woo. “Data Organization in Spreadsheets.”](https://app.perusall.com/courses/introdh24/data-organization-in-spreadsheets-23277228) _The American Statistician_, vol. 72, no. 1, 2018, pp. 2–10. <a style="color: #ee6374;"> **Perusall annotations are optional for this article.**</a>
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
-
 </div>
 </details>
