@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 2/13 CLASS CANCELED
 week: 3
 date: 2024-02-13
 ---

@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 2/15 CLASS @ MUDD LIBRARY
 week: 3
 date: 2024-02-14
 ---
