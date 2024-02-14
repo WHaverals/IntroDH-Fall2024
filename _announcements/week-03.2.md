@@ -14,7 +14,7 @@ Here's a brief recap of the changes and what to expect moving forward:
 
 - Feb. 20: our Lab on Data Cleaning has been postponed to next week, February 20th. As such, the reading assignments and reflections that were originally due for tomorrow's class are now due before the lab session next week. For those who have already posted their reflections: great! For everyone else, this means you've got some extra time.
 
-- Feb. 22: we'll be back on track with our original schedule by February 22nd, and I'm looking forward to your presentations on your Data Bibliographies.
+- Feb. 22: we'll be back on track with our original schedule by February 22nd, and I'm looking forward to your presentations on your Data Biographies.
 
 Please take a moment to visit the course website where I've posted the [updated schedule](https://whaverals.github.io/IntroDH2024/schedule/). Adjustments have been made to ensure that our learning journey remains smooth and -- until the next snow storm -- uninterrupted.
 
