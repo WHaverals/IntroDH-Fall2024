@@ -32,7 +32,7 @@ While our course takes place in person, we will use _Slack_ as an additional com
 
 ## Office Hours
 
-I'm available for office hours every Tuesday and Thursday from 1:00-2:00pm at [Chancellor Green Cafe](https://dining.princeton.edu/where-eat/chancellor-green-cafe). Office hours are a great chance for us to discuss anything related to the class – be it readings, assignments, feedback, challenging concepts. I'm also happy to chat about your interests in digital humanities, or to help you find resources for your research. If you can't make it to office hours, feel free to email me to set up an appointment.
+I'm available for office hours every Tuesday and Thursday from 1:00-2:00pm at the [Tiger Tea Room](https://dining.princeton.edu/where-eat/locations/tiger-tea-room). Office hours are a great chance for us to discuss anything related to the class – be it readings, assignments, feedback, challenging concepts. I'm also happy to chat about your interests in digital humanities, or to help you find resources for your research. If you can't make it to office hours, feel free to email me to set up an appointment.
 
 ## Class Etiquette
 
