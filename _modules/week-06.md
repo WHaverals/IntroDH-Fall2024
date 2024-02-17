@@ -15,6 +15,8 @@ This week begins with a lecture on Distant Reading, where we will explore the th
 - Slides (_coming soon_)
 - Reflection:
   - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020.
+  - [Nguyen, Dong, et al. “How We Do Things With Words: Analyzing Text as Social and Cultural Data.”](https://app.perusall.com/courses/introdh24/how-we-do-things-with-words-analyzing-text-as-social-and-cultural-data) _Frontiers in Artificial Intelligence_, vol. 3, article 63, Aug. 2020, p. 1-14.
+
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 
 </div>
