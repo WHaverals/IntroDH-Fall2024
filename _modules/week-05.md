@@ -15,7 +15,7 @@ During our first session this week, we will look at  into the technology behind 
 - Slides (_coming soon_)
 - Pre-Class Reflection:
   - [Terras, Melissa. “Present, Not Voting: Digital Humanities in the Panopticon.”](https://app.perusall.com/courses/introdh24/terras_2012_present-not-voting) _Understanding Digital Humanities_, edited by David M. Berry, Palgrave Macmillan UK, 2012, pp. 172–90.
-  -[Cordell, Ryan. “Q I-Jtb the Raven. Taking Dirty OCR Seriously.”](https://app.perusall.com/courses/introdh24/cordell_2017_q-i-jtb-the-raven) _Book History_, vol. 20, 2017, pp. 188–225.
+  - [Cordell, Ryan. “Q I-Jtb the Raven. Taking Dirty OCR Seriously.”](https://app.perusall.com/courses/introdh24/cordell_2017_q-i-jtb-the-raven) _Book History_, vol. 20, 2017, pp. 188–225.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
 </div>
 </details>
