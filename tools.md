@@ -37,6 +37,7 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[Transkribus](https://readcoop.eu/)**: A platform for the automated recognition, transcription, and searching of historical documents.
 - **[daiR](https://dair.info/)**: R package for Google Document AI, a powerful server-based OCR processor with support for over 60 languages.
 - **[Kraken](https://kraken.re/main/index.html)**: Open source software that specializes in non-Latin alphabets, including bidirectional, right-to-left, and top-to-bottom scripts. Kraken is Python-based and runs on the command line.
+- **[CERberus](https://github.com/WHaverals/CERberus)**: Great tool for string comparison and error detection in HTR'd or OCR'd text. The tool provides an implementation of Character Error Rate calculation between a reference string and a hypothesis string, with various customization options.
 
 ### Data Visualization
 - **[Tableau Public](https://public.tableau.com/en-us/s/)**: Create interactive data visualizations.
