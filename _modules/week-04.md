@@ -45,5 +45,27 @@ In this module, we investigate the critical procedures involved in annotating da
     <span class="session-title">Data Biographies</span>
   </summary>
   <div markdown="1">
+- Presentation overview:
+  - On this day, students will present their Data Biographies. This is a chance to share the intriguing stories behind the datasets you've explored!
+  - Each presentation should last approximately -- but also no more than -- **4 minutes**, followed by a brief (~1 minute) Q&A session.
+  - Focus on the **narrative** of your Data Biography, presenting on aspects you find interesting, such as origin, collector(s), collection method(s), intended use, and any limitations or ethical considerations.
+  - Use visuals or excerpts from your dataset to illustrate your points and engage the audience.
+  - For more details, refer to the [assignment description](https://whaverals.github.io/IntroDH2024/assignments/).
+- Presentation guidelines:
+  - Maximum of **five (5) slides** per presentation.
+  - Please add your slides to [this shared slide deck](https://docs.google.com/presentation/d/1mTgty4Mz-QqjX4BsHRMptukM-UFkppUwzIpYSDEeUT0/edit?usp=sharing) before the start of the class.
+  - Strict time limit of **four (4) minutes** for each presentation.
+  - Order of presentations:
+
+  | **Order - Presenter(s)** | **Order - Presenter(s)**     |
+  |--------------------------|------------------------------|
+  | 1 - _Alison_             | 8 - _Helen_                  |
+  | 2 - _Layla_              | 9 - _Colin + Melissa_        |
+  | 3 - _Talia_              | 10 - _James_                 |
+  | 4 - _Clay_               | 11 - _Raphaela + Emanuelle_  |
+  | 5 - _Andrew_             | 12 - _Pippa_                 |
+  | 6 - _Anya_               | 13 - _Yaashree_              |
+  | 7 - _Ethan_               | 14 - _Pia_                   |
+
 </div>
 </details>
