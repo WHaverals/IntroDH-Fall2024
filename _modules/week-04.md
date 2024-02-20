@@ -28,7 +28,7 @@ In this module, we investigate the critical procedures involved in annotating da
     <span class="session-title">Data Cleaning</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon_)
+- [Slides](https://docs.google.com/presentation/d/1WNAZoiC1tHxecpvQ1-EZ85lQORbbX97VGTdM98Q4_mI/edit?usp=sharing)
 - Reflection:
   - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.”](https://app.perusall.com/courses/introdh24/scho-ch_big) _Journal of Digital Humanities_, vol. 2, no. 3, 2013.
   - [Rawson, Katie, and Muñoz Trevor. “Against Cleaning.”](https://app.perusall.com/courses/introdh24/rawson_trevor_2019_against-cleaning) _Debates in the Digital Humanities_, University of Minnesota Press, 2019, pp. 279–92.
