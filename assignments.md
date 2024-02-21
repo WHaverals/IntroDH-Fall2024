@@ -68,7 +68,7 @@ Some additional notes:
 - Digging deep is key for this assignment. You might need to delve into project details, read through "About" or "Methodology" sections, or document the absence of information.
 - Feel free to expand upon Krause's template, considering additional categories like data format, processing steps, data dictionaries, and layers of mediation.
 
-You will submit a reflection paper of 2-3 pages (about 1000-1500 words), double-spaced, that includes:
+You will submit a reflection paper of 2-4 pages (about 1000-1500 words), double-spaced, that includes:
 
 - An **introduction** to your dataset, providing details about its origin, ownership, collection process, purpose, and timeline.
 - A **discussion** on how these specific details shape the kinds of questions that can be responsibly asked of the dataset.
