@@ -62,7 +62,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Flickr Creative Commons](https://www.flickr.com/creativecommons/)**: Many Flickr users have chosen to offer their work under the very permissive Creative Commons license, and you can browse or search through content under each type of license.
 - **[The British Library's Flickr Commons](https://www.flickr.com/photos/britishlibrary/albums)**: A collection of over a million public domain images from the British Library.
 - **[Graphic Novel Corpus](https://groups.uni-paderborn.de/graphic-literature/gncorpus/corpus.php)**: 253 graphic narratives written in English and published in the United States, Great Britain, Canada, and India.
-
+- **[The New Yorker Cartoon Caption Contest Dataset](https://nextml.github.io/caption-contest-data/)**: A dataset of New Yorker cartoons and the captions that were submitted to the magazine's weekly caption contest.
 
 ### Music and Audio Archives
 - **[Internet Archive’s Audio Archive](https://archive.org/details/audio)**: Access to music recordings, audiobooks, podcasts, and radio programs.
