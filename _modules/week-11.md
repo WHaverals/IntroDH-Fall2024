@@ -24,7 +24,8 @@ else:
   </summary>
   <div markdown="1">
 - Slides (_coming soon_)
-- Pre-Class Reflection
+- Pre-Class Reflection:
+  - Schmidt, Benjamin M. “Do Digital Humanists Need to Understand Algorithms?” Debates in the Digital Humanities, vol. 53, 2016.
 </div>
 </details>
 

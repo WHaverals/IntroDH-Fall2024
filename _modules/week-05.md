@@ -31,5 +31,7 @@ During our first session this week, we will look at  into the technology behind 
   <div markdown="1">
 - Slides (_coming soon_)
 - Pre-Class Reflection:
+  - Beshero-Bondar, Elisa, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam. “DSC #5: The DSC and the Impossible TEI Quandaries.” _The Data-Sitters Club_. June 25, 2020.
+  - [Budak, Nick. “Representing Gender in the Shakespeare and Company Project.”](https://shakespeareandco.princeton.edu/analysis/2019/12/representing-gender-in-the-shakespeare-and-company-project/) _Shakespeare and Company Project_, Version 1.5.7., 12 Dec. 2019.
 </div>
 </details>

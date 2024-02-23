@@ -14,6 +14,7 @@ This week begins with a lecture on Distant Reading, where we will explore the th
   <div markdown="1">
 - Slides (_coming soon_)
 - Reflection:
+  - Underwood, Ted. “A Genealogy of Distant Reading.” _Digital Humanities Quarterly_, vol. 11, no. 2, 2017.
   - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020.
   - [Nguyen, Dong, et al. “How We Do Things With Words: Analyzing Text as Social and Cultural Data.”](https://app.perusall.com/courses/introdh24/how-we-do-things-with-words-analyzing-text-as-social-and-cultural-data) _Frontiers in Artificial Intelligence_, vol. 3, article 63, Aug. 2020, p. 1-14.
 
