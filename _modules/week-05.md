@@ -1,8 +1,8 @@
 ---
-title: Week 5 - Text Digitization and Content Management
+title: Week 5 - Text Digitization and Markup Languages
 ---
 
-During our first session this week, we will look at  into the technology behind making text digitally readable. Our historic postcard collection provides the perfect case study for exploring both Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) technologies. In our subsequent session, we will explore the concept of Content Management Systems (CMS) and how they can be used to manage, present, and narrate digital content. We will evaluate different types of CMS platforms and discuss their strengths and weaknesses.
+During our first session this week, we will look at  into the technology behind making text digitally readable. Our historic postcard collection provides the perfect case study for exploring both Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) technologies. In our subsequent session, we will explore the world of markup languages, such as HTML and XML. We will discuss their significance in structuring and presenting digital content, and explore how these languages serve as the backbone of content representation on the web.
 
 <details>
   <summary class="session-summary">
@@ -26,12 +26,12 @@ During our first session this week, we will look at  into the technology behind 
     <span class="arrow">↪</span>
     <span class="date-label">Feb 29</span>
     <span class="label label-red">Lab</span>
-    <span class="session-title">Content Management Systems</span>
+    <span class="session-title">Markup Languages</span>
   </summary>
   <div markdown="1">
 - Slides (_coming soon_)
 - Pre-Class Reflection:
-  - Beshero-Bondar, Elisa, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam. “DSC #5: The DSC and the Impossible TEI Quandaries.” _The Data-Sitters Club_. June 25, 2020.
+  - [Beshero-Bondar, Elisa, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam. “DSC #5: The DSC and the Impossible TEI Quandaries.”](https://app.perusall.com/courses/introdh24/dsc-5-the-dsc-and-the-impossible-tei-quandaries-the-data-sitters-club) _The Data-Sitters Club_. June 25, 2020.
   - [Budak, Nick. “Representing Gender in the Shakespeare and Company Project.”](https://shakespeareandco.princeton.edu/analysis/2019/12/representing-gender-in-the-shakespeare-and-company-project/) _Shakespeare and Company Project_, Version 1.5.7., 12 Dec. 2019.
 </div>
 </details>
