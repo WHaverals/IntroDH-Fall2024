@@ -12,7 +12,7 @@ During our first session this week, we will look at  into the technology behind 
     <span class="session-title">Text Recognition Technologies</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon_)
+- [Slides](https://docs.google.com/presentation/d/1PjYnYRgqjD_MzFKO2Ryma4g-U0eo_6usRbizasL0NiU/edit?usp=sharing)
 - Pre-Class Reflection:
   - [Terras, Melissa. “The Role of the Library When Computers Can Read: Critically Adopting Handwritten Text Recognition (HTR) Technologies to Support Research.”](https://app.perusall.com/courses/introdh24/terras-2022-the-role-of-the-library-when-computers-can-read-c-404383324) _The Rise of AI_, edited by Amanda Wheatley and Sandy Hervieux, ACRL - Association of College & Research Libraries, 2022, pp. 137–48.
   <!-- - [Terras, Melissa. “Present, Not Voting: Digital Humanities in the Panopticon.”](https://app.perusall.com/courses/introdh24/terras_2012_present-not-voting) _Understanding Digital Humanities_, edited by David M. Berry, Palgrave Macmillan UK, 2012, pp. 172–90. -->
