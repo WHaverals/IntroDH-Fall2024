@@ -64,6 +64,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[The British Library's Flickr Commons](https://www.flickr.com/photos/britishlibrary/albums)**: A collection of over a million public domain images from the British Library.
 - **[Graphic Novel Corpus](https://groups.uni-paderborn.de/graphic-literature/gncorpus/corpus.php)**: 253 graphic narratives written in English and published in the United States, Great Britain, Canada, and India.
 - **[The New Yorker Cartoon Caption Contest Dataset](https://nextml.github.io/caption-contest-data/)**: A dataset of New Yorker cartoons and the captions that were submitted to the magazine's weekly caption contest.
+- **[USDA Pomological Watercolor Collection](https://github.com/jwilber/USDA_Pomological_Watercolors)**: A collection of 7,584 watercolors, painted between 1886 and 1942 and used by the U.S. Department of Agriculture to document existing fruit and nut cultivars.
 
 ### Music and Audio Archives
 - **[Internet Archive’s Audio Archive](https://archive.org/details/audio)**: Access to music recordings, audiobooks, podcasts, and radio programs.
