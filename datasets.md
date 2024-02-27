@@ -50,6 +50,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Trove - Australian Newspapers](https://trove.nla.gov.au/newspaper/)**: Digitized version of various Australian newspapers.
 - **[Historic Mexican & Mexican American Press](http://contentdm-landing.library.arizona.edu/contentdm/mmap/index.html)**: A collection of historic Mexican and Mexican American publications from the mid-1800s to the 1970s.
 - **[The New York Times Annotated Corpus](https://catalog.ldc.upenn.edu/LDC2008T19)**: A corpus of New York Times articles from 1987 to 2007, annotated with hand-annotated linguistic and semantic tags.
+- **[National Geographic Covers](https://github.com/jwilber/National_Geographic_Covers)**: A dataset of National Geographic magazine covers from 1960 to 2018.
 
 ### Art and Image Collections
 - **[The Met Collection API](https://metmuseum.github.io/)**: Access to The Met's art collection.
@@ -80,6 +81,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)**: A collection of metadata on over 45,000 movies, including 26 million ratings from over 270,000 users.
 - **[Bechdel Test Film Dataset]((https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/))**: An analysis by FiveThirtyEight on gender bias in films. This dataset underpins a 2014 article that investigates Hollywood's gender disparities through the lens of the Bechdel Test.
 - **[Early African-American Film Database, 1909–1930](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7)**: This dataset focuses on silent "race films" created before 1930 featuring African-Americans for primarily African-American audiences. It compiles records on films, actors, production companies, and other elements of the early race film industry.
+- **[Skate Video Dataset](https://www.skatevideosite.com/)**: A collection of metadata on skateboarding videos, including information on the skaters, and the music used in the videos. This [dataset](https://github.com/the-pudding/data/tree/master/skate-music) was used in an essay by The Pudding -- [_The Good, the Rad, and the Gnarly_](https://pudding.cool/2018/06/skate-music/) -- published in June 2018.
 
 ### Datasets curated and maintained at Princeton University 🐯
 - **[Princeton University's Center for Digital Humanities (CDH)](https://cdh.princeton.edu/)**: The CDH is a hub for digital humanities research, teaching, and learning at Princeton University. Check out their [datasets](https://cdh.princeton.edu/datasets/) and [projects](https://cdh.princeton.edu/projects/)!
