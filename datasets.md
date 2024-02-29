@@ -43,6 +43,9 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[The Digital Library of the Middle East](https://dlme.clir.org/)**: Large collection of digital texts, images, and other media from the Middle East, including manuscripts, maps, and photographs.
 - **[The Digital Library of the Caribbean](https://www.dloc.com/)**: A cooperative digital library for resources from and about the Caribbean and circum-Caribbean.
 - **[French Revolution Digital Archive](https://frda.stanford.edu/)**: A collection of primary source documents from the French Revolution, including the [Parliamentary archives](https://sul-philologic.stanford.edu/philologic/archparl/) and images of the [French Revolution](https://exhibits.stanford.edu/frenchrevolution). 
+- **[Victorian Women Writers Project](https://webapp1.dlib.indiana.edu/vwwp/)**: Project primarily concerned with the exposure of lesser-known British women writers of the 19th century. The collection represents an array of genres - poetry, novels, children's books, political pamphlets, religious tracts, histories, and more.
+- **[American Verse Project](https://quod.lib.umich.edu/a/amverse/)**: Electronic archive of volumes of American poetry prior to 1920. The full text of each volume of poetry was converted into digital form and coded adhering to the TEI guidelines.
+- **[African American Literature Text Corpus](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923)**: Text Corpus of African American Fiction and Poetry, from 1853-1923.
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.
