@@ -12,7 +12,7 @@ This week begins with a lecture on Distant Reading, where we will explore the th
     <span class="session-title">Distant Reading</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon_)
+- [Slides](https://docs.google.com/presentation/d/1Wr1hB7AAHe7k-SvHlpsPPLcDVlLmOkd3r1TwmhJwlcM/edit?usp=sharing)
 - Reflection:
   - [Underwood, Ted. “A Genealogy of Distant Reading.”](https://app.perusall.com/courses/introdh24/underwood_2017_a-genealogy-of-distant-reading) _Digital Humanities Quarterly_, vol. 11, no. 2, 2017.
   - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020.
