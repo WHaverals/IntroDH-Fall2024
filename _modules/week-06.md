@@ -29,7 +29,7 @@ This week begins with a lecture on Distant Reading, where we will explore the th
     <span class="session-title">Applying <i>Voyant Tools</i></span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon_)
+- [Slides](https://docs.google.com/presentation/d/1A57JzFa7wwh3XPnwn4IccQwml0cI_YM_8-_0yjayoUY/edit?usp=sharing)
 - Pre-Class Reflection:
   <!-- - [Da, Nan Z. “The Computational Case against Computational Literary Studies.”](https://app.perusall.com/courses/introdh24/da_2019_the-computational-case-against-computational-literary-studies) _Critical Inquiry_, vol. 45, no. 3, Mar. 2019, pp. 601–39. -->
   - [Nguyen, Dong, et al. “How We Do Things With Words: Analyzing Text as Social and Cultural Data.”](https://app.perusall.com/courses/introdh24/how-we-do-things-with-words-analyzing-text-as-social-and-cultural-data) _Frontiers in Artificial Intelligence_, vol. 3, article 63, Aug. 2020, p. 1-14.
