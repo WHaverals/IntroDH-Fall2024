@@ -31,6 +31,7 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
 - Slides (_coming soon_)
   - [jsLDA website](https://mimno.infosci.cornell.edu/jsLDA/)
   - [Data](https://drive.google.com/drive/folders/10Wg9n4IutZanknePYxOSONTGm0lseFep?usp=sharing)
+  - [Themes identified from 3,000 volumes of Speculative Fiction (SF)](https://mimno.infosci.cornell.edu/sf/) from the [HathiTrust](https://www.hathitrust.org/) digital library.
 - Pre-Class Reflection <small>&rarr; **Perusall annotations not required for these readings.**</small>
   - [Boyd-Graber, Jordan, et al. “Applications of Topic Models.”](https://app.perusall.com/courses/introdh24/boyd-graber-et-al-2017-applications-of-topic-models) _Foundations and Trends in Information Retrieval_, vol. 11, no. 2–3, 2017, pp. 143–296. <small>&rarr; This is a big one! No need to read in depth; become acquainted with chapters 1.1, 1.2 (+ 1.3 if you want to get a bit more technical), chapter 3, and chapter 6.</small>
   - [Antoniak, Maria. _A Computational Reading of a Birth Stories Community_](https://maria-antoniak.github.io//2019/11/04/computational-reading-birth-stories.html). 5 Nov. 2019.
