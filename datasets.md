@@ -46,6 +46,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Victorian Women Writers Project](https://webapp1.dlib.indiana.edu/vwwp/)**: Project primarily concerned with the exposure of lesser-known British women writers of the 19th century. The collection represents an array of genres - poetry, novels, children's books, political pamphlets, religious tracts, histories, and more.
 - **[American Verse Project](https://quod.lib.umich.edu/a/amverse/)**: Electronic archive of volumes of American poetry prior to 1920. The full text of each volume of poetry was converted into digital form and coded adhering to the TEI guidelines.
 - **[African American Literature Text Corpus](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923)**: Text Corpus of African American Fiction and Poetry, from 1853-1923.
+- **[The Westminster Detective Library](https://wdl.mcdaniel.edu/)**: A collection of hundreds of detective stories, all printed before 1891 (i.e. pre-Sherlock Holmes!).
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.
