@@ -26,6 +26,7 @@ else:
 - Slides (_coming soon_)
 - Pre-Class Reflection:
   - Schmidt, Benjamin M. “Do Digital Humanists Need to Understand Algorithms?” Debates in the Digital Humanities, vol. 53, 2016.
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 </div>
 </details>
 
