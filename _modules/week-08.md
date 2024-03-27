@@ -17,6 +17,7 @@ In this module, we will discover the world of stylometry, a field that probes th
 - Pre-Class Reflection
   - [Whissell, Cynthia. “Traditional and Emotional Stylometric Analysis of the Songs of Beatles Paul McCartney and John Lennon.”](https://app.perusall.com/courses/introdh24/whissell-1996-traditional-and-emotional-stylometric-analysis-of) _Computers and the Humanities_, vol. 30, no. 3, 1996, pp. 257–65.
   - [Holmes, David I., and Judit Kardos. “Who Was the Author? An Introduction to Stylometry.”](https://app.perusall.com/courses/introdh24/holmes_kardos_2003_who-was-the-author) _Chance_, vol. 16, no. 2, 2003, pp. 5–8.
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 </div>
 </details>
 
@@ -42,6 +43,8 @@ In this module, we will discover the world of stylometry, a field that probes th
   - [Dederer, Claire. “Chapter 3. The Fan.” _Monsters. A Fan’s Dilemma_](https://app.perusall.com/courses/introdh24/dederer_2023_chapter-3), Alfred A. Knopf, 2023. 
   
     <small>&rarr; Perusall annotations not required for the readings on Rowling.</small>
+  
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 
 </div>
 </details>
