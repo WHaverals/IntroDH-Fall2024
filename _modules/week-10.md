@@ -14,7 +14,8 @@ This week, we continue our exploration of visualization in Digital Humanities wi
   <div markdown="1">
 - Slides (_coming soon_)
 - Pre-Class Reflection
-  - Weingart, Scott B. “Demystifying Networks, Parts I & II.” *Journal of Digital Humanities*, https://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/.
+  - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011.
+  - [Rhodes Ii, Mark Alan. “Paul Robeson’s Place in YouTube: A Social Spatial Network Analysis of Digital Heritage.”](https://app.perusall.com/courses/introdh24/paul-robeson-s-place-in-youtube-a-social-spatial-network-analysis-of-digital-heritage) _Digital Scholarship in the Humanities_, vol. 34, no. 1, Apr. 2019, pp. 174–88.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 </div>
 </details>
@@ -29,7 +30,7 @@ This week, we continue our exploration of visualization in Digital Humanities wi
   <div markdown="1">
 - Slides (_coming soon_)
 - Pre-Class Reflection:
-  - [Haggerty, Kenneth. “Intellectual Property Guidelines for the Digital Humanities.”](https://app.perusall.com/courses/introdh24/haggerty_2020_intellectual-property-guidelines-for-the-digital-humanities) Routledge International Handbook of Research Methods in Digital Humanities, edited by Kristen Schuster and Stuart Dunn, Routledge, 2020, pp. 428–40.
+  - [Haggerty, Kenneth. “Intellectual Property Guidelines for the Digital Humanities.”](https://app.perusall.com/courses/introdh24/haggerty_2020_intellectual-property-guidelines-for-the-digital-humanities) _Routledge International Handbook of Research Methods in Digital Humanities_, edited by Kristen Schuster and Stuart Dunn, Routledge, 2020, pp. 428–40.
   - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 
 </div>
