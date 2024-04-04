@@ -37,7 +37,7 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
     <span class="session-title">GIS</span>
   </summary>
   <div markdown="1">
-  - Slides (_coming soon_)
+  - [Slides](https://docs.google.com/presentation/d/18nLdzF5oZeH_EIZLQthvbV0Vn82MUHJIlzA1pZ5PAIc/edit?usp=sharing)
   - Pre-Class Reflection:
     - [Monmonier, Mark S. “Chapter 11. Data Maps: A Thicket of Thorny Choices.”](https://app.perusall.com/courses/introdh24/monmonier_2018_chapter-11) _How to Lie with Maps_, Third edition, The University of Chicago Press, 2018, pp. 153–78.
     - [Glasze, Georg. “Language(s), Discourse(s), Space(s) – and Their Transformations in the Digital Age: Research Approaches from Cultural and Social Geography.”](https://app.perusall.com/courses/introdh24/glasze_2024_language-s-discourse-s-space-s-and-their-transformations-in-the-digital) _Geographical Research in the Digital Humanities_, edited by Finn Dammann and Dominik Kremer, Bielefeld University Press, 2024, pp. 45–62.
