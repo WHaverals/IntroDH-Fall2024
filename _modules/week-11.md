@@ -26,7 +26,7 @@ else:
 - [Slides](https://docs.google.com/presentation/d/10CY-VJXP0IKTt2Ks5F7o-mYH1Rk-BdVBC-MEwonW7Ms/edit?usp=sharing)
 - Pre-Class Reading (no Perusall annotations required):
   - [Haggerty, Kenneth. “Intellectual Property Guidelines for the Digital Humanities.”](https://app.perusall.com/courses/introdh24/haggerty_2020_intellectual-property-guidelines-for-the-digital-humanities) _Routledge International Handbook of Research Methods in Digital Humanities_, edited by Kristen Schuster and Stuart Dunn, Routledge, 2020, pp. 428–40.
-  - Lerner, Ben. “The Hofmann Wobble. Wikipedia and the Problem of Historical Memory.” _Harper’s Magazine_, vol. 347, no. 2083, Dec. 2023, pp. 23–32.
+  - [Lerner, Ben. “The Hofmann Wobble. Wikipedia and the Problem of Historical Memory.”](https://app.perusall.com/courses/introdh24/lerner_2023_the-hofmann-wobble2-copy) _Harper’s Magazine_, vol. 347, no. 2083, Dec. 2023, pp. 23–32.
   <!-- - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a> -->
 </div>
 </details>
