@@ -12,10 +12,14 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
   </summary>
   <div markdown="1">
 - Slides (_coming soon_)
-- Pre-Class Reflection:
-  - [Listen to this podcast episode of _Tech Won't Save Us_](https://www.techwontsave.us/episode/163_chatgpt_is_not_intelligent_w_emily_m_bender), where Emily Bender (Professor in the Department of Linguistics at the University of Washington and the Faculty Director of the Computational Linguistics Master's Program) discusses what it means to say that ChatGPT is a "stochastic parrot".
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ILGlkAXAt4xfuKHwIV2on?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  - [Kak, Amba, and Sarah Myers West. AI Now 2023 Landscape: Confronting Tech Power.]() AI Now Institute, 11 Apr. 2023, https://ainowinstitute.org/2023-landscape.
+- Pre-Class Reflection (<span style="color: #FA795A;">no Perusall annotations required!</span>)
+- [Presner, Todd, et al. _Digital Humanities Manifesto 2.0_.]() 2009, pp. 1–15.
+- [Catherine D'Ignazio, Lauren Klein, _Data Feminism: What Does Feminist Data Science Look Like?_](https://www.youtube.com/watch?v=guIxU_hK4aY) LSE Online Event. Chair: Fiona Steele. 2021. YouTube.
+- **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
+
+  <!-- - [Listen to this podcast episode of _Tech Won't Save Us_](https://www.techwontsave.us/episode/163_chatgpt_is_not_intelligent_w_emily_m_bender), where Emily Bender (Professor in the Department of Linguistics at the University of Washington and the Faculty Director of the Computational Linguistics Master's Program) discusses what it means to say that ChatGPT is a "stochastic parrot".
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ILGlkAXAt4xfuKHwIV2on?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+  
 
 </div>
 </details>
