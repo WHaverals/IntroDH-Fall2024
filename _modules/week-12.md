@@ -13,7 +13,7 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
   <div markdown="1">
 - Slides (_coming soon_)
 - Pre-Class Reflection (<span style="color: #FA795A;">no Perusall annotations required!</span>)
-- [Presner, Todd, et al. _Digital Humanities Manifesto 2.0_.]() 2009, pp. 1–15.
+- [Presner, Todd, et al. _Digital Humanities Manifesto 2.0_.](https://app.perusall.com/courses/introdh24/presner-et-al-2009-digital-humanities-manifesto-2-0) 2009, pp. 1–15.
 - [Catherine D'Ignazio, Lauren Klein, _Data Feminism: What Does Feminist Data Science Look Like?_](https://www.youtube.com/watch?v=guIxU_hK4aY) LSE Online Event. Chair: Fiona Steele. 2021. YouTube.
 - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 
