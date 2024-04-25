@@ -9,7 +9,7 @@ parent: Resources
 
 There are some great datasets out there! In this course, we will encounter and play with some of the ones listed here below. It goes without saying that it is impossible for this list to be exhaustive. Look at it as a point of reference, but perhaps more so as a place of inspiration. Should you stumble upon a fascinating dataset or have one to recommend, please bring it to my attention so we can enrich our collection further.
 
-One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), [Kaggle](https://www.kaggle.com/datasets), and the [Journal of Open Humanities Data (JOHD)](https://openhumanitiesdata.metajnl.com/). The website [Humanities Data](https://humanitiesdata.com/resources) also offers a curated list of datasets.
+One way to find datasets is to use a dedicated search engine like the [Google Dataset Search](https://datasetsearch.research.google.com/) or [Zenodo](https://zenodo.org/). Other places where datasets live are [GitHub](https://github.com/topics/dataset), [Kaggle](https://www.kaggle.com/datasets), and the [Journal of Open Humanities Data (JOHD)](https://openhumanitiesdata.metajnl.com/). The website [Humanities Data](https://humanitiesdata.com/resources) also offers a curated list of datasets. There's also [Archives Hub](https://archiveshub.jisc.ac.uk/), which provides access to descriptions of archives held in UK universities and colleges.
 
 In the spirit of John Donne's insight that ["No man is an island,"](https://allpoetry.com/No-man-is-an-island) the field of Digital Humanities thrives on collaborative curation of resources. With this in mind, here are some excellent compilations of datasets put together by other scholars:
 
@@ -47,6 +47,8 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[American Verse Project](https://quod.lib.umich.edu/a/amverse/)**: Electronic archive of volumes of American poetry prior to 1920. The full text of each volume of poetry was converted into digital form and coded adhering to the TEI guidelines.
 - **[African American Literature Text Corpus](https://github.com/amardeepmsingh/African-American-Literature-Text-Corpus-1853-1923)**: Text Corpus of African American Fiction and Poetry, from 1853-1923.
 - **[The Westminster Detective Library](https://wdl.mcdaniel.edu/)**: A collection of hundreds of detective stories, all printed before 1891 (i.e. pre-Sherlock Holmes!).
+- **[The First World War Poetry Digital Archive](https://oxford.omeka.net/s/ww1lit/page/home)**: A repository of over 7,000 items of text, images, audio, and video for teaching, learning, and research.
+- **[Broadside Ballads Online from the Bodleian Libraries](http://ballads.bodleian.ox.ac.uk/)**: Digital collection of English printed ballad-sheets from between the 16th and 20th centuries, linked to other resources for the study of the English ballad tradition.
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.

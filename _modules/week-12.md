@@ -32,6 +32,6 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
     <span class="session-title">Work-in-Progress Presentations</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon_)
+- [Slides](https://docs.google.com/presentation/d/1ey5JgDxZm7Lni-vCJdXmdIEaogQjvPIjs91t0pJW-fg/edit?usp=sharing)
 </div>
 </details>
