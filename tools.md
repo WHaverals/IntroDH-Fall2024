@@ -39,6 +39,7 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[Kraken](https://kraken.re/main/index.html)**: Open source software that specializes in non-Latin alphabets, including bidirectional, right-to-left, and top-to-bottom scripts. Kraken is Python-based and runs on the command line.
 - **[CERberus](https://github.com/WHaverals/CERberus)**: Great tool for string comparison and error detection in HTR'd or OCR'd text. The tool provides an implementation of Character Error Rate calculation between a reference string and a hypothesis string, with various customization options.
 
+
 ### Data Visualization
 - **[Tableau Public](https://public.tableau.com/en-us/s/)**: Create interactive data visualizations.
 - **[Gephi](https://gephi.org/)**: Open-source software for all kinds of graphs and networks.
@@ -49,6 +50,8 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[Network Navigator](https://networknavigator.jrladd.com/)**: A web-based tool designed to give you a first glimpse of your network data, with both metrics and visualizations.
 - **[Cytoscape](https://cytoscape.org/)**: An open source software platform for visualizing complex networks and integrating these with any type of attribute data.
 - **[WTFcsv](https://wtfcsv.com/)**: Tells you WTF is going on with your .csv file.
+- **[Kumu](https://kumu.io/)**: A powerful data visualization platform that helps you organize complex information into interactive relationship maps.
+- **[ClioVis](https://cliovis.com/)**: Interactive timeline, mind-mapping and presentation tool.
 
 ### Mapping and Spatial Analysis
 - **[QGIS](https://qgis.org/en/site/)**: A free and open-source geographic information system.
@@ -59,8 +62,13 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[GeoJSON.io](https://geojson.io/)**: A simple tool for creating, viewing, and sharing maps.
 - **[Mapbox](https://www.mapbox.com/)**: Create custom maps.
 - **[OpenStreetMap](https://www.openstreetmap.org/)**: A free, editable map of the world.
+- **[Recogito](https://recogito.pelagios.org/)**: A tool for the collaborative annotation of texts and images.
+- **[GeoJSON.io](http://geojson.io/)**: Open-source web visual map editor for GeoJSON files.
+- **[Mapshaper](https://mapshaper.org/)**: A tool for editing Shapefile, GeoJSON, TopoJSON, and CSV files.
+- **[HistoGIS](https://histogis.acdh.oeaw.ac.at/shapes/shapes/)**: Historical Central European borders as GeoJSON.
 
 ### Bibliographic Tools
 - **[Zotero](https://www.zotero.org/)**: Great reference manager.
 - **[Mendeley](https://www.mendeley.com/)**: Another great reference manager.
 - **[EndNote](https://endnote.com/)**: Yet another great reference manager.
+- **[Tropy](https://tropy.org/)**: A tool for managing and organizing research photos.
