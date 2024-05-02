@@ -26,7 +26,7 @@ The course material is freely shared under a [Creative Commons Attribution-NonCo
 
 If you use this course material in your own teaching or research, please cite it as follows:
 
-Wouter Haverals, _Introduction to Digital Humanities -- Spring 2024_, Princeton University, DOI: [10.0000/example.doi](https://doi.org/10.0000/example.doi), URL: [https://whaverals.github.io/IntroDH2024/](https://whaverals.github.io/IntroDH2024/), Accessed: {{ 'now' | date: "%Y-%m-%d" }}
+Wouter Haverals, _Introduction to Digital Humanities -- Spring 2024_, Princeton University, DOI: [10.0000/example.doi](https://doi.org/10.5281/zenodo.11100458), URL: [https://whaverals.github.io/IntroDH2024/](https://whaverals.github.io/IntroDH2024/), Accessed: {{ 'now' | date: "%Y-%m-%d" }}
 
 ```bibtex
 @online{haverals_introduction_2024,
@@ -35,6 +35,6 @@ Wouter Haverals, _Introduction to Digital Humanities -- Spring 2024_, Princeton 
 	author = {Haverals, Wouter},
 	urldate = {{ 'now' | date: "%Y-%m-%d" }},
 	date = {2024},
-	doi = {10.0000/example.doi},
+	doi = {10.5281/zenodo.11100458},
 }
 ```
