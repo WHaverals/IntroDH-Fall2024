@@ -90,7 +90,7 @@ Throughout the course, there will be a series of smaller assignments that collec
 
 ## Final Assignment (30%)
 
-Your final assignment brings together the knowledge and skills you've acquired throughout this course, taking the form of a research proposal spanning 5 to 6 pages (**approximately 2000 to 2500 words**, excl. bibliography). Guided by a clear research question, your task is to devise a comprehensive plan for a data-intensive research project.
+Your final assignment brings together the knowledge and skills you've acquired throughout this course, taking the form of a research proposal spanning **approximately 2000 to 2500 words**, excl. bibliography (ca. 5 to 6 pages, can go over when you're including bibliography and/or images). Guided by a clear research question, your task is to devise a comprehensive plan for a data-intensive research project.
 
 This plan should be guided by the following elements: 
 
