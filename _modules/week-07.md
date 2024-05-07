@@ -29,7 +29,7 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
     <span class="session-title">Topic Modeling with <i>jsLDA</i></span>
   </summary>
   <div markdown="1">
-- [Slides](https://drive.google.com/file/d/1JMXOsYPrlpI5Ay6RbMMwS4QTBf9bqloZ/view?usp=sharing), data, and other resources:
+- [Slides](https://drive.google.com/file/d/1JMXOsYPrlpI5Ay6RbMMwS4QTBf9bqloZ/view?usp=sharing), data, and other resources (prepared and taught by [dr. Laure Thompson](https://cdh.princeton.edu/people/laure-thompson/)):
   - [jsLDA website](https://mimno.infosci.cornell.edu/jsLDA/)
   - [Data](https://drive.google.com/drive/folders/10Wg9n4IutZanknePYxOSONTGm0lseFep?usp=sharing)
   - [Themes identified from 3,000 volumes of Speculative Fiction (SF)](https://mimno.infosci.cornell.edu/sf/) from the [HathiTrust](https://www.hathitrust.org/) digital library.
