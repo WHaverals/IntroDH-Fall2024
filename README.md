@@ -16,12 +16,6 @@ This course offers an introduction to and an overview of the ‘big tent’ that
 
 Theoretical and methodological aspects of this expansive field will be interspersed with the opportunity to interact with various digital tools and techniques through participation in several hands-on replication studies. Alongside these case studies, the course encourages critical examination of the wider implications of digital paradigms within the humanities. This incorporates considerations of how digital practices impact the organization of institutions, the evolution of heritage institutions, and the skillsets and training necessary for navigating the vast digital sea.
 
-## License <img src="assets/ccheart_red.svg" alt="Creative Commons License Heart" style="height: 24px; vertical-align: middle;"/> 
-
-The course material is freely shared under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are welcome to use and adapt these resources non-commercially, provided you give appropriate credit (see below).
-
-<img src="assets/by-nc.eu.svg" alt="Creative Commons License Logo" style="height: 24px; vertical-align: middle;"/>
-
 ## Cite This Course
 
 If you use this course material in your own teaching or research, please cite it as follows:
@@ -38,3 +32,9 @@ Wouter Haverals, _Introduction to Digital Humanities -- Spring 2024_, Princeton 
 	doi = {10.5281/zenodo.11100458},
 }
 ```
+
+## License <img src="assets/ccheart_red.svg" alt="Creative Commons License Heart" style="height: 24px; vertical-align: middle;"/> 
+
+The course material is freely shared under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are welcome to use and adapt these resources non-commercially, provided you give appropriate credit (see below).
+
+<img src="assets/by-nc.eu.svg" alt="Creative Commons License Logo" style="height: 24px; vertical-align: middle;"/>
