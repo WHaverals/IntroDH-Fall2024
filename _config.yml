@@ -23,6 +23,10 @@ logo: 'assets/favicon/logo-class-notext.png'
 favicon_ico: 'assets/favicon/class-logo.ico'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings
 ga_tracking: G-GD3N1CKBGG
