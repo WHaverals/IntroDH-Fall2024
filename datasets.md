@@ -49,6 +49,9 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[The Westminster Detective Library](https://wdl.mcdaniel.edu/)**: A collection of hundreds of detective stories, all printed before 1891 (i.e. pre-Sherlock Holmes!).
 - **[The First World War Poetry Digital Archive](https://oxford.omeka.net/s/ww1lit/page/home)**: A repository of over 7,000 items of text, images, audio, and video for teaching, learning, and research.
 - **[Broadside Ballads Online from the Bodleian Libraries](http://ballads.bodleian.ox.ac.uk/)**: Digital collection of English printed ballad-sheets from between the 16th and 20th centuries, linked to other resources for the study of the English ballad tradition.
+- **[European Literary Text Collection](https://www.distant-reading.net/eltec/)**: ELTeC is a collection of corpora of literary texts that are comparable in nature, scope and quality across several European languages. Its availability is an essential condition for the creation, evaluation and use of multilingual tools and methods of analysis for literary texts.
+- **[PoeTree](https://versologie.cz/poetree/)**: PoeTree is a standardized collection of poetry corpora comprising over 330,000 poems in ten languages (Czech, English, French, German, Hungarian, Italian, Portuguese, Russian, Slovenian, Spanish).
+  
 
 ### Newspapers and Magazines
 - **[Chronicling America](https://chroniclingamerica.loc.gov/)**: Historic American newspapers.
@@ -79,6 +82,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[The Million Song Dataset](http://millionsongdataset.com/)**: A repository of audio features and metadata for a million contemporary popular music tracks.
 - **[The Free Music Archive](https://freemusicarchive.org/)**: 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists. 343 days of Creative Commons-licensed audio from 106,574 tracks from 16,341 artists.
 - **[VoxPopuli Speech Corpus](https://huggingface.co/datasets/facebook/voxpopuli)**: Audio and transcriptions of speeches from European Parliament sessions spanning 2009-2020. It includes data for 18 languages and features 29 hours of non-native English speech.
+- **[Elders Project](https://eldersproject.incite.columbia.edu/)**: The Baldwin-Emerson Elders Project is a nationwide initiative focused on preserving the histories of Black, Latine, Asian, Indigenous, and queer elders.
 
 ### Movie and Dialogue Datasets
 - **[Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)**: Large metadata-rich collection of fictional conversations extracted from raw movie scripts.
@@ -89,6 +93,7 @@ In the spirit of John Donne's insight that ["No man is an island,"](https://allp
 - **[Bechdel Test Film Dataset](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/)**: An analysis by FiveThirtyEight on gender bias in films. This dataset underpins a 2014 article that investigates Hollywood's gender disparities through the lens of the Bechdel Test.
 - **[Early African-American Film Database, 1909–1930](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.7)**: This dataset focuses on silent "race films" created before 1930 featuring African-Americans for primarily African-American audiences. It compiles records on films, actors, production companies, and other elements of the early race film industry.
 - **[Skate Video Dataset](https://www.skatevideosite.com/)**: A collection of metadata on skateboarding videos, including information on the skaters, and the music used in the videos. This [dataset](https://github.com/the-pudding/data/tree/master/skate-music) was used in an essay by The Pudding -- [_The Good, the Rad, and the Gnarly_](https://pudding.cool/2018/06/skate-music/) -- published in June 2018.
+- **[Kinolab](https://kinolab.org/Collections.php)**: The Kinolab platform invites users into the collections via five principal entry points: Films, Series, Directors, Genres, and Tags. The terminus of each of these pathways is the individual clip page, where users can view a clip and its associated film language tags which link to other clips in the collection sharing the same tag.
 
 ### Datasets curated and maintained at Princeton University 🐯
 - **[Princeton University's Center for Digital Humanities (CDH)](https://cdh.princeton.edu/)**: The CDH is a hub for digital humanities research, teaching, and learning at Princeton University. Check out their [datasets](https://cdh.princeton.edu/datasets/) and [projects](https://cdh.princeton.edu/projects/)!
