@@ -28,6 +28,20 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 ga_tracking: G-GD3N1CKBGG
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
+# SEO Settings
+seo:
+  title: Introduction to Digital Humanities
+  description: Course website for 'Introduction to Digital Humanities' at Princeton University by Wouter Haverals.
+  keywords: Digital Humanities, Princeton University, Wouter Haverals, Introduction to Digital Humanities, Spring 2024, Course Website
+  author: Wouter Haverals
+  social_image: "/assets/favicon/logo-class-notext.png" 
+  og:
+    type: website
+    url: "https://whaverals.github.io/IntroDH2024"
+    title: Introduction to Digital Humanities | Princeton University
+    description: Explore the resources for the 'Introduction to Digital Humanities' course at Princeton University.
+    image: "/assets/favicon/logo-class-notext.png"
+
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.6.1
