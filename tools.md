@@ -32,13 +32,14 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[Drupal](https://www.drupal.org/)**: Another free and open-source content management system.
 - **[Jekyll](https://jekyllrb.com/)**: A simple, blog-aware, static site generator.
 - **[Hugo](https://gohugo.io/)**: A fast and modern static site generator.
+- **[AVAnnotate](https://av-annotate.org/)**: Free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials.
+- **[LEAF](https://www.leaf-vre.org/)**: LEAF is an editorial environment for open collaboration and publication. It provides web-based tools and online spaces for more scholars, teachers, and students to take part in collaborative digital knowledge production: creating, publishing, preserving, linking and sharing data across the Web.
 
 ### Text Digitization
 - **[Transkribus](https://readcoop.eu/)**: A platform for the automated recognition, transcription, and searching of historical documents.
 - **[daiR](https://dair.info/)**: R package for Google Document AI, a powerful server-based OCR processor with support for over 60 languages.
 - **[Kraken](https://kraken.re/main/index.html)**: Open source software that specializes in non-Latin alphabets, including bidirectional, right-to-left, and top-to-bottom scripts. Kraken is Python-based and runs on the command line.
 - **[CERberus](https://github.com/WHaverals/CERberus)**: Great tool for string comparison and error detection in HTR'd or OCR'd text. The tool provides an implementation of Character Error Rate calculation between a reference string and a hypothesis string, with various customization options.
-
 
 ### Data Visualization
 - **[Tableau Public](https://public.tableau.com/en-us/s/)**: Create interactive data visualizations.
@@ -66,6 +67,10 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[GeoJSON.io](http://geojson.io/)**: Open-source web visual map editor for GeoJSON files.
 - **[Mapshaper](https://mapshaper.org/)**: A tool for editing Shapefile, GeoJSON, TopoJSON, and CSV files.
 - **[HistoGIS](https://histogis.acdh.oeaw.ac.at/shapes/shapes/)**: Historical Central European borders as GeoJSON.
+
+### Image Analysis
+- **[ImageJ](https://imagej.net/)**: A public domain Java image processing program.
+- **[Collection Space Navigator](https://collection-space-navigator.github.io/)**: A browser-based visualization tool to explore, research, and curate large collections of visual digital artifacts that are associated with multidimensional data, such as vector embeddings or tables of metadata.
 
 ### Bibliographic Tools
 - **[Zotero](https://www.zotero.org/)**: Great reference manager.
