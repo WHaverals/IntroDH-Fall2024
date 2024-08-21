@@ -8,25 +8,7 @@ seo:
   name: Introduction to Digital Humanities
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@id": "https://whaverals.github.io/IntroDH2024/",
-  "@type": "Course",
-  "name": "Introduction to Digital Humanities",
-  "description": "This course provides a comprehensive overview of digital humanities.",
-  "publisher": {
-        "@type": "Organization",
-        "name": "Introduction to Digital Humanities",
-        "url": "[www.examplecoursewebsite.com](https://whaverals.github.io/IntroDH2024/)"
-    },
-	"provider": {
-		"@type": "Organization",
-    	"name": "Princeton University",
-        "url": "https://www.princeton.edu/"
-      }
-  }
-</script>
+{% include course-info.jsonld.html %}
 
 # Introduction to Digital Humanities -- 2023-2024 Spring
 
