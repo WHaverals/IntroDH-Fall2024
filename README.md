@@ -10,7 +10,7 @@ seo:
 
 {% include course-info.jsonld.html %}
 
-# Introduction to Digital Humanities -- 2024 Fall
+# Introduction to Digital Humanities -- 2024 Fallll
 
 ## Description
 
