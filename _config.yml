@@ -21,7 +21,7 @@ baseurl: '/IntroDH-Fall2024' # the subpath of your site, e.g. /blog
 url: 'https://whaverals.github.io'  # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/favicon/class-logo.png'
 favicon_ico: 'assets/favicon/class-logo.ico'
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["vendor", "Gemfile", "Gemfile.lock", "LICENSE"]
 
 plugins:
   - jekyll-seo-tag
