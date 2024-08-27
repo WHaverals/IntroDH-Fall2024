@@ -17,7 +17,7 @@ title: Introduction to Digital Humanities
 tagline: Course Website 
 description: Reading materials and assignments for the course Introduction to Digital Humanities, taught at Princeton University in the Fall of 2024.
 author: Wouter Haverals
-baseurl: '/IntroDH2025' # the subpath of your site, e.g. /blog
+baseurl: '/IntroDH-Fall2024' # the subpath of your site, e.g. /blog
 url: 'https://github.com/WHaverals' # the base hostname & protocol for your site, e.g. http://example.com
 logo: 'assets/favicon/class-logo.png'
 favicon_ico: 'assets/favicon/class-logo.ico'
@@ -41,7 +41,7 @@ seo:
   social_image: "/assets/favicon/logo-class-notext.png" 
   og:
     type: website
-    url: "https://whaverals.github.io/IntroDH2025"
+    url: "https://whaverals.github.io/IntroDH-Fall2024"
     title: Introduction to Digital Humanities | Princeton University
     description: Explore the resources for the 'Introduction to Digital Humanities' course at Princeton University.
     image: "/assets/favicon/class-logo.png"
@@ -55,7 +55,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   #Just the Class on GitHub:
-  #  - 'https://github.com/WHaverals/IntroDH2025'
+  #  - 'https://github.com/WHaverals/IntroDH-Fall2024'
 #footer_content: Introduction to Digital Humanities, Princeton University, Spring 2025
 
 callouts:
