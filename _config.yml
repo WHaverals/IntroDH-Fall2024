@@ -29,8 +29,8 @@ plugins:
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings
-ga_tracking: G-GD3N1CKBGG
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+#ga_tracking: G-GD3N1CKBGG
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 # SEO Settings
 seo:
