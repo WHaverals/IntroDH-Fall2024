@@ -8,12 +8,12 @@ In this module, we will discover the world of stylometry, a field that probes th
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 26</span>
+    <span class="date-label">Oct 29</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Stylometry</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1s2DbSsg7_VqEChJnGQC_rIU-AxOnsSvzo59ven2qfvY/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Reflection
   - [Whissell, Cynthia. “Traditional and Emotional Stylometric Analysis of the Songs of Beatles Paul McCartney and John Lennon.”](https://app.perusall.com/courses/introdh24/whissell-1996-traditional-and-emotional-stylometric-analysis-of) _Computers and the Humanities_, vol. 30, no. 3, 1996, pp. 257–65.
   - [Holmes, David I., and Judit Kardos. “Who Was the Author? An Introduction to Stylometry.”](https://app.perusall.com/courses/introdh24/holmes_kardos_2003_who-was-the-author) _Chance_, vol. 16, no. 2, 2003, pp. 5–8.
@@ -24,12 +24,12 @@ In this module, we will discover the world of stylometry, a field that probes th
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 28</span>
+    <span class="date-label">Oct 31</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Authorship Attribution with <i>Stylo</i></span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1AgWj29iM5iurIJOSUUWywBRdO9DX7vINC79J_cXQVco/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Reflection
   - [Binongo, José Nilo G. “Who Wrote the 15th Book of Oz? An Application of Multivariate Analysis to Authorship Attribution.”](https://app.perusall.com/courses/introdh24/binongo_2003_who-wrote-the-15th-book-of-oz) _Chance_, vol. 16, no. 2, Mar. 2003, pp. 9–17.
 

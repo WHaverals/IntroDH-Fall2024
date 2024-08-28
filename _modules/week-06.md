@@ -7,12 +7,12 @@ This week begins with a lecture on Distant Reading, where we will explore the th
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 5</span>
+    <span class="date-label">Oct 8</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Distant Reading</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1Wr1hB7AAHe7k-SvHlpsPPLcDVlLmOkd3r1TwmhJwlcM/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Reflection:
   - [Underwood, Ted. “A Genealogy of Distant Reading.”](https://app.perusall.com/courses/introdh24/underwood_2017_a-genealogy-of-distant-reading) _Digital Humanities Quarterly_, vol. 11, no. 2, 2017.
   - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020.
@@ -24,12 +24,12 @@ This week begins with a lecture on Distant Reading, where we will explore the th
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 7</span>
+    <span class="date-label">Oct 10</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Applying <i>Voyant Tools</i></span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1A57JzFa7wwh3XPnwn4IccQwml0cI_YM_8-_0yjayoUY/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Reflection:
   <!-- - [Da, Nan Z. “The Computational Case against Computational Literary Studies.”](https://app.perusall.com/courses/introdh24/da_2019_the-computational-case-against-computational-literary-studies) _Critical Inquiry_, vol. 45, no. 3, Mar. 2019, pp. 601–39. -->
   - [Nguyen, Dong, et al. “How We Do Things With Words: Analyzing Text as Social and Cultural Data.”](https://app.perusall.com/courses/introdh24/how-we-do-things-with-words-analyzing-text-as-social-and-cultural-data) _Frontiers in Artificial Intelligence_, vol. 3, article 63, Aug. 2020, p. 1-14.

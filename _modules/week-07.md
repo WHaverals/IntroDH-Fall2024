@@ -6,12 +6,12 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 19</span>
+    <span class="date-label">Oct 22</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Topic Modeling</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1MyqVCdfpyicH5UapZUVeHDNvSGeOWv69Zgj0KYsf5jE/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Reflection <small>&rarr; **Perusall annotations not required for these readings.**</small>
   - [Froehlich, Heather. _Moby Dick Is About Whales, or Why Should We Count Words?_](https://hfroehli.ch/2019/09/27/moby-dick-is-about-whales-or-why-should-we-count-words/).
   - [Blei, David M. “Topic Modeling and Digital Humanities.”](https://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/) _Journal of Digital Humanities_, vol. 2, no. 1, 2012.
@@ -24,12 +24,12 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Mar 21</span>
+    <span class="date-label">Oct 24</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Topic Modeling with <i>jsLDA</i></span>
   </summary>
   <div markdown="1">
-- [Slides](https://drive.google.com/file/d/1JMXOsYPrlpI5Ay6RbMMwS4QTBf9bqloZ/view?usp=sharing), data, and other resources (prepared and taught by [dr. Laure Thompson](https://cdh.princeton.edu/people/laure-thompson/)):
+- Slides (_coming soon!_), data, and other resources (prepared and taught by [dr. Laure Thompson](https://cdh.princeton.edu/people/laure-thompson/)):
   - [jsLDA website](https://mimno.infosci.cornell.edu/jsLDA/)
   - [Data](https://drive.google.com/drive/folders/10Wg9n4IutZanknePYxOSONTGm0lseFep?usp=sharing)
   - [Themes identified from 3,000 volumes of Speculative Fiction (SF)](https://mimno.infosci.cornell.edu/sf/) from the [HathiTrust](https://www.hathitrust.org/) digital library.

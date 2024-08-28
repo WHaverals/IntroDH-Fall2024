@@ -7,13 +7,13 @@ In this module, we will take our time to become acquinted with the contours that
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Jan 30</span>
+    <span class="date-label">Sept 3</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Acquaintances</span>
   </summary>
     <div markdown="1">
 
-- [Slides](https://docs.google.com/presentation/d/1TRt2UcYxk5XTHaz-DATS15u0hntrU5HKnMWaqPY7qUM/edit?usp=sharing)
+- Slides (_coming soon!_)
 
 </div>
   </details>
@@ -21,13 +21,13 @@ In this module, we will take our time to become acquinted with the contours that
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Feb 1</span>
+    <span class="date-label">Sep 5</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Foundations</span>
   </summary>
   <div markdown="1">
 
-- [Slides](https://docs.google.com/presentation/d/16s46g8lIl_FslspXJCGTc8nON9WJYWWt08FIDq6OChU/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Reflection:
   - [Examine this website](https://whatisdigitalhumanities.com/), hit the _New Quote_-button a few times, and read the definition that appears. Some guiding questions:
     - How do the definitions you encounter vary each time you refresh the page? What does this diversity tell you about the nature of Digital Humanities as a field? What are the commonalities between the definitions? What are the differences? Consider the role technology plays in these definitions. Is it merely a tool, or does it fundamentally reshape the humanities?

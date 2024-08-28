@@ -6,12 +6,12 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Apr 2</span>
+    <span class="date-label">Nov 5</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Data Visualization</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1CZ1AQo9jAT7HKHvDnXSrSQPeqznO-GNt1W1BkbcSfOc/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Reflection:
   - McCandless, David. _The Beauty of Data Visualization_. TEDGlobal 2010. [Video](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization).
   <div style="max-width:854px; margin: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden;"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/david_mccandless_the_beauty_of_data_visualization" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
@@ -32,17 +32,17 @@ This module focuses on the visual dimension of Digital Humanities research. Ofte
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Apr 4</span>
+    <span class="date-label">Nov 7</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">GIS</span>
   </summary>
   <div markdown="1">
-  - [Slides](https://docs.google.com/presentation/d/18nLdzF5oZeH_EIZLQthvbV0Vn82MUHJIlzA1pZ5PAIc/edit?usp=sharing)
-  - Pre-Class Reflection:
-    - [Monmonier, Mark S. “Chapter 11. Data Maps: A Thicket of Thorny Choices.”](https://app.perusall.com/courses/introdh24/monmonier_2018_chapter-11) _How to Lie with Maps_, Third edition, The University of Chicago Press, 2018, pp. 153–78.
-    - [Glasze, Georg. “Language(s), Discourse(s), Space(s) – and Their Transformations in the Digital Age: Research Approaches from Cultural and Social Geography.”](https://app.perusall.com/courses/introdh24/glasze_2024_language-s-discourse-s-space-s-and-their-transformations-in-the-digital) _Geographical Research in the Digital Humanities_, edited by Finn Dammann and Dominik Kremer, Bielefeld University Press, 2024, pp. 45–62.
-    <!-- - [Bond, E., Sarah. “Mapping Racism And Assessing the Success of the Digital Humanities.”](https://sarahemilybond.com/2017/10/20/mapping-racism-and-assessing-the-success-of-the-digital-humanities/) _History From Below_, 20 Oct. 2017. -->
-    - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
+- Slides (_coming soon!_)
+- Pre-Class Reflection:
+  - [Monmonier, Mark S. “Chapter 11. Data Maps: A Thicket of Thorny Choices.”](https://app.perusall.com/courses/introdh24/monmonier_2018_chapter-11) _How to Lie with Maps_, Third edition, The University of Chicago Press, 2018, pp. 153–78.
+  - [Glasze, Georg. “Language(s), Discourse(s), Space(s) – and Their Transformations in the Digital Age: Research Approaches from Cultural and Social Geography.”](https://app.perusall.com/courses/introdh24/glasze_2024_language-s-discourse-s-space-s-and-their-transformations-in-the-digital) _Geographical Research in the Digital Humanities_, edited by Finn Dammann and Dominik Kremer, Bielefeld University Press, 2024, pp. 45–62.
+  <!-- - [Bond, E., Sarah. “Mapping Racism And Assessing the Success of the Digital Humanities.”](https://sarahemilybond.com/2017/10/20/mapping-racism-and-assessing-the-success-of-the-digital-humanities/) _History From Below_, 20 Oct. 2017. -->
+  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
 
   </div>
 </details>

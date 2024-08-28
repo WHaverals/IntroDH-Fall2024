@@ -7,13 +7,13 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>  
-    <span class="date-label">Feb 6</span>
+    <span class="date-label">Sept 10</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Getting our data together</span>
   </summary>
   <div markdown="1">
     
-- [Slides](https://docs.google.com/presentation/d/118EKbij29pKEdF3trMis-_a_n30J9jgqtfA5lRY4PLY/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Exercise:
   - Play around with [Google's Ngram Viewer](https://books.google.com/ngrams) to investigate two terms of your choice (e.g. 'car' vs. 'automobile'). Analyze and interpret the trends you observe. Consider the following: what intriguing patterns -- if any -- emerge? Can specific historical events explain shifts in the usage of these terms? You are welcome to do a quick online search to support your interpretations, but keep it concise -- no more than three sentences for each term.
   - **Post your analysis along with a screenshot of your NGram search in the** <a href="https://introtodh--spring2024.slack.com/archives/C06FSP0UUEQ" style="color: #ee6374;">**#ngrams** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
@@ -29,12 +29,12 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Feb 8</span>
+    <span class="date-label">Sept 12</span>
     <span class="label label-blue">Discussion</span>
     <span class="session-title">Metadata and data description</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1_bi87M3C2AIugQEvzCU6jQV0_AjZ_HTrzvRnbKai2Jc/edit?usp=sharing):
+- Slides (_coming soon!_)
 - Reflection:
   - [Manovich, Lev. “Database as Symbolic Form.”](https://app.perusall.com/courses/introdh24/manovich_1999_database-as-symbolic-form) _Convergence: The International Journal of Research into New Media Technologies_, vol. 5, no. 2, June 1999, pp. 80–99.
   - [Pomerantz, Jeffrey. “Introduction.”](https://app.perusall.com/courses/introdh24/pomerantz_2015_introduction) _Metadata_, The MIT Press, 2015, pp. 1–18.

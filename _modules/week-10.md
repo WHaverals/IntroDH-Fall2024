@@ -8,10 +8,9 @@ This week, we continue our exploration of visualization in Digital Humanities wi
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label"><del>Apr 9</del></span>
+    <span class="date-label"><del>Nov 12</del></span>
     <span class="label label-red"><del>Lab</del></span>
     <span class="session-title"><del>Network Analysis</del></span>
-    <span class="session-title">CANCELED</span>
   </summary>
   <!-- <div markdown="1">
 - Slides (_coming soon_)
@@ -25,12 +24,12 @@ This week, we continue our exploration of visualization in Digital Humanities wi
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Apr 11</span>
+    <span class="date-label">Nov 14</span>
     <span class="label label-red">Lab</span>
     <span class="session-title">Network Analysis</span>
   </summary>
   <div markdown="1">
-- [Slides](https://docs.google.com/presentation/d/1QA7mRYzemqB6Fv3d1ONp1Zg05kcnZuopI4U8lcomhHc/edit?usp=sharing)
+- Slides (_coming soon!_)
 - Pre-Class Reflection
   - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011.
   - [Rhodes Ii, Mark Alan. “Paul Robeson’s Place in YouTube: A Social Spatial Network Analysis of Digital Heritage.”](https://app.perusall.com/courses/introdh24/paul-robeson-s-place-in-youtube-a-social-spatial-network-analysis-of-digital-heritage) _Digital Scholarship in the Humanities_, vol. 34, no. 1, Apr. 2019, pp. 174–88.
