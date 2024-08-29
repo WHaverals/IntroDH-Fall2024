@@ -35,8 +35,6 @@ nav_order: 3
   {{ module }}
   {% if module.title == "Week 11 - Python for the Curious" %}
 > 🦃 **Thanksgiving Recess** 🌽 
->
-> Enjoy a well-deserved break!
 {: .notice--fall-recess }
   {% endif %}
 {% endfor %}
