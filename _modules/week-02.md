@@ -21,7 +21,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
 - Pre-Class Reflection:
   - [Rosenberg, Daniel. 2013. "Data before the Fact."](https://app.perusall.com/courses/introdh24/rosenberg_2013_data-before-the-fact) _Raw Data Is an Oxymoron_, 15–40.
   - [Ramsay, Stephen. 2014. "The Hermeneutics of Screwing Around; or What You Do with a Million Books."](https://app.perusall.com/courses/introdh24/ramsay_2014_the-hermeneutics-of-screwing-around-or-what-you-dowith-a-million-books) In _Pastplay: Teaching and Learning History with Technology_, edited by Kevin B. Kee, 111–20. Ann Arbor: University of Michigan Press.
-  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
+  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 
 </div>
 </details>
@@ -40,7 +40,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   - [Pomerantz, Jeffrey. “Introduction.”](https://app.perusall.com/courses/introdh24/pomerantz_2015_introduction) _Metadata_, The MIT Press, 2015, pp. 1–18.
   - [Gebru, Timnit, et al. “Datasheets for Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-datasets-846236723) _Communications of the ACM_, vol. 64, no. 12, Dec. 2021, pp. 86–92.
   <!-- - [Alkemade, Henk, et al. “Datasheets for Digital Cultural Heritage Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-digital-cultural-heritage-datasets) _Journal of Open Humanities Data_, vol. 9, no. 17, 2023, pp. 1–11. -->
-  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
+  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 - **Optional**, complimentary reading for further interest:
   - [Hoffman, Gretchen. “How Are Cookbooks Classified in Libraries? An Examination of LCSH and LCC.”](https://app.perusall.com/courses/introdh24/hoffman_2013_how-are-cookbooks-classified-in-libraries) _Proceedings from North American Symposium on Knowledge Organization_, vol. 4, no. 1, 2013, pp. 100–11.
   <!-- - Borgman, Christine L. “Big Data, Little Data, No Data: Scholarship in the Networked World.” _The MIT Press_, 2015, pp. 1–18. -->

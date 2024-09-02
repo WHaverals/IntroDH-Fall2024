@@ -29,10 +29,6 @@ nav_order: 3
 > Enjoy a well-deserved break!
 {: .notice--fall-recess }
   {% endif %}
-{% endfor %}
-
-{% for module in site.modules %}
-  {{ module }}
   {% if module.title == "Week 11 - Python for the Curious" %}
 > 🦃 **Thanksgiving Recess** 🌽 
 {: .notice--fall-recess }

@@ -28,7 +28,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
     <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6CJZhZd57IxN0Y4geIBYeQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   - [Manžuch, Zinaida. “Ethical Issues in Digitization of Cultural Heritage.”](https://app.perusall.com/courses/introdh24/manz-uch_2017_ethical-issues-in-digitization-of-cultural-heritage) _Journal of Contemporary Archival Studies_, vol. 4, no. 2, 2017, pp. 1–17.
   - [Kropf, Evyn. “Will That Surrogate Do? Reflections on Material Manuscript Literacy in the Digital Environment from Islamic Manuscripts at the University of Michigan Library.”](https://app.perusall.com/courses/introdh24/kropf_2016_will-that-surrogate-do) _Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies_, 2016, pp. 52–70.
-  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
+  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 </div> -->
 </details>
 
@@ -45,6 +45,6 @@ In this module, we will start on our class-crowdsourced project featuring a data
   - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.”](https://app.perusall.com/courses/introdh24/scho-ch_big) _Journal of Digital Humanities_, vol. 2, no. 3, 2013.
   - [Rawson, Katie, and Muñoz Trevor. “Against Cleaning.”](https://app.perusall.com/courses/introdh24/rawson_trevor_2019_against-cleaning) _Debates in the Digital Humanities_, University of Minnesota Press, 2019, pp. 279–92.
   - [Broman, Karl W., and Kara H. Woo. “Data Organization in Spreadsheets.”](https://app.perusall.com/courses/introdh24/data-organization-in-spreadsheets-23277228) _The American Statistician_, vol. 72, no. 1, 2018, pp. 2–10. <small>&rarr; **Perusall annotations are optional for this article.**</small>
-  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
+  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 </div>
 </details>

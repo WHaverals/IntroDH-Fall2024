@@ -17,7 +17,7 @@ In this module, we investigate the critical procedures involved in annotating da
   - [So, Richard Jean. “‘All Models Are Wrong.’”](https://app.perusall.com/courses/introdh24/so_2017_-all-models-are-wrong) _PMLA_, vol. 132, no. 3, 2017, pp. 668–73.
   - [McCarty, Willard. “Modeling: A Study in Words and Meanings.”](https://app.perusall.com/courses/introdh24/mccarty_2004_modeling) _A Companion to Digital Humanities_, edited by Susan Schreibman et al., Blackwell Publishing Ltd, 2004, pp. 254–70.
   - https://www.wired.com/2008/06/pb-theory/
-  - **Post your reflection in the** <a href="https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**before 9am on the day of our class.**</a>
+  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 </div>
 </details>
 
