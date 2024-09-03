@@ -18,7 +18,7 @@ Below goes an overview of the different types of class meetings we'll have. It i
 - **Discussion**{: .label .label-blue}: Sessions that combine lecturing with discussions, emphasizing critical engagement with the assigned materials.
 - **Lab**{: .label .label-red}: Hands-on sessions that apply concepts in a practical setting.
 - **Present**{: .label .label-green}: Sessions where students present their projects or research.
-- **Field Trip**{: .label .label-yellow}: Visit to Princeton University Library Special Collections.
+- **Field Trip**{: .label .label-yellow}: Visit to Princeton University Library's Special Collections and Makerspace.
 
 ## Attendance and Participation
 
@@ -28,7 +28,7 @@ I understand that unavoidable situations can arise: sometimes life just happens.
 
 ## Slack
 
-While our course takes place in person, we will use _Slack_ as an additional communication platform. It serves as a space for posting [reflections](https://introtodh--spring2024.slack.com/archives/C06F1KS1ULT) on the assigned materials, sharing [resources](https://introtodh--spring2024.slack.com/archives/C06GK9FMKFA) like files and links, and seeking [assistance](https://introtodh--spring2024.slack.com/archives/C06FME0MZHT) with assignments outside of class hours. Make sure you join our _Slack_ workspace by using the invitation link provided in class!
+While our course takes place in person, we will use _Slack_ as an additional communication platform. It serves as a space for posting [reflections](https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0) on the assigned materials, sharing [resources](https://introtodh-fall2024.slack.com/archives/C07KM0H9943) like files and links, and seeking [assistance](https://introtodh-fall2024.slack.com/archives/C07KM3PUMGA) with assignments outside of class hours. Make sure you join our _Slack_ workspace by using the invitation link provided in class!
 
 ## Office Hours
 
