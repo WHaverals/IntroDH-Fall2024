@@ -7,6 +7,7 @@ seo:
   type: Course
   name: Introduction to Digital Humanities
 ---
+<meta name="google-site-verification" content="oz0uo5dDogxcOwP9F7bLYjIkA6OdMxt5JGhGiezSZcQ" />
 
 {% include course-info.jsonld.html %}
 
