@@ -2,14 +2,14 @@
 title: Week 3 - A Project of Our Own
 ---
 
-In this module, we will start on our class-crowdsourced project featuring a dataset that captures the essence of Princeton University: the Princeton University Historical Postcard Collection. Part of this collection has been digitized and is available through the [Princeton University Digital Library](https://dpul.princeton.edu/collections/7d278t50j). We will outline the various stages of this project, from conception to completion, and identify the tools and techniques that will assist us throughout. We will also pay a visit to the [Mudd Library](https://library.princeton.edu/special-collections) where we will view the collection up close. In the second meeting of this week, we investigate the critical procedures involved in data cleaning, and how [OpenRefine](https://openrefine.org/) can be used in this process.
+In this module, we will start on our class-crowdsourced project featuring a dataset that captures the essence of Princeton University: the Princeton University Historical Postcard Collection. Part of this collection has been digitized and is available through the [Princeton University Digital Library](https://dpul.princeton.edu/collections/7d278t50j). We will outline the various stages of this project, from conception to completion, and identify the tools and techniques that will assist us throughout. We will also pay a visit to the Princeton University's [Special Collections](https://library.princeton.edu/special-collections) where will take a tour of the Digitization Studio. In the second meeting of this week, we investigate the critical procedures involved in data cleaning, and how [OpenRefine](https://openrefine.org/) can be used in this process.
 
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label"><del>Sept 17</del></span>
-    <span class="label label-yellow"><del>Field Trip</del></span>
-    <span class="session-title"><del>Exploring Princeton's Postcards</del></span>
+    <span class="date-label">Sept 17</span>
+    <span class="label label-yellow">Field Trip</span>
+    <span class="session-title">Special Collections Studio Tour</span>
   </summary>
   <div markdown="1">
 
