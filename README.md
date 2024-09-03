@@ -6,11 +6,8 @@ permalink: /:path/
 seo:
   type: Course
   name: Introduction to Digital Humanities
+  google_site_verification: oz0uo5dDogxcOwP9F7bLYjIkA6OdMxt5JGhGiezSZcQ
 ---
-<meta name="google-site-verification" content="oz0uo5dDogxcOwP9F7bLYjIkA6OdMxt5JGhGiezSZcQ" />
-
-{% include google79fb46e5db237b9f.html %}
-
 
 # Introduction to Digital Humanities -- Fall Semester 2024
 
