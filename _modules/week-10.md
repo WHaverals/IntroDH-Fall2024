@@ -1,16 +1,16 @@
 ---
-title: Week 10 - Network Analysis and Intellectual Property Rights
+title: Week 10 - Network Analysis
 ---
 
-This week, we continue our exploration of visualization in Digital Humanities with a focus on network analysis. Building on our discussion on data visualization, we'll look at web-based platforms like [_Flourish_](https://flourish.studio/) and software like [_Gephi_](https://gephi.org/) and learn how network analysis provides valuable insights into relational data. In the latter part of the week, we shift our attention to critical issues such as copyright, fair use, and the principles of open access.
+This week, we continue our exploration of visualization in Digital Humanities with a focus on network analysis. Building on our discussion on data visualization, we'll look at web-based platforms like [_Flourish_](https://flourish.studio/) and software like [_Gephi_](https://gephi.org/) and learn how network analysis provides valuable insights into relational data.
 
 
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label"><del>Nov 12</del></span>
-    <span class="label label-red"><del>Lab</del></span>
-    <span class="session-title"><del>Network Analysis</del></span>
+    <span class="date-label">Nov 12</span>
+    <span class="label label-red">Lab</span>
+    <span class="session-title">Network Analysis I</span>
   </summary>
   <!-- <div markdown="1">
 - Slides (_coming soon_)
@@ -26,14 +26,14 @@ This week, we continue our exploration of visualization in Digital Humanities wi
     <span class="arrow">↪</span>
     <span class="date-label">Nov 14</span>
     <span class="label label-red">Lab</span>
-    <span class="session-title">Network Analysis</span>
+    <span class="session-title">Network Analysis II</span>
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-- Pre-Class Reflection
-  - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011.
-  - [Rhodes Ii, Mark Alan. “Paul Robeson’s Place in YouTube: A Social Spatial Network Analysis of Digital Heritage.”](https://app.perusall.com/courses/introdh24/paul-robeson-s-place-in-youtube-a-social-spatial-network-analysis-of-digital-heritage) _Digital Scholarship in the Humanities_, vol. 34, no. 1, Apr. 2019, pp. 174–88.
-  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
+<!-- - Pre-Class Reflection -->
+  <!-- - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011. -->
+  <!-- - [Rhodes Ii, Mark Alan. “Paul Robeson’s Place in YouTube: A Social Spatial Network Analysis of Digital Heritage.”](https://app.perusall.com/courses/introdh24/paul-robeson-s-place-in-youtube-a-social-spatial-network-analysis-of-digital-heritage) _Digital Scholarship in the Humanities_, vol. 34, no. 1, Apr. 2019, pp. 174–88. -->
+  <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
 </div>
 </details>
 

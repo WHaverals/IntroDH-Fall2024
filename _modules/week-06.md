@@ -13,10 +13,10 @@ This week begins with a lecture on Distant Reading, where we will explore the th
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-<!-- - Reflection:
-  - [Underwood, Ted. “A Genealogy of Distant Reading.”](https://app.perusall.com/courses/introdh24/underwood_2017_a-genealogy-of-distant-reading) _Digital Humanities Quarterly_, vol. 11, no. 2, 2017.
-  - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020.
-  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
+<!-- - Reflection: -->
+  <!-- - [Underwood, Ted. “A Genealogy of Distant Reading.”](https://app.perusall.com/courses/introdh24/underwood_2017_a-genealogy-of-distant-reading) _Digital Humanities Quarterly_, vol. 11, no. 2, 2017. -->
+  <!-- - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020. -->
+  <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
 
 </div>
 </details>
@@ -32,9 +32,9 @@ This week begins with a lecture on Distant Reading, where we will explore the th
 - Slides (_coming soon!_)
 <!-- - Pre-Class Reflection: -->
   <!-- - [Da, Nan Z. “The Computational Case against Computational Literary Studies.”](https://app.perusall.com/courses/introdh24/da_2019_the-computational-case-against-computational-literary-studies) _Critical Inquiry_, vol. 45, no. 3, Mar. 2019, pp. 601–39. -->
-  <!-- - [Nguyen, Dong, et al. “How We Do Things With Words: Analyzing Text as Social and Cultural Data.”](https://app.perusall.com/courses/introdh24/how-we-do-things-with-words-analyzing-text-as-social-and-cultural-data) _Frontiers in Artificial Intelligence_, vol. 3, article 63, Aug. 2020, p. 1-14.
-  - [Smits, Thomas, and Melvin Wevers. “A Multimodal Turn in Digital Humanities. Using Contrastive Machine Learning Models to Explore, Enrich, and Analyze Digital Visual Historical Collections.”](https://app.perusall.com/courses/introdh24/a-multimodal-turn-in-digital-humanities-using-contrastive-machine-learning-models-to-explore-enrich-and-analyze-digital-visual-historical-collections) _Digital Scholarship in the Humanities_, vol. 38, no. 3, Aug. 2023, pp. 1267–80.
-  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
+  <!-- - [Nguyen, Dong, et al. “How We Do Things With Words: Analyzing Text as Social and Cultural Data.”](https://app.perusall.com/courses/introdh24/how-we-do-things-with-words-analyzing-text-as-social-and-cultural-data) _Frontiers in Artificial Intelligence_, vol. 3, article 63, Aug. 2020, p. 1-14. -->
+  <!-- - [Smits, Thomas, and Melvin Wevers. “A Multimodal Turn in Digital Humanities. Using Contrastive Machine Learning Models to Explore, Enrich, and Analyze Digital Visual Historical Collections.”](https://app.perusall.com/courses/introdh24/a-multimodal-turn-in-digital-humanities-using-contrastive-machine-learning-models-to-explore-enrich-and-analyze-digital-visual-historical-collections) _Digital Scholarship in the Humanities_, vol. 38, no. 3, Aug. 2023, pp. 1267–80. -->
+  <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
 
 </div>
 </details>
