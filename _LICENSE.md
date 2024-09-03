@@ -36,4 +36,4 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 If you use this course material in your own teaching or research, please cite it as follows:
 
-Wouter Haverals, _Introduction to Digital Humanities – Spring 2024_, Princeton University, DOI: 10.0000/example.doi, URL: https://whaverals.github.io/IntroDH2024/, Accessed: 2024-05-01.
+Wouter Haverals, _Introduction to Digital Humanities_, Princeton University, DOI: 10.0000/example.doi, URL: https://whaverals.github.io/IntroDH-Fall2024/, Accessed: 2024-05-01.
