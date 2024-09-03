@@ -12,13 +12,13 @@ This week, we continue our exploration of visualization in Digital Humanities wi
     <span class="label label-red">Lab</span>
     <span class="session-title">Network Analysis I</span>
   </summary>
-  <!-- <div markdown="1">
+<div markdown="1">
 - Slides (_coming soon_)
-- Pre-Class Reflection
-  - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011.
-  - [Rhodes Ii, Mark Alan. “Paul Robeson’s Place in YouTube: A Social Spatial Network Analysis of Digital Heritage.”](https://app.perusall.com/courses/introdh24/paul-robeson-s-place-in-youtube-a-social-spatial-network-analysis-of-digital-heritage) _Digital Scholarship in the Humanities_, vol. 34, no. 1, Apr. 2019, pp. 174–88.
-  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
-</div> -->
+<!-- - Pre-Class Reflection -->
+  <!-- - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011. -->
+  <!-- - [Rhodes Ii, Mark Alan. “Paul Robeson’s Place in YouTube: A Social Spatial Network Analysis of Digital Heritage.”](https://app.perusall.com/courses/introdh24/paul-robeson-s-place-in-youtube-a-social-spatial-network-analysis-of-digital-heritage) _Digital Scholarship in the Humanities_, vol. 34, no. 1, Apr. 2019, pp. 174–88. -->
+  <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
+</div>
 </details>
 
 <details>

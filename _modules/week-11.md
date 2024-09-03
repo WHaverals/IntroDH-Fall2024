@@ -39,7 +39,7 @@ else:
     <span class="session-title">Coding Literacy</span>
   </summary>
   <div markdown="1">
-<!-- - - Notebook (_coming soon!_) -->
+  - Notebook (_coming soon!_)
 <!-- - Pre-Class Reflection: -->
   <!-- - [Schmidt, Benjamin M. “Do Digital Humanists Need to Understand Algorithms?”](https://app.perusall.com/courses/introdh24/schmidt_2016_do-digital-humanists-need-to-understand-algorithms) _Debates in the Digital Humanities_, vol. 53, 2016. -->
   <!-- - [Vee, Annette. “Introduction. Computer Programming as Literacy.”](https://app.perusall.com/courses/introdh24/vee-2017-introduction-computer-programming-as-literacy) _Coding Literacy: How Computer Programming Is Changing Writing_, The MIT Press, 2017. -->
