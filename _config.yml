@@ -62,6 +62,10 @@ callouts:
   note:
     color: purple
 
+# Google Site Verification
+google_site_verification: 'oz0uo5dDogxcOwP9F7bLYjIkA6OdMxt5JGhGiezSZcQ'
+
+
 # Collections for website data
 collections:
   staffers:
