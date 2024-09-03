@@ -9,7 +9,6 @@ seo:
 ---
 <meta name="google-site-verification" content="oz0uo5dDogxcOwP9F7bLYjIkA6OdMxt5JGhGiezSZcQ" />
 
-{% include course-info.jsonld.html %}
 {% include google79fb46e5db237b9f.html %}
 
 
