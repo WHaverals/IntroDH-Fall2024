@@ -41,15 +41,15 @@ In this module, we investigate the critical procedures involved in annotating da
   <!-- - Strict time limit of **four (4) minutes** for each presentation. -->
   <!-- - Order of presentations: -->
 
-  <!-- | **Order - Presenter(s)** | **Order - Presenter(s)**     | -->
-  <!-- |--------------------------|------------------------------| -->
-  <!-- | 1 - _name_               | 8 - _name_                   | -->
-  <!-- | 2 - _name_               | 9 - _name_                   | -->
-  <!-- | 3 - _name_               | 10 - _name_                  | -->
-  <!-- | 4 - _name_               | 11 - _name_                  | -->
-  <!-- | 5 - _name_               | 12 - _name_                  | -->
-  <!-- | 6 - _name_               | 13 - _name_                  | -->
-  <!-- | 7 - _name_               | 14 - _name_                  | -->
+<!-- | **Order - Presenter(s)** | **Order - Presenter(s)**     | -->
+<!-- |--------------------------|------------------------------| -->
+<!-- | 1 - _name_               | 8 - _name_                   | -->
+<!-- | 2 - _name_               | 9 - _name_                   | -->
+<!-- | 3 - _name_               | 10 - _name_                  | -->
+<!-- | 4 - _name_               | 11 - _name_                  | -->
+<!-- | 5 - _name_               | 12 - _name_                  | -->
+<!-- | 6 - _name_               | 13 - _name_                  | -->
+<!-- | 7 - _name_               | 14 - _name_                  | -->
 
 </div>
 </details>
