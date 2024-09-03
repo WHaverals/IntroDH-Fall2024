@@ -26,7 +26,7 @@ Throughout the course, you will be actively engaging with a wide range of assign
 
 Engage with the assigned materials on the collaborative annotation platform [_Perusall_](https://www.perusall.com/) (access code to be shared in class). Make sure to read, watch, or listen to the materials thoroughly. _Perusall_ allows you to highlight passages, make comments, and respond to your peers' comments and questions. Please be courteous and constructive during these interactions, adhering to the same [etiquette guidelines](https://whaverals.github.io/IntroDH-Fall2024/policies/#class-etiquette) as our class interactions.
 
-- **Frequency of Engagement**: Unless otherwise noted, you should complete a minimum of three annotations per assigned material (i.e. per article, chapter, video, etc.) by 9:00AM on the day of our class.
+- **Frequency of Engagement**: Unless otherwise noted, you should complete a minimum of three annotations per assigned material (i.e. per article, chapter, video, etc.) by 11:59PM on the day before our class.
 - **Nature of Comments**: Your comment can be an agreement, disagreement, expression of confusion, question, or any other relevant observation. There are no right or wrong comments. The interaction serves as an exercise in critical thinking, collaborative learning, and engagement with scientific debates.
 
 **2. Reflecting on _Slack_** (10%)
@@ -74,7 +74,7 @@ You will submit a reflection paper of 2-4 pages (about 1000-1500 words), double-
 - A **discussion** on how these specific details shape the kinds of questions that can be responsibly asked of the dataset.
 - Your **accompanying spreadsheet**, if used, during your analysis (does not contribute to the overall page or word count).
 
-Please format your file name as `LastName-Data-Biography` and <a href= "mailto:wouter.haverals@princeton.edu" style="color: #ee6374;">email it to me by October 15, 10:00PM.</a>
+Please format your file name as `LastName-Data-Biography` and <a href= "mailto:wouter.haverals@princeton.edu" style="color: #ee6374;">email it to me by October 15, 11:59PM.</a>
 
 ### Participation (15%)
 
