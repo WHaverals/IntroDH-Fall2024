@@ -12,6 +12,7 @@ In this module, we will start on our class-crowdsourced project featuring a data
     <span class="session-title">Special Collections Studio Tour</span>
   </summary>
   <div markdown="1">
+- Slides (_coming soon!_)
 
   <!-- - Pre-Class Exercise: -->
     <!-- - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions: -->

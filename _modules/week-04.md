@@ -29,6 +29,7 @@ In this module, we investigate the critical procedures involved in annotating da
     <span class="session-title">Data Biographies</span>
   </summary>
   <div markdown="1">
+- Slides (_coming soon!_)
 <!-- - Presentation overview: -->
   <!-- - On this day, students will present their Data Biographies. This is a chance to share the intriguing stories behind the datasets you've explored! -->
   <!-- - Each presentation should last approximately -- but also no more than -- **4 minutes**, followed by a brief (~1 minute) Q&A session. -->
