@@ -12,6 +12,6 @@ For our first gathering, there’s no need to prepare anything in advance. The a
  
 I have set up a Slack workspace for our seminars, which can be found [here](https://join.slack.com/t/introtodh-fall2024/shared_invite/zt-2ppku2vc1-Mj7ZKeWr4T0DxKGx~f3__g). See if you can join this already before our classes start, as we will be using Slack for sharing resources, updates, and assignment posts.
  
-I am looking forward to meeting each of you! Should you have any questions or concerns before our first meeting, feel free to reach out.
+I am looking forward to meeting each of you! Should you have any questions or concerns before our first meeting, don’t hesitate to reach out.
 
 -- Wouter
