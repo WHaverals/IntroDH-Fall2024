@@ -17,7 +17,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   
 - Pre-Class Exercise:
   - Play around with [Google's Ngram Viewer](https://books.google.com/ngrams) to investigate two terms of your choice (e.g. 'car' vs. 'automobile'). Analyze and interpret the trends you observe. Consider the following: what intriguing patterns -- if any -- emerge? Can specific historical events explain shifts in the usage of these terms? You are welcome to do a quick online search to support your interpretations, but keep it concise -- no more than three sentences for each term.
-  - **Post your analysis along with a screenshot of your NGram search in the** <a href="https://introtodh--spring2024.slack.com/archives/C06FSP0UUEQ" style="color: #ee6374;">**#ngrams** </a>**channel on Slack** <a style="color: #ee6374;">**before 9:00AM on the day of our class.**</a>
+  - **Post your analysis along with a screenshot of your NGram search in the** <a href="https://introtodh--spring2024.slack.com/archives/C06FSP0UUEQ" style="color: #ee6374;">**#ngrams** </a>**channel on Slack** <a style="color: #ee6374;">**before the day of our class.**</a>
 
 - Pre-Class Annotation (no Slack reflection, just annotations on Perusall!):
   <!-- - [Rosenberg, Daniel. 2013. "Data before the Fact."](https://app.perusall.com/courses/introdh24/rosenberg_2013_data-before-the-fact) _Raw Data Is an Oxymoron_, 15–40. -->
