@@ -27,7 +27,7 @@ In this module, we will take our time to become acquinted with the contours that
   </summary>
   <div markdown="1">
 
-- Slides (_coming soon!_)
+- [Slides]([_coming soon!_](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/ramsay_2014_the-hermeneutics-of-screwing-around-or-what-you-dowith-a-million-books))
 - Pre-Class Reflection:
   - [Examine this website](https://whatisdigitalhumanities.com/), hit the _New Quote_-button a few times, and read the definition that appears. Some guiding questions:
     - How do the definitions you encounter vary each time you refresh the page? What does this diversity tell you about the nature of Digital Humanities as a field? What are the commonalities between the definitions? What are the differences? Consider the role technology plays in these definitions. Is it merely a tool, or does it fundamentally reshape the humanities?
