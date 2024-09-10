@@ -13,7 +13,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   </summary>
   <div markdown="1">
     
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1_fvaAmnKeJD8tLRKA8Ai0H_zaAlHIKiJkL_uPIXYWhk/edit?usp=sharing)
   
 - Pre-Class Exercise:
   - Play around with [Google's Ngram Viewer](https://books.google.com/ngrams) to investigate two terms of your choice (e.g. 'car' vs. 'automobile'). Analyze and interpret the trends you observe. Consider the following: what intriguing patterns -- if any -- emerge? Can specific historical events explain shifts in the usage of these terms? You are welcome to do a quick online search to support your interpretations, but keep it concise -- no more than three sentences for each term.
