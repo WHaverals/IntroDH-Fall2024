@@ -19,7 +19,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   - Play around with [Google's Ngram Viewer](https://books.google.com/ngrams) to investigate two terms of your choice (e.g. 'car' vs. 'automobile'). Analyze and interpret the trends you observe. Consider the following: what intriguing patterns -- if any -- emerge? Can specific historical events explain shifts in the usage of these terms? You are welcome to do a quick online search to support your interpretations, but keep it concise -- no more than three sentences for each term.
   - **Post your analysis along with a screenshot of your NGram search in the** <a href="https://introtodh-fall2024.slack.com/archives/C07L01NME5Q" style="color: #ee6374;">**#ngrams** </a>**channel on Slack** <a style="color: #ee6374;">**before the day of our class.**</a>
 
-- Pre-Class Annotation (no Slack reflection, just annotations on Perusall!):
+- Pre-Class Perusall Annotation (no Slack reflection, just annotations on Perusall!):
   <!-- - [Rosenberg, Daniel. 2013. "Data before the Fact."](https://app.perusall.com/courses/introdh24/rosenberg_2013_data-before-the-fact) _Raw Data Is an Oxymoron_, 15–40. -->
   - [Ramsay, Stephen. 2014. "The Hermeneutics of Screwing Around; or What You Do with a Million Books."](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/ramsay_2014_the-hermeneutics-of-screwing-around-or-what-you-dowith-a-million-books) In _Pastplay: Teaching and Learning History with Technology_, edited by Kevin B. Kee, 111–20. Ann Arbor: University of Michigan Press.
   <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
@@ -31,12 +31,13 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   <summary class="session-summary">
     <span class="arrow">↪</span>
     <span class="date-label">Sept 12</span>
-    <span class="label label-blue">Discussion</span>
+    <span class="label label-blue">Guest Lecture</span>
     <span class="session-title">Metadata and data description</span>
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-<!-- - Reflection: -->
+- Pre-Class Perusall Annotation(no Slack reflection, just annotations on Perusall!)
+  - [Drucker, Johanna. “Humanities Approaches to Graphical Display.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/humanities-approaches-to-graphical-display-3308149) _Digital Humanities Quarterly_, vol. 5, no. 1, 2011.
   <!-- - [Manovich, Lev. “Database as Symbolic Form.”](https://app.perusall.com/courses/introdh24/manovich_1999_database-as-symbolic-form) _Convergence: The International Journal of Research into New Media Technologies_, vol. 5, no. 2, June 1999, pp. 80–99. -->
   <!-- - [Pomerantz, Jeffrey. “Introduction.”](https://app.perusall.com/courses/introdh24/pomerantz_2015_introduction) _Metadata_, The MIT Press, 2015, pp. 1–18. -->
   <!-- - [Gebru, Timnit, et al. “Datasheets for Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-datasets-846236723) _Communications of the ACM_, vol. 64, no. 12, Dec. 2021, pp. 86–92. -->
