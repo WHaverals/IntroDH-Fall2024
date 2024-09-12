@@ -1,8 +1,8 @@
 ---
-title: Week 3 - A Project of Our Own
+title: Week 3 - From Artifacts to Data
 ---
 
-In this module, we will start on our class-crowdsourced project featuring a dataset that captures the essence of Princeton University: the Princeton University Historical Postcard Collection. Part of this collection has been digitized and is available through the [Princeton University Digital Library](https://dpul.princeton.edu/collections/7d278t50j). We will outline the various stages of this project, from conception to completion, and identify the tools and techniques that will assist us throughout. We will also pay a visit to the Princeton University's [Special Collections](https://library.princeton.edu/special-collections) where will take a tour of the Digitization Studio. In the second meeting of this week, we investigate the critical procedures involved in data cleaning, and how [OpenRefine](https://openrefine.org/) can be used in this process.
+In this module, we will pay a visit to the Princeton University's [Special Collections](https://library.princeton.edu/special-collections) where will take a tour of the Digitization Studio. In the second meeting of this week, we investigate the critical procedures involved in data cleaning, and how [OpenRefine](https://openrefine.org/) can be used in this process.
 
 <details>
   <summary class="session-summary">
