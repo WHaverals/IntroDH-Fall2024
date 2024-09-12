@@ -35,7 +35,7 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
     <span class="session-title">Metadata and data description</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1BuJQisWHE5voMgtOXb-phbj_Ls9Cr9BmOn8Ke7wMwUE/edit?usp=sharing) by Sarah Reiff Conell.
 - Pre-Class Perusall Annotation(no Slack reflection, just annotations on Perusall!)
   - [Drucker, Johanna. “Humanities Approaches to Graphical Display.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/humanities-approaches-to-graphical-display-3308149) _Digital Humanities Quarterly_, vol. 5, no. 1, 2011.
   - **Make sure your annotations are added in Perusall** <a style="color: #ee6374;">**on the day before our class later.**</a>
