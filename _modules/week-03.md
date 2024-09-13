@@ -13,11 +13,11 @@ In this module, we investigate the critical procedures involved in data creation
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-- Reflection:
+- Slack Reflection and Perusall Annotations:
   - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/scho-ch_big) _Journal of Digital Humanities_, vol. 2, no. 3, 2013.
   - [Rawson, Katie, and Muñoz Trevor. “Against Cleaning.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/rawson_trevor_2019_against-cleaning) _Debates in the Digital Humanities_, University of Minnesota Press, 2019, pp. 279–92.
   <!-- - [Broman, Karl W., and Kara H. Woo. “Data Organization in Spreadsheets.”](https://app.perusall.com/courses/introdh24/data-organization-in-spreadsheets-23277228) _The American Statistician_, vol. 72, no. 1, 2018, pp. 2–10. <small>&rarr; **Perusall annotations are optional for this article.**</small> -->
-  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
+  - **Make sure your annotations are added in Perusall and your reflection is posted in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 </div>
 </details>
 
@@ -29,7 +29,7 @@ In this module, we investigate the critical procedures involved in data creation
     <span class="session-title">Special Collections Studio Tour</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- For this class, we'll meet at the **Firestone Library, C-level** ("the bunker") at 11:00AM.
 
   <!-- - Pre-Class Exercise: -->
     <!-- - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions: -->
