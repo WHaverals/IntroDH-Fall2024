@@ -30,9 +30,9 @@ In this module, we investigate the critical procedures involved in data creation
   </summary>
   <div markdown="1">
 - For this class, we'll meet at the **Firestone Library, C-level** ("the bunker") at 11:00AM.
-
-  <!-- - Pre-Class Exercise: -->
-    <!-- - [Explore the Princeton University Historical Postcard Collection](https://dpul.princeton.edu/historical-postcards) and select a postcard that you find interesting. Critically analyze it using **one** of the following guiding questions: -->
+- Pre-Class Activities (no Peruasll annotations, nor reflection required!):
+  - Familiarize yourself with the [Princeton's Digital Repository](https://dpul.princeton.edu) to get a sense of the extent of Princeton University's digitized materials. Specifically, explore [The Infant’s Library](https://dpul.princeton.edu/cotsen/catalog/dc9019sd49x) from the Cotsen Children’s Library. Reflect on how the physical characteristics of this item - a miniature bookcase with books! - are represented digitally. Consider how well the digitization captures the physicality of the item.
+  - Listen to [this podcast episode](https://pricelab.sas.upenn.edu/podcast/1/dream-lab-podcast-digital-surrogates), where Dot Porter (Curator of Digital Research Services at UPenn's Schoenberg Institute for Manuscript Studies) is interviewed by Stewart Varner (Managing Director of the Price Lab at UPenn). 
 
 <!-- 1. If available, find the same postcard on a different online platform. Note differences in color, detail, or cropping. What do these variations suggest about digitizing analog materials? -->
 <!-- 2. Assess the quality of the digital images. Are there details potentially lost or misrepresented in the digital version? -->
