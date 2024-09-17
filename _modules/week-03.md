@@ -7,9 +7,11 @@ In this module, we investigate the critical procedures involved in data creation
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
-    <span class="date-label">Sept 17</span>
-    <span class="label label-red">Lab</span>
-    <span class="session-title">Data Cleaning</span>
+    <span class="date-label"><del>Sept 17</del></span>
+    <span class="label label-red"><del>Lab</del></span>
+    <span class="session-title"><del>Data Cleaning</del></span>
+  <span class="session-title">CANCELED</span>
+
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
