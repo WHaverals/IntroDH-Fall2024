@@ -1,15 +1,15 @@
 ---
-title: Week 5 - Text Digitization and Markup Languages
+title: Week 5 - Text Digitization (pt. II) and Distant Reading
 ---
 
-During our first session this week, we will look at  into the technology behind making text digitally readable. Our historic postcard collection provides the perfect case study for exploring both Optical Character Recognition (OCR) and Handwritten Text Recognition (HTR) technologies. In our subsequent session, we will explore the world of markup languages, such as HTML and XML. We will discuss their significance in structuring and presenting digital content, and explore how these languages serve as the backbone of content representation on the web.
+During our first session this week, we will continue with our exploring of Handwritten Text Recognition (HTR) and Optical Character Recognition (OCR) technologies. In the second session, we will shift our focus to Distant Reading, a method of analyzing large bodies of text to uncover patterns and trends that are not immediately apparent.
 
 <details>
   <summary class="session-summary">
     <span class="arrow">↪</span>
     <span class="date-label">Oct 1</span>
     <span class="label label-red">Lab</span>
-    <span class="session-title">Text Recognition Technologies</span>
+    <span class="session-title">Text Recognition Technologies, pt. II</span>
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
@@ -26,7 +26,7 @@ During our first session this week, we will look at  into the technology behind 
     <span class="arrow">↪</span>
     <span class="date-label">Oct 3</span>
     <span class="label label-red">Lab</span>
-    <span class="session-title">Markup Languages</span>
+    <span class="session-title">Distant Reading</span>
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
