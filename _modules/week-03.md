@@ -32,7 +32,7 @@ In this module, we investigate the critical procedures involved in data creation
   </summary>
   <div markdown="1">
 - For this class, we'll meet at the **Firestone Library, C-level** ("the bunker") at 11:00AM.
-- Pre-Class Activities (no Peruasll annotations, nor reflection required!):
+- Pre-Class Activities (no Perusall annotations, nor reflection required!):
   - Familiarize yourself with the [Princeton's Digital Repository](https://dpul.princeton.edu) to get a sense of the extent of Princeton University's digitized materials. Specifically, explore [The Infant’s Library](https://dpul.princeton.edu/cotsen/catalog/dc9019sd49x) from the Cotsen Children’s Library. Reflect on how the physical characteristics of this item - a miniature bookcase with books! - are represented digitally. Consider how well the digitization captures the physicality of the item.
   - Listen to [this podcast episode](https://pricelab.sas.upenn.edu/podcast/1/dream-lab-podcast-digital-surrogates), where Dot Porter (Curator of Digital Research Services at UPenn's Schoenberg Institute for Manuscript Studies) is interviewed by Stewart Varner (Managing Director of the Price Lab at UPenn).
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6CJZhZd57IxN0Y4geIBYeQ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 

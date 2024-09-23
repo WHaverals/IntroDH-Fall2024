@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Text Digitization (pt. II) and Distant Reading
+title: Week 5 - Text Digitization (pt. II) and Distant Reading (pt. I)
 ---
 
 During our first session this week, we will continue with our exploring of Handwritten Text Recognition (HTR) and Optical Character Recognition (OCR) technologies. In the second session, we will shift our focus to Distant Reading, a method of analyzing large bodies of text to uncover patterns and trends that are not immediately apparent.
@@ -13,11 +13,8 @@ During our first session this week, we will continue with our exploring of Handw
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-<!-- - Pre-Class Reflection: -->
-  <!-- - [Terras, Melissa. “The Role of the Library When Computers Can Read: Critically Adopting Handwritten Text Recognition (HTR) Technologies to Support Research.”](https://app.perusall.com/courses/introdh24/terras-2022-the-role-of-the-library-when-computers-can-read-c-404383324) _The Rise of AI_, edited by Amanda Wheatley and Sandy Hervieux, ACRL - Association of College & Research Libraries, 2022, pp. 137–48. -->
-  <!-- - [Terras, Melissa. “Present, Not Voting: Digital Humanities in the Panopticon.”](https://app.perusall.com/courses/introdh24/terras_2012_present-not-voting) _Understanding Digital Humanities_, edited by David M. Berry, Palgrave Macmillan UK, 2012, pp. 172–90. -->
-  <!-- - [Cordell, Ryan. “Q I-Jtb the Raven. Taking Dirty OCR Seriously.”](https://app.perusall.com/courses/introdh24/cordell_2017_q-i-jtb-the-raven) _Book History_, vol. 20, 2017, pp. 188–225. -->
-  <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
+<!-- - Pre-Class Exploration ((no Perusall annotations, nor reflection required!)): -->
+  <!-- - Explore [this demo of Edition Visualization (EVT)](http://evt.labcd.unipi.it/demo/evt_v1-3/dotr/index.html). Spend some time interacting with the interface and the features it offers (e.g., text-image synchronization, the diplomatic vs. interpretative views, and metadata features). Focus on how EVT makes the manuscript more accessible for scholarly research. What are the strengths and weaknesses of the digital interface? -->
 </div>
 </details>
 
