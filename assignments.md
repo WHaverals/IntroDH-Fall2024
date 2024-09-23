@@ -103,6 +103,6 @@ When writing up your research proposal, it's important to translate these elemen
 
 I will be evaluating your proposal holistically. Rather than just looking for the inclusion of certain key elements (as in the Data Biography assignment before), I'm interested in how well you synthesize and present your ideas. The one area where I _will_ be particularly quantitative is in your use of citations: make sure to include at least 6 references that support the disciplinary context of your proposal (your bibliography won't count towards the final word count).
 
-You will have the opportunity to [present your research proposal](#presentations-10) in class on 25 April. This presentation will be followed by a Q&A session, where you will receive feedback from me and your peers-- feedback that you can still incorporate into your final, written research proposal.
+You will have the opportunity to [present your research proposal](#presentations-10) in class on 5 December. This presentation will be followed by a Q&A session, where you will receive feedback from me and your peers-- feedback that you can still incorporate into your final, written research proposal.
 
 Please format your file as `LastName-Research-Proposal` and <a href= "mailto:wouter.haverals@princeton.edu" style="color: #ee6374;">email it to me by 13 December 2024</a>, which is [Dean's Date](https://isitdeansdate.com/).
