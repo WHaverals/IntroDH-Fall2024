@@ -45,7 +45,7 @@ A paragraph of 200-300 words is sufficient for your reflection. You are welcome 
 
 **3. Data Biography** (10%)
 
-In this assignment, you will create a Data Biography for a humanities dataset. Begin by exploring Heather Krause's concept of a Data Biography through her article ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) (_Global Investigative Journalism Network_, March 27, 2017). This will help you to get a better sense for what a Data Biography is and why it is important.
+In this assignment, you will create a Data Biography for a humanities dataset. Begin by exploring Heather Krause's concept of a Data Biography through her article ["Data Biographies: Getting to Know Your Data"](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) (_Global Investigative Journalism Network_, March 27, 2017), or watch her excellent [Data Storytelling Module on YouTube](https://youtu.be/yCuRQc4xuhA?feature=shared). This will help you to get a better sense for what a Data Biography is and why it is important.
 
 In short, a Data Biography is a narrative about a dataset's lifecycle. It covers its creation, usage, and any milestones associated with it. For this assignment, choose a dataset either from the resources that I've listed [here](https://whaverals.github.io/IntroDH-Fall2024/resources/datasets) or one you find independently. If you opt for a dataset of your own choice, make sure it aligns with humanities data as outlined by Miriam Posner in her [blog post](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/). 
 
