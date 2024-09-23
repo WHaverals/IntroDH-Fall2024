@@ -32,7 +32,7 @@ In this module, we investigate the critical procedures involved in data creation
 - Slides (_coming soon!_)
 - Slack Reflection (no Perusall annotations required for this session!):
   - [Terras, Melissa. “The Role of the Library When Computers Can Read: Critically Adopting Handwritten Text Recognition (HTR) Technologies to Support Research.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/terras-2022-the-role-of-the-library-when-computers-can-read-c-404383324) _The Rise of AI_, edited by Amanda Wheatley and Sandy Hervieux, ACRL - Association of College & Research Libraries, 2022, pp. 137–48.
-  - Read the blog post [*"What is handwriting recognition and how does it work?"*](https://www.transkribus.org/blog/what-is-handwriting-recognition-and-how-does-it-work) on the Transkribus team's. 
+  - Read the blog post [*"What is handwriting recognition and how does it work?"*](https://www.transkribus.org/blog/what-is-handwriting-recognition-and-how-does-it-work) on the Transkribus team's website. 
   - Make sure your reflection is posted in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 
 </div>

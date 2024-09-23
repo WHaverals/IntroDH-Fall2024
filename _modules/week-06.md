@@ -1,5 +1,5 @@
 ---
-title: Week 6 - Distant Reading
+title: Week 6 - Distant Reading (pt. II) and Data Biographies
 ---
 
 This week begins with a hands-on lab session where we will be leveraging the web-based [Voyant Tools](https://voyant-tools.org/), known for their user-friendly, powerful capabilities for visual text analysis. This module is designed to be both instructive and engaging, providing you with practical experience using digital tools to analyze large textual data sets. Drawing inspiration from the works of [El Khatib and Ross (2022)](https://doi.org/10.17613/42c8-mk80), we will conduct an ecological reading of Emily Brontë’s novel *Jane Eyre*, and an exploratory thematic analysis of Mary Shelley’s *Frankenstein*. 
