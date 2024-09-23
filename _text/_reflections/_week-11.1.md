@@ -1,0 +1,30 @@
+# Reflections
+
+- Haggerty, Kenneth
+- Lerner, Ben
+
+## Clay Glovier
+  11:13 AM
+I enjoyed reading both Kenneth Hagerty’s Intellectual Property Guidelines for the Digital Humanities, and Ben Lerner’s The Hoffmann Wobble. Wikipedia and the Problem of Historical Memory. In Lerner’s article, it was interesting to learn about the development of Wikipedia. I remember when the website first became popular, and teachers started forbidding its use in the classroom. Today, my professors have said that it is okay to use, yet should not be relied upon, suggesting an increasing acceptance of the website but a continued awareness that it is not a scholarly source. In Hagerty’s piece, it was interesting to learn about ways in which information is protected. One issue that interests me regarding the protection of intellectual property is the information on which generative AI systems are trained. Recently, the New York Times sued OpenAI for using its articles to train its model. While OpenAI is not republishing the New York Times’ articles as its own, it is using their content in a way that improves its core product without seeking the newspaper’s content. Cases like this will be incredibly interesting to follow as they progress, and will have significant ramifications for the law regarding the protection of digital content and the advent of more powerful generative AI models.
+
+
+## Anya Kalogerakos
+  10:40 PM
+The Ben Lerner piece made me feel insane as I read it, though I think that was kind of the point. It also gave me mixed feelings, as though I do understand the point of the author and the fact that fact and perspective can get distorted by the powerful editors of Wikipedia (and Wikipedia also heavily influences research and now large language models), I do love Wikipedia and its editors. I am definitely biased, but I think Wikipedia is a noble cause to keep information publicly accessible (largely due to the expansion of the copyright regime) and I figure it being available outweighs the drawbacks of its occasional inaccuracies. (That is under the assumption very few people are explicitly out to manipulate Wikipedia as the protagonist did). I am very familiar with intellectual property and I find many of the aspects of copyright to be absurd. The Haggerty article did a great job distilling all the complexities, but in the end, copyright can be summarized by it being “more reactive than proactive.” As it stands today, I feel that copyright benefits corporations more than individual creators, especially since the benefits long extend the creator's lifetime (and they are often sold). This is why I love creative commons projects such as Wikipedia and why I can’t fully say I am concerned with Wikipedia’s faults (the alternative seems worse to me).
+
+
+## Alison Fortenberry
+  11:44 PM
+The Haggerty reading was a really helpful primer to intellectual property and considerations in digital humanities. There were things that I never even considered as potential intellectual property violations because generally things used for academic purposes get a little more leniency. It made me wonder what these kinds of conflicts look like on a more personal level. Like, if I was an author of several books, I wouldn’t really want the full text of each of them published on the internet for free. That said, being able to use full texts was really helpful for our lab on stylometry, and I can understand why it would be productive in a classroom setting. We conceptualize these topics in broad, legal terms, but thinking about their more tangible applications is helpful for me in actually thinking through the ethics behind decisions like these. The Lerner reading was really interesting, and it was eye opening to see how easy it is to game Wikipedia. While I grew up being told Wikipedia wasn’t a citable source, I was also taught that it is usually accurate and usually grounded in cited fact, but, because it was publicly editable, it wasn’t strong enough to cite. The message was basically that Wikipedia is pretty reliable, but not so much so that you can use it for a paper. It was interesting to see how inaccuracies can find their way in, and the subtle biases authors can have that can shape the whole way we come to understand a topic via Wikipedia.
+
+
+## Ethan Haque
+  4:08 AM
+I think the state of intellectual property, copyright, and open source in America is truly a tragedy. There are aspects of it that protect individuals and small creators for being bullied by big businesses, but to me it seems a majority of these laws don't protect the public's interests but protect the interests of corporations. Fundamentally, I think there is something strange about owning an idea to begin with. Some patents are so generic and unremarkable and yet give people some sort of legal right to an idea. But, in the context of books and other creative works, this makes a lot more sense. Still, consider how Disney lobbied to prevent works they profit off of from entering the public domain. The general public has a vested interest in having access to important cultural artifacts and pieces of history. Most people don't live long enough to see a work go from published to entering the public domain. There are laws protecting fair use, but just look at how YouTube has handled fair use and copyright claims the past decade. I also see a parallel between these ideas and the open source software community. Don't get me wrong, I think open source software is absolutely wonderful and revolutionary. Many people consider software that restricts the ways it can be used as not open source, though. Specifically, if a project's licencing agreement requires a big company to make any modifications they make to the underlying software publicly available, many don't consider that open source and take issue with this. I see the logic here, but something also doesn't feel right about some big company like Amazon making huge profit off of the backs of people doing work they do for the good of everyone.
+
+
+
+
+
+
+
