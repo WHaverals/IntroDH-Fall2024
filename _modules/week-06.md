@@ -30,6 +30,26 @@ This week begins with a hands-on lab session where we will be leveraging the web
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
+  - On this day, students will present their Data Biographies. This is a chance to share the intriguing stories behind the datasets you've explored!
+  - Each presentation should last approximately -- but also no more than -- **4 minutes**, followed by a brief (~1 minute) Q&A/feedback session.
+  - Focus on the **narrative** of your Data Biography, presenting on aspects you find interesting, such as origin, collector(s), collection method(s), intended use, and any limitations or ethical considerations.
+  - Use visuals or excerpts from your dataset to illustrate your points and engage the audience.
+  - For more details, refer to the [assignment description](https://whaverals.github.io/IntroDH-Fall2024/assignments/#assignments).
+  - Presentation guidelines:
+    - Maximum of **five (5) slides** per presentation, and a very strict time limit of **four - *4!* - minutes**. You will be cut off if you exceed this limit!
+    - Please add your slides to the shared slide deck (*link coming soon*) before the start of the class.
+  - Order of presentations (*TBA*)
+
+<!-- | **Order - Presenter(s)** | **Order - Presenter(s)**     | -->
+<!-- |--------------------------|------------------------------| -->
+<!-- | 1 - _name_               | 8 - _name_                   | -->
+<!-- | 2 - _name_               | 9 - _name_                   | -->
+<!-- | 3 - _name_               | 10 - _name_                  | -->
+<!-- | 4 - _name_               | 11 - _name_                  | -->
+<!-- | 5 - _name_               | 12 - _name_                  | -->
+<!-- | 6 - _name_               | 13 - _name_                  | -->
+<!-- | 7 - _name_               | 14 - _name_                  | -->
+  
 <!-- - Pre-Class Reflection: -->
   <!-- - [Da, Nan Z. “The Computational Case against Computational Literary Studies.”](https://app.perusall.com/courses/introdh24/da_2019_the-computational-case-against-computational-literary-studies) _Critical Inquiry_, vol. 45, no. 3, Mar. 2019, pp. 601–39. -->
   <!-- - [Nguyen, Dong, et al. “How We Do Things With Words: Analyzing Text as Social and Cultural Data.”](https://app.perusall.com/courses/introdh24/how-we-do-things-with-words-analyzing-text-as-social-and-cultural-data) _Frontiers in Artificial Intelligence_, vol. 3, article 63, Aug. 2020, p. 1-14. -->
