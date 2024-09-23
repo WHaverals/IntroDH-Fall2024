@@ -30,29 +30,10 @@ In this module, we investigate the critical procedures involved in data creation
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-- Presentation overview:
-  <!-- - [Terras, Melissa. “The Role of the Library When Computers Can Read: Critically Adopting Handwritten Text Recognition (HTR) Technologies to Support Research.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/terras-2022-the-role-of-the-library-when-computers-can-read-c-404383324) _The Rise of AI_, edited by Amanda Wheatley and Sandy Hervieux, ACRL - Association of College & Research Libraries, 2022, pp. 137–48. -->
-
-  <!-- - On this day, students will present their Data Biographies. This is a chance to share the intriguing stories behind the datasets you've explored! -->
-  <!-- - Each presentation should last approximately -- but also no more than -- **4 minutes**, followed by a brief (~1 minute) Q&A session. -->
-  <!-- - Focus on the **narrative** of your Data Biography, presenting on aspects you find interesting, such as origin, collector(s), collection method(s), intended use, and any limitations or ethical considerations. -->
-  <!-- - Use visuals or excerpts from your dataset to illustrate your points and engage the audience. -->
-  <!-- - For more details, refer to the [assignment description](https://whaverals.github.io/IntroDH2024/assignments/). -->
-<!-- - Presentation guidelines: -->
-  <!-- - Maximum of **five (5) slides** per presentation. -->
-  <!-- - Please add your slides to [this shared slide deck](ADD_LINK_HERE) before the start of the class. -->
-  <!-- - Strict time limit of **four (4) minutes** for each presentation. -->
-  <!-- - Order of presentations: -->
-
-<!-- | **Order - Presenter(s)** | **Order - Presenter(s)**     | -->
-<!-- |--------------------------|------------------------------| -->
-<!-- | 1 - _name_               | 8 - _name_                   | -->
-<!-- | 2 - _name_               | 9 - _name_                   | -->
-<!-- | 3 - _name_               | 10 - _name_                  | -->
-<!-- | 4 - _name_               | 11 - _name_                  | -->
-<!-- | 5 - _name_               | 12 - _name_                  | -->
-<!-- | 6 - _name_               | 13 - _name_                  | -->
-<!-- | 7 - _name_               | 14 - _name_                  | -->
+- Slack Reflection (no Perusall annotations required for this session!):
+  - [Terras, Melissa. “The Role of the Library When Computers Can Read: Critically Adopting Handwritten Text Recognition (HTR) Technologies to Support Research.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/terras-2022-the-role-of-the-library-when-computers-can-read-c-404383324) _The Rise of AI_, edited by Amanda Wheatley and Sandy Hervieux, ACRL - Association of College & Research Libraries, 2022, pp. 137–48.
+  - Read the blog post [*"What is handwriting recognition and how does it work?"*](https://www.transkribus.org/blog/what-is-handwriting-recognition-and-how-does-it-work) on the Transkribus team's. 
+  - Make sure your reflection is posted in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 
 </div>
 </details>
