@@ -12,7 +12,7 @@ In this module, we investigate the critical procedures involved in data creation
     <span class="session-title">Data Cleaning</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1uyjmXB-wjMHspAh5GcFAFiIZK0ltQFkA5htALW-95kE/edit?usp=sharing)
 - Slack Reflection and Perusall Annotations:
   - [Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/scho-ch_big) _Journal of Digital Humanities_, vol. 2, no. 3, 2013.
   - [Rawson, Katie, and Muñoz Trevor. “Against Cleaning.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/rawson_trevor_2019_against-cleaning) _Debates in the Digital Humanities_, University of Minnesota Press, 2019, pp. 279–92.
