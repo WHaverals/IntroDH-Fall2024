@@ -23,7 +23,7 @@ nav_order: 3
 
 {% for module in site.modules %}
   {{ module }}
-  {% if module.title == "Week 6 - Distant Reading" %}
+  {% if module.title == "Week 6 - Distant Reading (pt. II) and Data Biographies" %}
 > 🍂 **Fall Recess** 🍂  
 >
 > Enjoy a well-deserved break!
