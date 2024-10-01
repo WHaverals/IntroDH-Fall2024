@@ -12,7 +12,7 @@ During our first session this week, we will continue with our exploring of Handw
     <span class="session-title">Text Recognition Technologies, pt. II</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/15kAoRXrOjmYLAHWy9nE4UAwaE7U8O5Qn_kfFNgnL-Ks/edit?usp=sharing)
 <!-- - Pre-Class Exploration ((no Perusall annotations, nor reflection required!)): -->
   <!-- - Explore [this demo of Edition Visualization (EVT)](http://evt.labcd.unipi.it/demo/evt_v1-3/dotr/index.html). Spend some time interacting with the interface and the features it offers (e.g., text-image synchronization, the diplomatic vs. interpretative views, and metadata features). Focus on how EVT makes the manuscript more accessible for scholarly research. What are the strengths and weaknesses of the digital interface? -->
 </div>
