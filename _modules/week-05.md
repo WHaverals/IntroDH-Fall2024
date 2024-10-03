@@ -24,7 +24,7 @@ During our first session this week, we will continue with our exploring of Handw
     <span class="session-title">Distant Reading</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1zIQyeFPPyE1gJeYiNHi-L-AEhkhHbYfqoajEAUCY9Mk/edit?usp=sharing)
 - Pre-Class Perusall annotations (no Slack reflection required!):
   - [Underwood, Ted. “A Genealogy of Distant Reading.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/underwood_2017_a-genealogy-of-distant-reading) *Digital Humanities Quarterly*, vol. 11, no. 2, 2017.
   - [Klein, Lauren F. “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/the-image-of-absence-archival-silence-data-visualization-and-james-hemings) *American Literature*, vol. 85, no. 4, Dec. 2013, pp. 661–88.
