@@ -53,6 +53,8 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[WTFcsv](https://wtfcsv.com/)**: Tells you WTF is going on with your .csv file.
 - **[Kumu](https://kumu.io/)**: A powerful data visualization platform that helps you organize complex information into interactive relationship maps.
 - **[ClioVis](https://cliovis.com/)**: Interactive timeline, mind-mapping and presentation tool.
+- **[Tiki-Toki](https://www.tiki-toki.com/)**: Create interactive timelines.
+- **[TimelineJS](https://timeline.knightlab.com/)**: Yet another tool to create interactive timelines.
 
 ### Mapping and Spatial Analysis
 - **[QGIS](https://qgis.org/en/site/)**: A free and open-source geographic information system.
