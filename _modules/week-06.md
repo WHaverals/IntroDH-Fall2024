@@ -12,7 +12,7 @@ This week begins with a hands-on lab session where we will be leveraging the web
     <span class="session-title">Applying <i>Voyant Tools</i></span>
   </summary>
   <div markdown="1">
-- Slides (coming soon!)
+- [Slides](https://docs.google.com/presentation/d/1lP8xpzlmVPjhLi5xLigqiEXTy8ZVYpkUl7xSjS_vTks/edit?usp=sharing)
 <!-- - Reflection: -->
   <!-- - [Underwood, Ted. “A Genealogy of Distant Reading.”](https://app.perusall.com/courses/introdh24/underwood_2017_a-genealogy-of-distant-reading) _Digital Humanities Quarterly_, vol. 11, no. 2, 2017. -->
   <!-- - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020. -->
