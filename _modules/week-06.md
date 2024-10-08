@@ -12,7 +12,7 @@ This week begins with a hands-on lab session where we will be leveraging the web
     <span class="session-title">Applying <i>Voyant Tools</i></span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- Slides (coming soon!)
 <!-- - Reflection: -->
   <!-- - [Underwood, Ted. “A Genealogy of Distant Reading.”](https://app.perusall.com/courses/introdh24/underwood_2017_a-genealogy-of-distant-reading) _Digital Humanities Quarterly_, vol. 11, no. 2, 2017. -->
   <!-- - [Tahmasebi, Nina. _The Strengths and Pitfalls of Large-Scale Text Mining for Literary Studies_.](https://app.perusall.com/courses/introdh24/nina-tahmasebi-synergies-28-september-2020-327043682) Synergies Conference. Copenhagen, 28 September 2020. -->
@@ -29,7 +29,7 @@ This week begins with a hands-on lab session where we will be leveraging the web
     <span class="session-title">Data Biographies</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1BAmyN0Ae49z0WVs-8rbH69WEwNfvCDsXDiWqi2ZY90c/edit?usp=sharing)
   - On this day, students will present their Data Biographies. This is a chance to share the intriguing stories behind the datasets you've explored!
   - Each presentation should last approximately -- but also no more than -- **4 minutes**, followed by a brief (~1 minute) Q&A/feedback session.
   - Focus on the **narrative** of your Data Biography, presenting on aspects you find interesting, such as origin, collector(s), collection method(s), intended use, and any limitations or ethical considerations.
