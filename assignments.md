@@ -67,6 +67,7 @@ Some additional notes:
 - Krause's [template spreadsheet](https://docs.google.com/spreadsheets/d/1Ych5dzBfGLoQGYb-Jtq6VMn0PKdj_Y_tk6nGjopEduw/edit#gid=0) is a useful starting point, but your final Data Biography should extend beyond this, bringing this information together into a coherent narrative.
 - Digging deep is key for this assignment. You might need to delve into project details, read through "About" or "Methodology" sections, or document the absence of information.
 - Feel free to expand upon Krause's template, considering additional categories like data format, processing steps, data dictionaries, and layers of mediation.
+- For inspiration, you can take a look at [this example](https://drive.google.com/file/d/1RzDI61iU--eWzE39vY_EiaYGokq6cVTS/view?usp=sharing) of a Data Biography for the [COVID-19 Tracking Data](https://covidtracking.com/), or [this example](https://drive.google.com/file/d/17NSf3gd9l8WJUglok2xeZeeBInvI0Ceh/view?usp=sharing) for the [Shipwrecks dataset](https://oxrep.classics.ox.ac.uk/databases/shipwrecks_database/). These examples represent good Data Biographies; they give you a strong sense of what is expected in terms of structure and content, but keep in mind that they are not perfect. Use them as a guide to understand the scope of the assignment, while also thinking critically about how you can improve or add depth to your own Data Biography!
 
 You will submit a reflection paper of between 1000 to 1500 words (~3 to 5 pages), that includes:
 
