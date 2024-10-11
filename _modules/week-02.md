@@ -36,9 +36,9 @@ This week we survey the expansive terrain of Digital Humanities. First, we'll en
   </summary>
   <div markdown="1">
 - [Slides](https://docs.google.com/presentation/d/1BuJQisWHE5voMgtOXb-phbj_Ls9Cr9BmOn8Ke7wMwUE/edit?usp=sharing) by Sarah Reiff Conell.
-- Pre-Class Perusall Annotation(no Slack reflection, just annotations on Perusall!)
+- Pre-Class Perusall Annotation (no Slack reflection, just annotations on Perusall!)
   - [Drucker, Johanna. “Humanities Approaches to Graphical Display.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/humanities-approaches-to-graphical-display-3308149) _Digital Humanities Quarterly_, vol. 5, no. 1, 2011.
-  - **Make sure your annotations are added in Perusall** <a style="color: #ee6374;">**on the day before our class later.**</a>
+  - **Make sure your annotations are added in Perusall** <a style="color: #ee6374;">**on the day before our class.**</a>
   <!-- - [Manovich, Lev. “Database as Symbolic Form.”](https://app.perusall.com/courses/introdh24/manovich_1999_database-as-symbolic-form) _Convergence: The International Journal of Research into New Media Technologies_, vol. 5, no. 2, June 1999, pp. 80–99. -->
   <!-- - [Pomerantz, Jeffrey. “Introduction.”](https://app.perusall.com/courses/introdh24/pomerantz_2015_introduction) _Metadata_, The MIT Press, 2015, pp. 1–18. -->
   <!-- - [Gebru, Timnit, et al. “Datasheets for Datasets.”](https://app.perusall.com/courses/introdh24/datasheets-for-datasets-846236723) _Communications of the ACM_, vol. 64, no. 12, Dec. 2021, pp. 86–92. -->

@@ -14,10 +14,10 @@ In this module, we will discover the world of stylometry, a field that probes th
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-<!-- - Pre-Class Reflection -->
-  <!-- - [Whissell, Cynthia. “Traditional and Emotional Stylometric Analysis of the Songs of Beatles Paul McCartney and John Lennon.”](https://app.perusall.com/courses/introdh24/whissell-1996-traditional-and-emotional-stylometric-analysis-of) _Computers and the Humanities_, vol. 30, no. 3, 1996, pp. 257–65. -->
-  <!-- - [Holmes, David I., and Judit Kardos. “Who Was the Author? An Introduction to Stylometry.”](https://app.perusall.com/courses/introdh24/holmes_kardos_2003_who-was-the-author) _Chance_, vol. 16, no. 2, 2003, pp. 5–8. -->
-  <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
+- Pre-Class Perusall Annotation (no Slack reflection, just annotations on Perusall!)
+  - [Whissell, Cynthia. “Traditional and Emotional Stylometric Analysis of the Songs of Beatles Paul McCartney and John Lennon.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/whissell-1996-traditional-and-emotional-stylometric-analysis-of) _Computers and the Humanities_, vol. 30, no. 3, 1996, pp. 257–65.
+  - [Holmes, David I., and Judit Kardos. “Who Was the Author? An Introduction to Stylometry.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/holmes_kardos_2003_who-was-the-author) _Chance_, vol. 16, no. 2, 2003, pp. 5–8.
+  - **Make sure your annotations are added in Perusall** <a style="color: #ee6374;">**on the day before our class.**</a>
 </div>
 </details>
 
