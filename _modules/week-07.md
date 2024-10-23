@@ -11,7 +11,7 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
     <span class="session-title">Topic Modeling</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/15W3Ij0SdhUfblqUoO7GtXnJTavciqCqB8MMuLgRhrw0/edit?usp=sharing)
 - Pre-Class Reflection <small>&rarr; **no Perusall annotations required for these readings!**</small>
   - [Froehlich, Heather. _Moby Dick Is About Whales, or Why Should We Count Words?_](https://hfroehli.ch/2019/09/27/moby-dick-is-about-whales-or-why-should-we-count-words/).
   - [Blei, David M. “Topic Modeling and Digital Humanities.”](https://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/) _Journal of Digital Humanities_, vol. 2, no. 1, 2012.
