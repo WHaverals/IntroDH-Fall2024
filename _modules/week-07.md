@@ -29,7 +29,7 @@ Topic modeling is a useful tool for exploring large collections of text. It can 
     <span class="session-title">Topic Modeling with <i>jsLDA</i></span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://drive.google.com/file/d/1vXyPYFKXoxhn6AyXxQggN8UFasrZjCeS/view?usp=sharing)
 - Data, and other resources (prepared and taught by [dr. Laure Thompson](https://cdh.princeton.edu/people/laure-thompson/)):
   - [jsLDA website](https://mimno.infosci.cornell.edu/jsLDA/)
   - [Data](https://drive.google.com/drive/folders/10Wg9n4IutZanknePYxOSONTGm0lseFep?usp=sharing)
