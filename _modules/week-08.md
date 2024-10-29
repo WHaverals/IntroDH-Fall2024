@@ -30,7 +30,7 @@ In this module, we will discover the world of stylometry, a field that probes th
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-- Pre-Class Reflection:
+- Pre-Class Reflection (no Perusall annotations, just a reflection on Slack!):
   - [Binongo, José Nilo G. “Who Wrote the 15th Book of Oz? An Application of Multivariate Analysis to Authorship Attribution.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/binongo_2003_who-wrote-the-15th-book-of-oz) _Chance_, vol. 16, no. 2, Mar. 2003, pp. 9–17.
 
     {: .notice-disclaimer }
@@ -41,9 +41,6 @@ In this module, we will discover the world of stylometry, a field that probes th
   - [Juola, Patrick. “Rowling and ‘Galbraith’: An Authorial Analysis.”](https://languagelog.ldc.upenn.edu/nll/?p=5315) _Language Log_, 2013.
   - [McNamara, Mary. “Commentary: Here’s an Idea: Maybe If We All Stop Talking about J.K. Rowling, She’ll Just Go Away.”](https://www.latimes.com/entertainment-arts/story/2023-02-21/jk-rowling-witch-trials-podcast-transphobia-commentary) _Los Angeles Times_, 21 Feb. 2023.
   - [Dederer, Claire. “Chapter 3. The Fan.” _Monsters. A Fan’s Dilemma_](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/dederer_2023_chapter-3), Alfred A. Knopf, 2023. 
-  
-    <small>&rarr; Perusall annotations not required for the readings on Rowling.</small>
-  
   - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 
 </div>
