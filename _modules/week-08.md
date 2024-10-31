@@ -29,7 +29,7 @@ In this module, we will discover the world of stylometry, a field that probes th
     <span class="session-title">Authorship Attribution with <i>Stylo</i></span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1M7cfOSin3GrCMOetfR9O21DOe7aselbejfy_m4SXszI/edit?usp=sharing)
 - Pre-Class Reflection (no Perusall annotations, just a reflection on Slack!):
   - [Binongo, José Nilo G. “Who Wrote the 15th Book of Oz? An Application of Multivariate Analysis to Authorship Attribution.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/binongo_2003_who-wrote-the-15th-book-of-oz) _Chance_, vol. 16, no. 2, Mar. 2003, pp. 9–17.
 
