@@ -30,6 +30,7 @@ This week, we continue our exploration of visualization in Digital Humanities wi
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
+  - Please install the free, open-source program *Gephi* on your computer before class. You can download the software [here](https://gephi.org/).
 <!-- - Pre-Class Reflection -->
   <!-- - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011. -->
   <!-- - [Rhodes Ii, Mark Alan. “Paul Robeson’s Place in YouTube: A Social Spatial Network Analysis of Digital Heritage.”](https://app.perusall.com/courses/introdh24/paul-robeson-s-place-in-youtube-a-social-spatial-network-analysis-of-digital-heritage) _Digital Scholarship in the Humanities_, vol. 34, no. 1, Apr. 2019, pp. 174–88. -->
