@@ -11,7 +11,7 @@ This module introduces the hands-on dimension of Digital Humanities research, fo
     <span class="session-title">Makerspace</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- We will meet at the [**Makerspace**](https://library.princeton.edu/services/makerspace) in the Lewis Science Library, A-level at 11:00AM.
 <!-- - Pre-Class Reflection: -->
   <!-- - McCandless, David. _The Beauty of Data Visualization_. TEDGlobal 2010. [Video](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization). -->
   <!-- <div style="max-width:854px; margin: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden;"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/david_mccandless_the_beauty_of_data_visualization" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div> -->
