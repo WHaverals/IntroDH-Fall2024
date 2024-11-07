@@ -29,7 +29,7 @@ This week, we continue our exploration of visualization in Digital Humanities wi
     <span class="session-title">Network Analysis II</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1ZuUqMttRBWDqcwrEOH7H10mJG_QhKPcQWiem0wluYU4/edit?usp=sharing)
   - Please install the free, open-source program *Gephi* on your computer before class. You can download the software [here](https://gephi.org/).
 <!-- - Pre-Class Reflection -->
   <!-- - [Weingart, Scott B. “Demystifying Networks, Parts I & II.”](https://app.perusall.com/courses/introdh24/demystifying-networks-parts-i-and-ii-journal-of-digital-humanities-339819935) _Journal of Digital Humanities_, vol. 1, no. 1, 2011. -->
