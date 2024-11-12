@@ -38,9 +38,9 @@ This module introduces the hands-on dimension of Digital Humanities research, fo
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-- Pre-Class Reflection and Perusall Annotations (only Perusall annotations for the first reading!):
+- Pre-Class Reflection and Perusall Annotations (Perusall annotations only required for the first—Presner et al. (2014)—reading!):
   - Presner, Todd Samuel, et al. [*HyperCities: Thick Mapping in the Digital Humanities*](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/presner-et-al_2014_hypercities). Harvard University Press, 2014. Read the following chapters: *Lexicon* (pp. 12-21) & *Thick Mapping in the Digital Humanities* (pp. 49-65).
-  - Spend some time on this webiste [**Mapping Inequality**](https://dsl.richmond.edu/panorama/redlining) and explore the maps and data visualizations.
+  - Spend some time on this webiste [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining) and explore the maps and data visualizations.
 
   <!-- - [Bond, E., Sarah. “Mapping Racism And Assessing the Success of the Digital Humanities.”](https://sarahemilybond.com/2017/10/20/mapping-racism-and-assessing-the-success-of-the-digital-humanities/) _History From Below_, 20 Oct. 2017. -->
   <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
