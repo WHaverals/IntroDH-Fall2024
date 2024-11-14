@@ -37,7 +37,7 @@ This module introduces the hands-on dimension of Digital Humanities research, fo
     <span class="session-title">GIS</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1ilv2FqztGen0HzWoudByF1GLziZcoq2xSOa9BfZHxr8/edit?usp=sharing)
 - Pre-Class Reflection and Perusall Annotations (Perusall annotations only required for the first—Presner et al. (2014)—reading!):
   - Presner, Todd Samuel, et al. [*HyperCities: Thick Mapping in the Digital Humanities*](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/presner-et-al_2014_hypercities). Harvard University Press, 2014. Read the following chapters: *Lexicon* (pp. 12-21) & *Thick Mapping in the Digital Humanities* (pp. 49-65).
   - Spend some time on this webiste [*Mapping Inequality*](https://dsl.richmond.edu/panorama/redlining) and explore the maps and data visualizations.
