@@ -22,7 +22,7 @@ else:
     <span class="arrow">↪</span>
     <span class="date-label">Nov 19</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Intellectual Property Rights</span>
+    <span class="session-title">Annotating Diversity in Children's Literature</span>
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
