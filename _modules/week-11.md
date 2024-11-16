@@ -1,8 +1,10 @@
 ---
-title: Week 11 - Python for the Curious
+title: Week 11 - Guest Lecture & Python for the Curious
 ---
 
-This week, we will look at the role of coding in the humanities with a gentle introduction to Python, a programming language as approachable as it is powerful. Our two sessions will provide a panoramic view of Python's syntax and its practical applications in Humanities research. Through hands-on exercises, we'll learn to appreciate the role of code in analyzing texts, visualizing data, and perhaps most importantly, in sharpening our critical thinking about coding literacy. Ultimately, the goal of this week is to get a taste of programming in Python, with fear being an exception that is not allowed to interrupt the process.
+In the first session this week, we welcome a guest discussion led by Paavo Van der Eecken (University of Antwerp), a visiting Fulbright scholar working in Digital Humanities. Paavo’s research focuses on the annotation of age, race, class, and gender in the illustrations of historical children’s literature. His talk will provide insights into how data-driven approaches intersect with the study of visual and cultural representation.
+
+The second session will explore the role of coding in the humanities with a gentle introduction to Python, a programming language as approachable as it is powerful. Our session will provide a panoramic view of Python's syntax and its practical applications in Humanities research. Ultimately, the goal of this week is to get a taste of programming in Python, with fear being an exception that is not allowed to interrupt the process.
 
 Or, stated in a Pythonic way:
 
@@ -24,10 +26,10 @@ else:
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-<!-- - Pre-Class Reading (<span style="color: #FA795A;">no Perusall annotations or reflection required!</span>): -->
-  <!-- - [Haggerty, Kenneth. “Intellectual Property Guidelines for the Digital Humanities.”](https://app.perusall.com/courses/introdh24/haggerty_2020_intellectual-property-guidelines-for-the-digital-humanities) _Routledge International Handbook of Research Methods in Digital Humanities_, edited by Kristen Schuster and Stuart Dunn, Routledge, 2020, pp. 428–40. -->
-  <!-- - [Lerner, Ben. “The Hofmann Wobble. Wikipedia and the Problem of Historical Memory.”](https://app.perusall.com/courses/introdh24/lerner_2023_the-hofmann-wobble2-copy) _Harper’s Magazine_, vol. 347, no. 2083, Dec. 2023, pp. 23–32. -->
-  <!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
+- Pre-Class Reading (no Perusall annotations required, only a reflection on Slack!):
+  - [Edmond, Jennifer. “Managing Uncertainty in the Humanities: Digital and Analogue Approaches.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/edmond-2018-managing-uncertainty-in-the-humanities-digital-an) *Proceedings of the Sixth International Conference on Technological Ecosystems for Enhancing Multiculturality*, ACM, 2018, pp. 840–44.
+  - [Scheuerman, Morgan Klaus, et al. “Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development.”](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/do-datasets-have-politics-disciplinary-values-in-computer-vision-dataset-development-636786287) *Proceedings of the ACM on Human-Computer Interaction*, vol. 5, no. CSCW2, Oct. 2021, pp. 1–37.
+  - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 </div>
 </details>
 
