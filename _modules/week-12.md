@@ -32,12 +32,11 @@ In our concluding week, we will revisit the topics explored throughout the semes
   <div markdown="1">
 - **No live class** will be held for this session.
 - **Instead, submit a 4~5 minute work-in-progress video presentation** detailing the current state of your final assignment. This is an opportunity to share ideas, express doubts, and gather feedback from your peers and instructor.
-- **What to include in your presentation**  
-  - Consider addressing the following points:  
-    1. Narrative/research question/hypothesis/reasons why your project is important
-    2. Dataset identification and collection/potential issues with the data (with or without solutions)
-    3. DH methods/tools/frameworks that you are considering implementing
-    4. Challenges you are facing
+- **Consider addressing the following points in your presentation**  
+  1. Narrative/research question/hypothesis/reasons why your project is important
+  2. Dataset identification and collection/potential issues with the data (with or without solutions)
+  3. DH methods/tools/frameworks that you are considering implementing
+  4. Challenges you are facing
 - **Submission guidelines**  
   - Videos must be uploaded to the designated folder (referenced on Slack, link coming soon!) by <a style="color: #ee6374;">11:59 PM on Dec 4</a>.  
   - Name your file as: `Lastname_Firstname_PresentationTitle.mov|mp4|...`.  
@@ -45,7 +44,7 @@ In our concluding week, we will revisit the topics explored throughout the semes
   - You may use any recording software (e.g., Zoom, QuickTime).  
   - While optional, using slides or screen sharing to support your points is highly recommended.
 - **Feedback expectations**  
-  - Videos will be shared on *Perusall* for asynchronous peer feedback and discussion.  
+  - Videos will be shared on *Perusall* for asynchronous peer feedback and discussion. Link will be shared here once all videos are collected! 
   - You are required to provide feedback on at least **two peer presentations** using a rubric that will be shared in advance.
   - Peer feedback is due by <a style="color: #ee6374;">11:59 PM on Dec 6</a>.
 - **Once again...**
