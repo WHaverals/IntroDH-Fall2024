@@ -1,7 +1,8 @@
 ---
 title: Week 12 - Roles, Responsibilities, and the Future
 ---
-In this concluding week, we begin by exploring the ethical dimensions of Digital Humanities, with a focus on critical issues such as algorithmic bias and transparency in the age of AI. We confront these developments by analyzing their impacts, potential, and the risks they create. In the final session, students will showcase the progress of their own research proposals, which involves elements of data collection, preparation, and analysis methods. Colleagues from the Center for Digital Humanities at Princeton University are invited, providing an opportunity for everyone to gain feedback on their proposals.
+
+In our concluding week, we will revisit the topics explored throughout the semester, reflecting on the ethical dimensions of Digital Humanities and considering critical issues such as algorithmic bias and transparency in the age of AI. This will help frame the ongoing and future work of (digital) humanities scholars. **The first session (Dec. 3) will be held remotely** and will feature a discussion-based format, providing an opportunity to wrap up the class, ask final questions, and look ahead. **For the second session (Dec. 5), there will be no live class**. Instead, you will submit and asynchronously review recorded work-in-progress presentations.
 
 <details>
   <summary class="session-summary">
@@ -12,15 +13,12 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-<!-- - Pre-Class Reflection (<span style="color: #FA795A;">no Perusall annotations required!</span>) -->
-<!-- - [Presner, Todd, et al. _Digital Humanities Manifesto 2.0_.](https://app.perusall.com/courses/introdh24/presner-et-al-2009-digital-humanities-manifesto-2-0) 2009, pp. 1–15. -->
-<!-- - [Catherine D'Ignazio, Lauren Klein, _Data Feminism: What Does Feminist Data Science Look Like?_](https://www.youtube.com/watch?v=guIxU_hK4aY) LSE Online Event. Chair: Fiona Steele. 2021. YouTube. -->
-<!-- - **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a> -->
+- No live class! You'll be able to click here for the Zoom Link soon!
+- Pre-Class Reflection (no Perusall annotations required, only a reflection on Slack!):
+  - [Presner, Todd, et al. _Digital Humanities Manifesto 2.0_.](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/presner-et-al-2009-digital-humanities-manifesto-2-0) 2009, pp. 1–15.
+  - [Lauren Klein, _Data Feminism for AI_](https://youtu.be/p9vbNA5_t44), SJSU Digital Humanities Center. October 17, 2024.
+- **Post your reflection in the** <a href="https://introtodh-fall2024.slack.com/archives/C07JYA7QTM0" style="color: #ee6374;">**#reflections** </a>**channel on Slack** <a style="color: #ee6374;">**no later than 11:59PM on the day before our class.**</a>
 
-
-  <!-- - [Listen to this podcast episode of _Tech Won't Save Us_](https://www.techwontsave.us/episode/163_chatgpt_is_not_intelligent_w_emily_m_bender), where Emily Bender (Professor in the Department of Linguistics at the University of Washington and the Faculty Director of the Computational Linguistics Master's Program) discusses what it means to say that ChatGPT is a "stochastic parrot".
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ILGlkAXAt4xfuKHwIV2on?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
-  
 </div>
 </details>
 
@@ -32,6 +30,25 @@ In this concluding week, we begin by exploring the ethical dimensions of Digital
     <span class="session-title">Work-in-Progress Presentations</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- **No live class** will be held for this session.
+- **Instead, submit a 4~5 minute work-in-progress video presentation** detailing the current state of your final assignment. This is an opportunity to share ideas, express doubts, and gather feedback from your peers and instructor.
+- **What to include in your presentation**  
+  - Consider addressing the following points:  
+    1. Narrative/research question/hypothesis/reasons why your project is important
+    2. Dataset identification and collection/potential issues with the data (with or without solutions)
+    3. DH methods/tools/frameworks that you are considering implementing
+    4. Challenges you are facing
+- **Submission guidelines**  
+  - Videos must be uploaded to the designated folder (referenced on Slack, link coming soon!) by <a style="color: #ee6374;">11:59 PM on Dec 4</a>.  
+  - Name your file as: `Lastname_Firstname_PresentationTitle.mov|mp4|...`.  
+  - Keep your presentation within the 5-minute limit.  
+  - You may use any recording software (e.g., Zoom, QuickTime).  
+  - While optional, using slides or screen sharing to support your points is highly recommended.
+- **Feedback expectations**  
+  - Videos will be shared on *Perusall* for asynchronous peer feedback and discussion.  
+  - You are required to provide feedback on at least **two peer presentations** using a rubric that will be shared in advance.
+  - Peer feedback is due by <a style="color: #ee6374;">11:59 PM on Dec 6</a>.
+- **Once again...**
+  -  The video presentation is a **work-in-progress**!, so it is 100% okay if you are still figuring out some of the specifics of your project! Use the opportunity to ask questions and refine your ideas. 
 </div>
 </details>
