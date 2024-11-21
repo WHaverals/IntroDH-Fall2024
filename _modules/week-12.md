@@ -9,7 +9,7 @@ In our concluding week, we will revisit the topics explored throughout the semes
     <span class="arrow">↪</span>
     <span class="date-label">Dec 3</span>
     <span class="label label-blue">Discussion</span>
-    <span class="session-title">Ethical Considerations</span>
+    <span class="session-title">Roles & Responsibilities</span>
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
@@ -48,6 +48,6 @@ In our concluding week, we will revisit the topics explored throughout the semes
   - You are required to provide feedback on at least **two peer presentations** using a rubric that will be shared in advance.
   - Peer feedback is due by <a style="color: #ee6374;">11:59 PM on Dec 6</a>.
 - **Once again...**
-  -  The video presentation is a **work-in-progress**!, so it is 100% okay if you are still figuring out some of the specifics of your project! Use the opportunity to ask questions and refine your ideas. 
+  -  The video presentation shows your **work-in-progress**, so it is 100% okay if you are still figuring out some of the specifics of your project! Use the opportunity to put forward questions/doubt and explore your ideas.
 </div>
 </details>
