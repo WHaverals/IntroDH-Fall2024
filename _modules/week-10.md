@@ -7,7 +7,7 @@ This module introduces the hands-on dimension of Digital Humanities research, fo
   <summary class="session-summary">
     <span class="arrow">↪</span>
     <span class="date-label">Nov 12</span>
-    <span class="label label-green">Field Trip</span>
+    <span class="label label-yellow">Field Trip</span>
     <span class="session-title">Makerspace</span>
   </summary>
   <div markdown="1">
