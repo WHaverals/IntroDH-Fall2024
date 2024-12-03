@@ -13,7 +13,7 @@ In our concluding week, we will revisit the topics explored throughout the semes
   </summary>
   <div markdown="1">
 - Slides (_coming soon!_)
-- No live class! You'll be able to click here for the Zoom Link soon!
+- No live class! [Click here for the Zoom link!](https://princeton.zoom.us/j/93767126934)
 - Pre-Class Reflection (no Perusall annotations required, only a reflection on Slack!):
   - [Presner, Todd, et al. _Digital Humanities Manifesto 2.0_.](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/presner-et-al-2009-digital-humanities-manifesto-2-0) 2009, pp. 1–15.
   - [Lauren Klein, _Data Feminism for AI_](https://youtu.be/p9vbNA5_t44), SJSU Digital Humanities Center. October 17, 2024.
