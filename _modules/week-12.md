@@ -12,7 +12,7 @@ In our concluding week, we will revisit the topics explored throughout the semes
     <span class="session-title">Roles & Responsibilities</span>
   </summary>
   <div markdown="1">
-- Slides (_coming soon!_)
+- [Slides](https://docs.google.com/presentation/d/1D7FxuFp3XREm7g8rJHS2CI7xN_2DS-elE8Wfdqcgado/edit?usp=sharing)
 - No live class! [Click here for the Zoom link!](https://princeton.zoom.us/j/93767126934)
 - Pre-Class Reflection (no Perusall annotations required, only a reflection on Slack!):
   - [Presner, Todd, et al. _Digital Humanities Manifesto 2.0_.](https://app.perusall.com/courses/intro-to-digital-humanities-fall-2024/presner-et-al-2009-digital-humanities-manifesto-2-0) 2009, pp. 1–15.
