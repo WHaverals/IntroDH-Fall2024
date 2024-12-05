@@ -38,7 +38,7 @@ In our concluding week, we will revisit the topics explored throughout the semes
   3. DH methods/tools/frameworks that you are considering implementing
   4. Challenges you are facing
 - **Submission guidelines**  
-  - Videos must be uploaded to the designated folder (referenced on Slack, link coming soon!) by <a style="color: #ee6374;">11:59 PM on Dec 4</a>.  
+  - Videos must be uploaded to the designated folder (referenced on Slack, see [here](https://introtodh-fall2024.slack.com/archives/C07JRLQ15RU/p1733154008804909)) by <a style="color: #ee6374;">11:59 PM on Dec 4</a>.  
   - Name your file as: `Lastname_Firstname_PresentationTitle.mov|mp4|...`.  
   - Keep your presentation within the 5-minute limit.  
   - You may use any recording software (e.g., Zoom, QuickTime).  
