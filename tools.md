@@ -69,6 +69,7 @@ Remember to explore each tool and dataset to see how they can best fit into your
 - **[GeoJSON.io](http://geojson.io/)**: Open-source web visual map editor for GeoJSON files.
 - **[Mapshaper](https://mapshaper.org/)**: A tool for editing Shapefile, GeoJSON, TopoJSON, and CSV files.
 - **[HistoGIS](https://histogis.acdh.oeaw.ac.at/shapes/shapes/)**: Historical Central European borders as GeoJSON.
+- **[Neatline](https://neatline.org/)**: A geotemporal exhibit builder.
 
 ### Image Analysis
 - **[ImageJ](https://imagej.net/)**: A public domain Java image processing program.
